@@ -1,0 +1,7 @@
+# File tạm / trích xuất
+pdf_extract.txt
+image_converted.png
+__pycache__/
+
+# PDF gốc (~174MB, có bản quyền) — giữ local, không đưa lên git
+*.pdf
