@@ -1,0 +1,2194 @@
+[
+  {
+    "slug": "stance-orthodox",
+    "name_vi": "Thế orthodox",
+    "name_en": "Orthodox Stance",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐",
+    "tags": "Solo / nền tảng / thế đấm",
+    "situation": "Thế orthodox là tư thế chuẩn cho võ sĩ thuận tay: chân trái (tay dẫn) hướng về phía trước, chân phải (tay sau) lùi khoảng một bước ngắn, góc khoảng 45°. Trọng tâm nằm giữa hai bàn chân, gối hơi co để di chuyển nhanh. Tay trái ở trước mặt, tay phải sát cằm — đây là khung bảo vệ cơ bản trước mọi đòn. Lỗi phổ biến: đứng quá thẳng (mất cân bằng khi bị đẩy), hai chân quá hẹp (dễ bị vặt), hoặc nghiêng quá nhiều khiến cross khó phát lực. Khi tập solo, hãy đứng trước gương và kiểm tra vai–hông–bàn chân thẳng hàng. Thế orthodox phù hợp khi bạn muốn dùng jab tầm xa, kiểm soát khoảng cách, hoặc áp lực bằng tay dẫn liên tục. Mọi footwork, phòng thủ và combo đều xuất phát từ thế này — nếu thế sai, toàn bộ hệ thống kỹ thuật sẽ lệch.",
+    "defense": "Đối thủ orthodox thuận tay sẽ dùng jab tay trái đo khoảng cách và cross tay phải làm đòn chính. Để khai thác: di chuyển sang phải (hướng tay sau của họ) để né cross, hoặc bước chéo vào giữa để lấy góc. Đừng đứng thẳng hàng với jab của họ — đó là đường thẳng nguy hiểm nhất. Nếu họ nghiêng quá, tấn công thân hoặc hook vào tay dẫn. Phòng thủ bằng cách giữ tay sau cao, slip ra ngoài jab, và luôn sẵn sàng counter cross khi họ over-commit.",
+    "video_attack": {
+      "title": "BOXING STANCE - bladed vs squared",
+      "url": "https://www.youtube.com/watch?v=szjhVsr7Ync"
+    },
+    "video_defense": {
+      "title": "Southpaw Boxing Stance - basic technique",
+      "url": "https://www.youtube.com/watch?v=R7kuzFX4Z24"
+    },
+    "sources": [
+      "[Expert Boxing — Boxing Stance](https://expertboxing.com/boxing-stance)",
+      "[Boxing Life — Fundamentals](https://www.youtube.com/watch?v=aoYVawF8F8A)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "stance-southpaw",
+    "name_vi": "Thế southpaw",
+    "name_en": "Southpaw Stance",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐",
+    "tags": "Solo / nền tảng / thuận trái",
+    "situation": "Southpaw là thế đối lập orthodox: chân phải (tay dẫn) ở trước, chân trái (tay sau) lùi. Võ sĩ thuận trái bắt buộc phải thành thạo thế này vì mọi đòn, footwork và phòng thủ đều đảo ngược so với đa số đối thủ thuận tay. Ưu điểm southpaw: góc tấn công khác biệt, cross và hook tay sau bất ngờ hơn với đối thủ quen đánh orthodox. Lỗi thường gặp: copy y nguyên kỹ thuật orthodox mà không đảo chân, hoặc đứng quá vuông khiến thân hở. Khi tập solo, shadowbox và kiểm tra jab tay phải, pivot quanh chân trước, và giữ tay trái (sau) sát cằm. Trong sparring, southpaw thường gặp trận 'southpaw vs orthodox' — cần hiểu ai chiếm outside foot position. Thế southpaw cũng ảnh hưởng cách cut ring và clinch: chân trước phải luôn sẵn sàng pivot thoát đường cross đối phương.",
+    "defense": "Khi đối đầu southpaw, orthodox nên giữ chân trái (tay dẫn) ở outside — tức bên ngoài chân trước đối thủ — để lấy góc cross và tránh bị jab chặn tầm nhìn. Tránh đứng song song hai chân trước (foot position bằng nhau) vì dễ bị hook và liver shot. Jab tay trái vào tay dẫn của southpaw để 'tie up' và phá thế. Slip về phía tay sau của bạn (trái) khi họ cross. Nếu southpaw áp sát, pivot sang phải để thoát đường hook tay phải của họ.",
+    "video_attack": {
+      "title": "Southpaw Boxing Stance - basic technique",
+      "url": "https://www.youtube.com/watch?v=R7kuzFX4Z24"
+    },
+    "video_defense": {
+      "title": "Southpaw Boxing Technique - BASIC JAB",
+      "url": "https://www.youtube.com/watch?v=G7YMlzwiwtA"
+    },
+    "sources": [
+      "[Expert Boxing — Southpaw Guide](https://expertboxing.com/southpaw-boxing-guide)",
+      "[Boxing Life — Southpaw Fundamentals](https://www.youtube.com/watch?v=aoYVawF8F8A)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "guard-hands",
+    "name_vi": "Guard tay cao",
+    "name_en": "High Hand Guard",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐",
+    "tags": "Solo / phòng thủ / guard",
+    "situation": "Guard tay cao là tư thế hai tay che vùng cằm–thái dương, khuỷu hơi khép vào thân. Đây là khung bảo vệ mặc định khi không tấn công — mọi đòn phải xuất phát từ guard và quay về guard ngay sau khi đấm. Tay dẫn có thể hơi duỗi để đo tầm (long guard nhẹ) nhưng không được hạ thấp. Lỗi phổ biến: hạ tay sau khi jab (bị counter cross), khuỷu bung quá rộng (hở sườn), hoặc guard quá cứng khiến phản xạ chậm. Tập solo bằng cách shadowbox với gương: mỗi cú đấm phải quay về vị trí ban đầu trong một nhịp. Guard phù hợp ở tầm trung và gần; ở tầm xa có thể nới tay dẫn. Hiểu guard là nền tảng trước khi học slip, parry hay shoulder roll — không guard tốt thì mọi head movement đều rủi ro.",
+    "defense": "Để phá guard cao: tấn công thân (body jab, hook bụng) để buộc tay hạ, rồi đánh đầu. Feint thân trước khi overhand hoặc hook vòng trên. Double jab để mở khe hở giữa hai tay. Ở tầm gần, uppercut giữa hai tay guard hoặc hook vòng ngoài khuỷu. Đừng spam cross vào giữa guard — tốn sức và dễ bị parry. Thay vào đó, đổi level và angle.",
+    "video_attack": {
+      "title": "M4 | Hands Up | Fundamentals and Tactics",
+      "url": "https://www.youtube.com/watch?v=4OKkRQm46Bw"
+    },
+    "video_defense": {
+      "title": "Know the Pros and Cons of your GUARD",
+      "url": "https://www.youtube.com/watch?v=Kwo7iSA_MIA"
+    },
+    "sources": [
+      "[Precision Striking — Guard Fundamentals](https://precisionstriking.com/boxing-guard/)",
+      "[Expert Boxing — High Guard](https://expertboxing.com/high-guard-boxing)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "footwork-basics",
+    "name_vi": "Footwork cơ bản",
+    "name_en": "Basic Footwork",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐",
+    "tags": "Solo / di chuyển / nền tảng",
+    "situation": "Footwork là xương sống của boxing — không phải tay nhanh mà là chân đặt đúng chỗ mới tạo ra đòn hiệu quả và phòng thủ an toàn. Nguyên tắc vàng: bước chân trước trước, chân sau theo; không bao giờ cross chân (chéo chân) trừ pivot có chủ đích. Tiến: chân trước bước, chân sau kéo theo giữ khoảng cách thế. Lùi: chân sau lùi trước, chân trước theo. Sang trái/phải: chân cùng phía di chuyển trước. Lỗi phổ biến: nhảy (mất cân bằng), bước quá dài (khó quay về guard), hoặc đứng yên khi đấm. Tập bằng gạch/chalk trên sàn: bước–jab, lùi–slip. Footwork cơ bản phải thành phản xạ trước khi vào combo phức tạp hay sparring.",
+    "defense": "Đối thủ footwork tốt sẽ khó bị bắt — họ luôn ở tầm jab và thoát trước combo của bạn. Để đối phó: cut ring (bước chéo chặn lối thoát), feint để freeze chân họ, hoặc tấn công thân để buộc họ đứng lại. Nếu họ lùi liên tục, đừng đuổi bằng cross dài — bước chân trước vào giữa và jab. Phá pivot bằng cách áp sát ngay sau khi họ pivot, không cho reset góc.",
+    "video_attack": {
+      "title": "Learn Boxing Footwork in 3 Minutes (Part 1/3: Basics)",
+      "url": "https://www.youtube.com/watch?v=BDuTGIx5qy8"
+    },
+    "video_defense": {
+      "title": "These 6 Steps Will Change the Way You Look at Boxing Footwork",
+      "url": "https://www.youtube.com/watch?v=TdatF03Gb4Q"
+    },
+    "sources": [
+      "[fightTIPS — Footwork Series](https://www.youtube.com/@Fighttips)",
+      "[Expert Boxing — Footwork Basics](https://expertboxing.com/boxing-footwork)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "pivot-angle",
+    "name_vi": "Pivot và đổi góc",
+    "name_en": "Pivot and Angle Change",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐⭐",
+    "tags": "Solo / footwork / góc",
+    "situation": "Pivot là xoay thân quanh chân trước (hoặc sau) để đổi góc mà không lùi — kỹ thuật then chốt để thoát đường tấn công và mở góc counter. Orthodox pivot sang trái (theo chiều kim đồng hồ quanh chân trái) để né cross và ra góc hook. Pivot phải kết hợp guard và nhìn đối thủ — đừng quay lưng. Lỗi: pivot quá chậm (vẫn ăn combo), pivot không kéo chân sau (mất thế), hoặc pivot mà quên counter. Tập solo: đặt dấu trên sàn, pivot 45°–90° sau mỗi combo. Pivot hiệu quả nhất sau slip ngoài jab hoặc sau block hook. Đây là kỹ năng trung cấp nhưng nên drill sớm vì mọi counter puncher (Pacquiao, Lomachenko style) đều dựa vào pivot.",
+    "defense": "Để chặn pivot đối thủ: áp sát ngay sau khi họ bắt đầu xoay — đừng cho họ hoàn thành góc. Dùng lead foot để 'chặn' chân trước họ (step to their lead foot). Sau khi họ pivot, thường có khoảng trống 1 nhịp — tấn công ngay bằng jab hoặc hook. Nếu họ pivot sau slip, anticipate hook counter và guard tay sau cao.",
+    "video_attack": {
+      "title": "Master these 3 Footwork Patterns (Advancing, Retreating, & Angles)",
+      "url": "https://www.youtube.com/watch?v=A4xK6XqWBYk"
+    },
+    "video_defense": {
+      "title": "M13 | Defensive Angles | Fundamentals and Tactics",
+      "url": "https://www.youtube.com/watch?v=_0vhXjB_bbY"
+    },
+    "sources": [
+      "[fightTIPS — Footwork Patterns](https://www.youtube.com/watch?v=A4xK6XqWBYk)",
+      "[Precision Striking — Angles](https://precisionstriking.com/boxing-footwork/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "shadowboxing",
+    "name_vi": "Shadowboxing",
+    "name_en": "Shadowboxing",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐",
+    "tags": "Solo / luyện tập / không thiết bị",
+    "situation": "Shadowboxing là tập đấm không đối tượng — mô phỏng trận đấu với tưởng tượng đối thủ, kết hợp footwork, phòng thủ, feint và combo. Đây là cách rẻ nhất và hiệu quả nhất để luyện flow, nhịp thở và muscle memory. Mỗi buổi nên có 3–5 hiệp shadowbox: hiệp 1 chỉ footwork + jab; hiệp 2 thêm defense (slip, roll); hiệp 3 combo full. Lỗi: đấm mạnh vô nghĩa (tốn sức, form xấu), không di chuyển (đứng một chỗ), hoặc không tưởng tượng counter từ đối thủ. Shadowbox trước gương hoặc quay video để sửa form. Dùng như warm-up 5–10 phút trước bag/sparring.",
+    "defense": "Shadowboxing không có đối thủ thật nên không cần 'phòng thủ' theo nghĩa trận đấu — nhưng khi partner shadowbox, bạn có thể mirror movement để luyện timing. Trong sparring, người hay shadowbox thường có nhịp tốt hơn — exploit bằng cách thay đổi tempo đột ngột (pause rồi burst) để phá nhịp họ.",
+    "video_attack": {
+      "title": "SHADOWBOXING Routine for Boxing Competition",
+      "url": "https://www.youtube.com/watch?v=QkKXcpH5IxU"
+    },
+    "video_defense": {
+      "title": "10 MIN BOXING TRAINING AT HOME | Uppercuts, Head Movement, & Abs",
+      "url": "https://www.youtube.com/watch?v=rqklqINb7ag"
+    },
+    "sources": [
+      "[Expert Boxing — Shadowboxing Guide](https://expertboxing.com/shadowboxing)",
+      "[fightTIPS — Shadowboxing Workout](https://www.youtube.com/watch?v=2QkqWAOfdrE)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "jump-rope",
+    "name_vi": "Nhảy dây",
+    "name_en": "Jump Rope",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐",
+    "tags": "Solo / conditioning / chân",
+    "situation": "Nhảy dây phát triển cardio, timing chân và nhẹ bàn chân — kỹ năng mọi võ sĩ chuyên nghiệp đều tập hàng ngày. Bắt đầu với basic bounce (hai chân cùng nhảy nhẹ), sau đó alternate foot, double unders. Tập 3–5 hiệp 3 phút xen buổi boxing. Lỗi: nhảy quá cao (mệt nhanh), vai căng (thư giãn vai, xoay cổ tay), hoặc nhìn chân thay vì phía trước. Nhảy dây cải thiện rhythm bounce trong thế đấm và giúp recovery giữa các hiệp sparring. Không thay thế footwork drill nhưng bổ sung conditioning chân rất tốt.",
+    "defense": "Jump rope không liên quan trực tiếp phòng thủ trong trận — nhưng đối thủ có chân tốt (từ nhảy dây) sẽ khó bị corner. Để đối phó footwork nhanh: cut ring, không đuổi theo bằng cross dài, dùng body shot buộc họ giảm tempo.",
+    "video_attack": {
+      "title": "Basic JUMPROPE TIPS for Boxer's Footwork",
+      "url": "https://www.youtube.com/watch?v=QR4inob0Hok"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Expert Boxing — Jump Rope for Boxers](https://expertboxing.com/boxing-jump-rope)",
+      "[Boxing Life — Conditioning](https://www.youtube.com/watch?v=aoYVawF8F8A)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "breathing-pacing",
+    "name_vi": "Thở và nhịp đấu",
+    "name_en": "Breathing and Pacing",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐",
+    "tags": "Solo / endurance / nhịp",
+    "situation": "Thở đúng quyết định bạn giữ được sức qua 3 hiệp hay nghẹt thở sau 1 phút. Nguyên tắc: exhale (thở ra) mỗi khi đấm — thường qua miệng ngắn 'shh' hoặc 'huh'; inhale (hít vào) khi phòng thủ hoặc di chuyển. Không nín thở khi giữ guard. Pacing là phân bổ năng lượng: hiệp 1 không all-out 100%, giữ 70–80% và tăng dần. Lỗi: thở nông (cơ vai căng), thở ra quá dài (mất guard), hoặc sprint sớm rồi fade. Tập solo: shadowbox 3 hiệp với focus thở — đếm nhịp thở mỗi combo. Trong sparring, thở đều giúp đọc đối thủ rõ hơn vì não không thiếu oxy.",
+    "defense": "Đối thủ hay nín thở hoặc gồng khi tấn công — dấu hiệu sắp mệt. Tăng pressure, throw volume để buộc họ thở gấp. Body shot đặc biệt hiệu quả phá nhịp thở. Nếu đối thủ pacing tốt, đừng chase — dùng feint và counter khi họ commit.",
+    "video_attack": {
+      "title": "M1 | Breathing | Fundamentals and Tactics",
+      "url": "https://www.youtube.com/watch?v=ZcpySnPb3EU"
+    },
+    "video_defense": {
+      "title": "Better cardio than running? 30 min round of shadowboxing",
+      "url": "https://www.youtube.com/watch?v=2QkqWAOfdrE"
+    },
+    "sources": [
+      "[Precision Striking — Breathing](https://precisionstriking.com/boxing-breathing/)",
+      "[Expert Boxing — Fight Conditioning](https://expertboxing.com/boxing-conditioning)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "weight-transfer",
+    "name_vi": "Chuyển trọng lượng",
+    "name_en": "Weight Transfer",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐⭐",
+    "tags": "Solo / cơ học / lực đấm",
+    "situation": "Chuyển trọng lượng là cách biến cơ thể thành 'súng' — lực đấm không đến từ tay mà từ hông, chân và dịch chuyển trọng tâm. Cross: chuyển trọng từ chân sau sang chân trước khi xoay hông. Hook: pivot chân trước, trọng lượng sang chân pivot. Uppercut: hơi squat rồi bật lên, trọng lượng từ chân lên hông. Lỗi: chỉ vung tay (arm punch), không xoay hông, hoặc chuyển trọng quá mất cân bằng. Tập solo trước gương: đấm chậm, cảm nhận trọng lượng chuyển từ chân này sang chân kia. Heavy bag sẽ phản hồi rõ — đòn có chuyển trọng làm túi rung cả khung, đòn tay đơn chỉ rung mặt túi.",
+    "defense": "Đối thủ chuyển trọng lớn trước cross/hook — đọc được bằng hông và vai. Khi thấy load up, slip hoặc pull back rồi counter khi họ over-commit. Body shot khi họ chuyển trọng lên (sau uppercut) khiến họ mất thăng bằng. Đừng đứng chính diện khi họ load — step offline.",
+    "video_attack": {
+      "title": "Why You're Weak - 3 Mistakes KILLING Your Power",
+      "url": "https://www.youtube.com/watch?v=4f-kyantbHE"
+    },
+    "video_defense": {
+      "title": "Balance in Boxing | Power to Effort Ratio",
+      "url": "https://www.youtube.com/watch?v=D9oJ2sgsjXk"
+    },
+    "sources": [
+      "[Tony Jeffries — Punching Power](https://www.youtube.com/c/TonyJeffries1)",
+      "[Precision Striking — Balance & Power](https://precisionstriking.com/boxing-power/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "rhythm-bounce",
+    "name_vi": "Nhịp bounce",
+    "name_en": "Rhythm Bounce",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#3-solo",
+    "level": "⭐",
+    "tags": "Solo / rhythm / thế sẵn sàng",
+    "situation": "Rhythm bounce là chuyển động nhẹ lên xuống trên bàn chân — giữ chân sẵn sàng di chuyển mọi hướng. Không phải nhảy cao; chỉ shift trọng lượng giữa bàn chân trước và sau, gối hơi co. Bounce tạo feint tự nhiên (hơi hạ vai = có thể level change) và giúp explode vào jab/cross. Lỗi: bounce quá mạnh (mệt, dễ đọc), đứng cứng (chậm phản xạ), hoặc bounce khi bị corner (cần giảm bounce, tập trung footwork thoát). Tập với metronome hoặc nhạc BPM 120–140. Mọi võ sĩ có 'nhịp riêng' — Mayweather bounce nhẹ, Tyson ít bounce hơn nhưng head movement nhiều.",
+    "defense": "Đối thủ bounce đều = nhịp cố định, dễ đọc. Feint hoặc thay đổi tempo đột ngột (pause 2 giây rồi burst jab) phá nhịp. Counter ngay khi họ hạ xuống cuối bounce (khoảnh khắc chân chịu lực). Body shot khi họ bounce lên (guard hở bụng).",
+    "video_attack": {
+      "title": "Boxing Tips for the JAB - speed, feints, balance, being first",
+      "url": "https://www.youtube.com/watch?v=oPelixl8Ezw"
+    },
+    "video_defense": {
+      "title": "M2 | Rhythm | Fundamentals and Tactics",
+      "url": "https://www.youtube.com/watch?v=BQZg5tNW7yg"
+    },
+    "sources": [
+      "[Expert Boxing — Boxing Rhythm](https://expertboxing.com/boxing-rhythm)",
+      "[fightTIPS — Rhythm](https://www.youtube.com/@Fighttips)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "jab",
+    "name_vi": "Jab (đấm thẳng tay dẫn)",
+    "name_en": "Jab",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐",
+    "tags": "Punches / tay dẫn / tầm xa",
+    "situation": "Jab là đòn quan trọng nhất trong boxing — tay dẫn (trái với orthodox) đi thẳng, xoay nắm đúng, vai bảo vệ cằm. Jab dùng đo khoảng cách, phá guard, setup cross/hook, và kiểm soát nhịp trận. Có jab stiff (cứng, đẩy lùi), jab flick (nhanh, chọc mắt), và body jab. Lỗi: hạ tay sau jab (bị counter cross), jab quá chậm (đối thủ đọc được), hoặc jab mà không bước chân (mất tầm). Jab hiệu quả nhất khi kết hợp footwork: step-in jab, jab-lùi. Trong combo 1-2, jab phải nhanh và quay về guard ngay — cross theo sau trong khe hở 0.2 giây. Tập jab 500 cái/ngày trên bag hoặc shadowbox là chuẩn pro.",
+    "defense": "Chống jab: slip ra ngoài (orthodox slip phải khi né jab trái), parry tay dẫn sang phải rồi counter cross. Long guard để chặn jab trước khi chạm mặt. Bước lùi nhẹ khi thấy vai đối thủ load jab. Double jab của đối thủ — slip cú thứ hai, đừng lùi cả hai. Feint jab để draw phản ứng rồi tấn công thật.",
+    "video_attack": {
+      "title": "Boxing Tips for the JAB - speed, feints, balance, being first",
+      "url": "https://www.youtube.com/watch?v=oPelixl8Ezw"
+    },
+    "video_defense": {
+      "title": "How to Parry Punches in Boxing",
+      "url": "https://www.youtube.com/watch?v=mvGQ3cQvsKo"
+    },
+    "sources": [
+      "[Expert Boxing — How to Jab](https://expertboxing.com/how-to-jab)",
+      "[Precision Striking — Jab Fundamentals](https://precisionstriking.com/boxing-jab/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "cross",
+    "name_vi": "Cross (đấm thẳng tay sau)",
+    "name_en": "Cross",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐",
+    "tags": "Punches / power / tay sau",
+    "situation": "Cross (straight right cho orthodox) là đòn power chính — xoay hông, chuyển trọng lượng từ chân sau, vai quay, tay duỗi thẳng với xoay nắm. Cross theo sau jab trong combo 1-2 là combo cơ bản nhất. Hiệu quả khi đối thủ hạ tay sau jab, hoặc sau feint jab. Lỗi: 'arm punch' không xoay hông, cross quá dài (overreach, mất thế), hoặc telegraph bằng cách hạ tay trước khi đấm. Cross vào body (body cross) phá guard và làm chậm đối thủ. Timing cross khi đối thủ đang commit vào đòn — đó là counter cross. Tập trên bag: jab-cross liên tục, cảm nhận snap khi xoay hông.",
+    "defense": "Phòng thủ cross: slip ngoài jab (cross đi qua), parry jab và counter cross đồng thời, hoặc pull back (lean back) rồi counter. Giữ tay sau cao — cross thường nhắm cằm/gáy. Body cross: block bằng khuỷu hoặc hạ tay. Đọc cross qua hông đối thủ load — slip trước khi đòn tới.",
+    "video_attack": {
+      "title": "How to Throw a Cross (Right Hand)",
+      "url": "https://www.youtube.com/watch?v=JWmGCiqLysg"
+    },
+    "video_defense": {
+      "title": "Slip and Rip - Slip Outside and Counter with a Cross",
+      "url": "https://www.youtube.com/watch?v=d6QxRAZZH4A"
+    },
+    "sources": [
+      "[Expert Boxing — Cross Punch](https://expertboxing.com/cross-punch)",
+      "[Precision Striking — Cross](https://precisionstriking.com/boxing-cross/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "lead-hook",
+    "name_vi": "Hook tay dẫn",
+    "name_en": "Lead Hook",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / hook / tay dẫn",
+    "situation": "Lead hook (hook trái orthodox) là đòn ngang từ tay dẫn — khuỷu cao ngang vai, cẳng tay vuông góc, xoay hông và chân trước pivot. Lead hook ngắn, nhanh, thường sau jab hoặc trong combo 1-2-3. Hiệu quả ở tầm trung và khi đối thủ slip vào trong (ăn hook). Check hook là biến thể: hook ngắn khi đối thủ tiến vào. Lỗi: vung tay quá rộng (telegraph), khuỷu thấp (mất power), hook mà không pivot chân. Shovel hook (nghiêng xuống) là biến thể lead hook vào body/liver. Tập hook trên bag: pivot chân, cảm nhận snap hông.",
+    "defense": "Chống lead hook: giữ tay sau cao, slip ngoài (hook đi qua), hoặc block bằng khuỷu/giáp tay. Roll under hook thấp. Footwork: lùi khỏi tầm hook. Counter khi họ over-swing hook — cross hoặc hook tay sau.",
+    "video_attack": {
+      "title": "How to Throw a Lead Hook",
+      "url": "https://www.youtube.com/watch?v=aGfWBqXfSmM"
+    },
+    "video_defense": {
+      "title": "How to Block and Counter a Hook",
+      "url": "https://www.youtube.com/watch?v=0N-4RZUD6uc"
+    },
+    "sources": [
+      "[Expert Boxing — Lead Hook](https://expertboxing.com/lead-hook)",
+      "[Precision Striking — Hook](https://precisionstriking.com/boxing-hook/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "rear-hook",
+    "name_vi": "Hook tay sau",
+    "name_en": "Rear Hook",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / hook / power",
+    "situation": "Rear hook (hook phải orthodox) mạnh hơn lead hook nhưng chậm hơn — cần setup bằng jab hoặc feint. Xoay hông mạnh, chân sau pivot, khuỷu giữ cao. Rear hook hiệu quả khi đối thủ lean về phía tay sau bạn (sau slip ngoài jab của họ). Trong combo hook-hook-cross, rear hook là cú thứ hai. Lỗi: load up quá rõ (telegraph), hook quá vòng rộng, mất balance sau hook. Overhand là biến thể rear hook đi vòng trên — xem skill overhand. Tập rear hook trên mitts với HLV — khó tự sửa form trên bag.",
+    "defense": "Phòng thủ rear hook: slip ngoài, block khuỷu cao, hoặc step back khỏi tầm. Rear hook thường follow sau jab — parry jab và slip ngoài đồng thời. Clinch nếu bị corner và thấy họ load hook lớn.",
+    "video_attack": {
+      "title": "How to Throw a Rear Hook",
+      "url": "https://www.youtube.com/watch?v=pjSXaL2gFm4"
+    },
+    "video_defense": {
+      "title": "Rolling Under a Hook and Countering",
+      "url": "https://www.youtube.com/watch?v=8kyWmzMKGKs"
+    },
+    "sources": [
+      "[Expert Boxing — Rear Hook](https://expertboxing.com/rear-hook)",
+      "[Tony Jeffries — Hook Power](https://www.youtube.com/watch?v=eBxn21FtqPg)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "lead-uppercut",
+    "name_vi": "Uppercut tay dẫn",
+    "name_en": "Lead Uppercut",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / uppercut / inside",
+    "situation": "Lead uppercut đi từ dưới lên — dùng ở tầm gần, split guard đối thủ, hoặc sau khi họ hạ guard đánh body. Hơi squat, bật lên, khuỷu hướng vào giữa, nắm úp. Lead uppercut ngắn hơn rear uppercut, thường trong inside fighting. Combo phổ biến: uppercut-hook-cross. Lỗi: uppercut quá cao (mất balance), không bảo vệ bằng tay kia, uppercut khi đối thủ quá xa. Uppercut hiệu quả nhất khi đối thủ cúi đầu (sau body shot hoặc slip) hoặc guard cao hở giữa.",
+    "defense": "Chống lead uppercut: giữ khoảng cách — uppercut cần tầm gần. Pull back (lean back) khi thấy họ squat. Forearm block giữa guard. Step back hoặc pivot ra ngoài. Counter cross khi họ miss uppercut (over-commit lên).",
+    "video_attack": {
+      "title": "How to Throw an Uppercut",
+      "url": "https://www.youtube.com/watch?v=LnRH1t4b-ZY"
+    },
+    "video_defense": {
+      "title": "Pull Back Defense and Counter",
+      "url": "https://www.youtube.com/watch?v=vwelPijazrg"
+    },
+    "sources": [
+      "[Expert Boxing — Uppercut](https://expertboxing.com/uppercut)",
+      "[Precision Striking — Uppercut](https://precisionstriking.com/boxing-uppercut/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "rear-uppercut",
+    "name_vi": "Uppercut tay sau",
+    "name_en": "Rear Uppercut",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / uppercut / power",
+    "situation": "Rear uppercut là đòn power từ tay sau — setup bằng jab hoặc body shot, dùng khi đối thủ guard cao hoặc lean forward. Xoay hông mạnh, chân sau push, uppercut đi giữa hai tay guard hoặc vòng ngoài. Mike Tyson nổi tiếng rear uppercut phá guard. Lỗi: telegraph bằng cách hạ vai trước, uppercut quá chậm (dễ parry), không quay về guard sau uppercut. Kết hợp với hook: uppercut-hook-cross là combo inside mạnh. Tập trên double-end bag để luyện timing uppercut.",
+    "defense": "Phòng thủ rear uppercut: không lean forward sau khi đánh — dễ ăn uppercut. Guard giữ tay sát, khuỷu khép. Lateral movement — uppercut cần bạn ở trước mặt họ. Clinch nếu bị áp sát và thấy load uppercut.",
+    "video_attack": {
+      "title": "How to Throw a Rear Uppercut",
+      "url": "https://www.youtube.com/watch?v=kXOWCDIzKRY"
+    },
+    "video_defense": {
+      "title": "Inside Fighting - Uppercuts and Hooks",
+      "url": "https://www.youtube.com/watch?v=6RtJtwn3__0"
+    },
+    "sources": [
+      "[Expert Boxing — Rear Uppercut](https://expertboxing.com/rear-uppercut)",
+      "[Tony Jeffries — Uppercut Tips](https://www.youtube.com/watch?v=UFVDcNDnpoU)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "body-jab",
+    "name_vi": "Jab thân",
+    "name_en": "Body Jab",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / body / setup",
+    "situation": "Body jab là jab hướng xuống thân (thường sườn/phần trên bụng) — phá nhịp thở, buộc tay guard hạ, setup head shot. Cú jab thân nhanh, không cần power lớn — volume quan trọng hơn. Feint head jab rồi body jab, hoặc ngược lại. Lỗi: body jab quá chậm (dễ block), đứng quá gần (mất góc), không quay về guard (bị counter đầu). Body jab hiệu quả với out-boxer và pressure fighter — làm chậm footwork đối thủ. Trong combo jab-body-head, body jab là cú thứ hai.",
+    "defense": "Chống body jab: hạ khuỷu block, rotate hông để giảm lực, hoặc step back. Đừng hạ guard quá lâu sau block body — counter head ngay. Anticipate body jab sau feint đầu.",
+    "video_attack": {
+      "title": "How to Punch the Body in Boxing",
+      "url": "https://www.youtube.com/watch?v=0KkMPtDZaRo"
+    },
+    "video_defense": {
+      "title": "Blocking Body Shots",
+      "url": "https://www.youtube.com/watch?v=bib7KvLR3lg"
+    },
+    "sources": [
+      "[Expert Boxing — Body Punching](https://expertboxing.com/body-punching)",
+      "[Precision Striking — Body Jab](https://precisionstriking.com/boxing-body-shots/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "body-hook",
+    "name_vi": "Hook thân",
+    "name_en": "Body Hook",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / body / hook",
+    "situation": "Body hook là hook vào sườn/bụng — shovel hook hoặc hook truyền thống hướng xuống. Phá guard, làm mệt, setup liver shot. Xoay hông, khuỷu cao, đi vào soft tissue sườn (tránh xương sườn cứng). Body hook thường sau jab hoặc trong combo inside. Lỗi: hook body quá thấp (trúng hông/elbow), không bảo vệ đầu khi hook body (bị overhand counter). Bas Rutten style body hook + liver shot rất hiệu quả. Tập trên bag: đánh body 30 giây, head 10 giây — luyện level change.",
+    "defense": "Phòng thủ body hook: khuỷu block sườn, suck stomach, rotate. Không hạ guard đầu khi block body. Counter overhand hoặc uppercut khi họ hook body (đầu hở). Footwork: không đứng yên cho họ hook body liên tục.",
+    "video_attack": {
+      "title": "How to Throw a Body Hook",
+      "url": "https://www.youtube.com/watch?v=wxdkihOzABw"
+    },
+    "video_defense": {
+      "title": "How to Block Body Shots in Boxing",
+      "url": "https://www.youtube.com/watch?v=dclpaykd08U"
+    },
+    "sources": [
+      "[Expert Boxing — Body Hook](https://expertboxing.com/body-hook)",
+      "[Coach Anthony — Body Punching](https://www.youtube.com/watch?v=NSKAIvGyBKU)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "liver-shot",
+    "name_vi": "Đòn gan (liver shot)",
+    "name_en": "Liver Shot",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐⭐",
+    "tags": "Punches / body / fight ender",
+    "situation": "Liver shot là hook/shovel hook vào gan (phía phải body, dưới sườn) — đòn có thể kết thúc trận (body shot KO). Orthodox đánh liver bằng hook trái hoặc shovel hook phải vào body trái đối thủ. Setup: body jab, feint head, rồi liver. Lỗi: telegraph bằng level change quá rõ, liver shot khi đối thủ guard body chặt, không follow up sau liver (đối thủ có thể recover). Liver shot cần timing — khi đối thủ xoay hoặc hạ tay. Bas Rutten và Canelo nổi tiếng liver game.",
+    "defense": "Phòng thủ liver: khuỷu phải block vùng gan, rotate body, không expose sườn trái (southpaw cẩn thận ngược lại). Clinch nếu bị hurt liver. Condition body trong training — body shot sparring.",
+    "video_attack": {
+      "title": "How to Throw a Liver Shot",
+      "url": "https://www.youtube.com/watch?v=eHolFKXoIg8"
+    },
+    "video_defense": {
+      "title": "Body Shot Defense - Elbow Block",
+      "url": "https://www.youtube.com/watch?v=gbcqzFTj6hs"
+    },
+    "sources": [
+      "[Expert Boxing — Liver Punch](https://expertboxing.com/liver-punch)",
+      "[Tony Jeffries — Body Shots](https://www.youtube.com/watch?v=jhcIjFgz2bI)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "overhand",
+    "name_vi": "Overhand",
+    "name_en": "Overhand",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / power / arc",
+    "situation": "Overhand là cross/hook lao vòng trên guard đối thủ — đi theo đường cong, thường từ tay sau. Hiệu quả khi đối thủ guard cao, jab nhiều (lean forward), hoặc sau feint body. Load nhẹ, xoay hông, đi vòng qua tay guard. Lỗi: overhand quá chậm (counter dễ), over-commit (miss và mất thế), không bảo vệ bằng tay kia. Overhand vs southpaw orthodox match-up thường xuyên. Setup: jab feint, body shot, rồi overhand. Marcos Maidana overhand vs Mayweather là case study.",
+    "defense": "Chống overhand: slip ngoài (overhand đi qua), parry xuống, hoặc jab interrupt trước khi overhand load. Guard cao + không lean forward. Counter hook khi overhand miss.",
+    "video_attack": {
+      "title": "How to Throw an Overhand Right",
+      "url": "https://www.youtube.com/watch?v=HbBhPZZil7E"
+    },
+    "video_defense": {
+      "title": "Slip the Overhand and Counter",
+      "url": "https://www.youtube.com/watch?v=3MDpSjcXzVg"
+    },
+    "sources": [
+      "[Expert Boxing — Overhand Punch](https://expertboxing.com/overhand-punch)",
+      "[fightTIPS — Overhand](https://www.youtube.com/watch?v=xfbkC_kQ1Gw)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "check-hook",
+    "name_vi": "Check hook",
+    "name_en": "Check Hook",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐⭐",
+    "tags": "Punches / counter / hook",
+    "situation": "Check hook là lead hook ngắn, nhanh khi đối thủ tiến vào — 'check' momentum của họ. Floyd Mayweather signature move. Pivot chân trước, hook ngắn vào jaw khi đối thủ commit forward. Timing then chốt — không phải power hook mà là counter hook. Lỗi: check hook quá sớm (miss), quá chậm (ăn combo trước), không pivot (mất power và balance). Setup: lùi nhẹ, invite pressure, rồi check hook khi họ bước vào. Kết hợp footwork: step back, check hook, pivot out.",
+    "defense": "Chống check hook: không chase blindly — feint step, jab without over-commit. Slip ngoài check hook. Body shot trước khi tiến (buộc họ hook body thay vì check). Cut angle thay vì đi thẳng vào.",
+    "video_attack": {
+      "title": "How to Throw a Check Hook",
+      "url": "https://www.youtube.com/watch?v=fDnul3Hv2RQ"
+    },
+    "video_defense": {
+      "title": "Check Hook Counter Defense",
+      "url": "https://www.youtube.com/watch?v=ccBW7bpodng"
+    },
+    "sources": [
+      "[Expert Boxing — Check Hook](https://expertboxing.com/check-hook)",
+      "[Precision Striking — Check Hook](https://precisionstriking.com/check-hook/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "shovel-hook",
+    "name_vi": "Shovel hook",
+    "name_en": "Shovel Hook",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / hook / body-head",
+    "situation": "Shovel hook là hook với nắm nghiêng 45° — đi giữa hook ngang và uppercut, hiệu quả body và head. Lead shovel hook vào body/liver, rear shovel hook vào jaw. Xoay hông, khuỷu cao, đi theo góc nghiêng. Lỗi: shovel hook quá rộng, không pivot chân, dùng shovel hook ở tầm xa (cần tầm trung-gần). Gennady Golovkin nổi tiếng shovel hook body. Combo: jab, shovel hook body, hook head.",
+    "defense": "Phòng thủ shovel hook: tương tự hook — block khuỷu, slip, roll under. Shovel hook body — elbow block sườn. Không đứng vuông cho shovel hook vào giữa guard.",
+    "video_attack": {
+      "title": "How to Throw a Shovel Hook",
+      "url": "https://www.youtube.com/watch?v=Y0grCBJ7pfo"
+    },
+    "video_defense": {
+      "title": "Rolling Under Hooks",
+      "url": "https://www.youtube.com/watch?v=NyqA_ReJOgw"
+    },
+    "sources": [
+      "[Expert Boxing — Shovel Hook](https://expertboxing.com/shovel-hook)",
+      "[Tony Jeffries — Hook Variations](https://www.youtube.com/watch?v=rnwEUIylf8A)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "double-jab",
+    "name_vi": "Double jab",
+    "name_en": "Double Jab",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐⭐",
+    "tags": "Punches / jab / setup",
+    "situation": "Double jab là hai jab liên tiếp — cú đầu setup/feint, cú hai power hoặc step-in. Phá guard, đo phản ứng, setup cross/hook. Có double jab same hand (hai jab tay dẫn) hoặc jab-jab-cross. Lỗi: double jab quá chậm (block cả hai), không step giữa hai jab (mất tầm), hạ guard sau jab thứ hai. Double jab hiệu quả vs opponent hay lùi — jab thứ hai bắt khi họ đang lùi. Manny Pacquiao dùng double jab + angle change.",
+    "defense": "Chống double jab: parry jab đầu, slip jab thứ hai, hoặc lùi sau jab đầu (jab thứ hai miss range). Counter cross giữa hai jab nếu timing tốt. Long guard chặn cả hai.",
+    "video_attack": {
+      "title": "Double Jab Technique for Boxing",
+      "url": "https://www.youtube.com/watch?v=qj-Au40Y8FU"
+    },
+    "video_defense": {
+      "title": "Parry the Jab and Counter",
+      "url": "https://www.youtube.com/watch?v=EKk0GgWic3E"
+    },
+    "sources": [
+      "[Expert Boxing — Double Jab](https://expertboxing.com/double-jab)",
+      "[Precision Striking — Jab Combos](https://precisionstriking.com/boxing-jab/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "punch-mechanics",
+    "name_vi": "Cơ học đấm",
+    "name_en": "Punch Mechanics",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#4-đấm-punches",
+    "level": "⭐",
+    "tags": "Punches / fundamentals / power",
+    "situation": "Cơ học đấm đúng: (1) khởi phát từ chân — push/pivot, (2) xoay hông và vai, (3) duỗi tay với xoay nắm (thumb up → thumb down impact), (4) exhale impact, (5) quay về guard ngay. Mọi đòn — jab, cross, hook, uppercut — đều tuân cơ học này với biến thể. Lỗi phổ biến: arm punch, wrist không thẳng (gãy cổ tay), over-rotate (mất balance), không snap (đấm đẩy thay vì snap). Tập chậm trước gương, sau đó bag, mitts, sparring. Power = speed × mass × technique — không phải gồng cơ.",
+    "defense": "Đọc cơ học đối thủ: load up hông = cross/hook sắp tới; vai drop = body shot; step lớn = commit. Slip/pull khi thấy load. Counter trong khoảng trống recovery sau đòn.",
+    "video_attack": {
+      "title": "How to Punch Correctly in Boxing",
+      "url": "https://www.youtube.com/watch?v=2XgZFnhuO6I"
+    },
+    "video_defense": {
+      "title": "Common Punching Mistakes",
+      "url": "https://www.youtube.com/watch?v=Y387rpxFDi0"
+    },
+    "sources": [
+      "[Expert Boxing — Punching Technique](https://expertboxing.com/punching-technique)",
+      "[Tony Jeffries — Punch Mechanics](https://www.youtube.com/watch?v=4f-kyantbHE)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "high-guard",
+    "name_vi": "Guard cao",
+    "name_en": "High Guard",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐",
+    "tags": "Defense / guard / fundamentals",
+    "situation": "High guard là tư thế phòng thủ hai tay che cằm và thái dương — nền tảng trước khi học slip, parry, roll. Khuỷu khép, cẳng tay song song, không quá căng. High guard phù hợp tầm trung-gần và khi bị áp lực. Lỗi: guard quá cao che tầm nhìn, guard quá thấp (hở đầu), hoặc guard tĩnh không kết hợp head movement. Kết hợp high guard với footwork lùi và block body bằng khuỷu. Trong sparring, guard cao cho phép catch và parry — nhưng cần relax để phản xạ nhanh.",
+    "defense": "Phá high guard: body shot buộc tay hạ, feint body-head, double jab giữa hai tay, uppercut split guard. Overhand vòng trên. Đừng spam cross vào giữa guard. Level change liên tục.",
+    "video_attack": {
+      "title": "M4 | Hands Up | Fundamentals and Tactics",
+      "url": "https://www.youtube.com/watch?v=4OKkRQm46Bw"
+    },
+    "video_defense": {
+      "title": "Know the Pros and Cons of your GUARD",
+      "url": "https://www.youtube.com/watch?v=Kwo7iSA_MIA"
+    },
+    "sources": [
+      "[Precision Striking — High Guard](https://precisionstriking.com/boxing-guard/)",
+      "[Expert Boxing — Guard Defense](https://expertboxing.com/high-guard-boxing)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "parry-jab",
+    "name_vi": "Parry jab",
+    "name_en": "Jab Parry",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐",
+    "tags": "Defense / parry / counter setup",
+    "situation": "Parry jab là đẩy jab đối thủ sang một bên bằng lòng bàn tay hoặc mu bàn tay — mở đường counter cross/hook. Parry nhẹ, không đánh jab đi (deflect). Timing: parry khi jab sắp chạm, không quá sớm. Lỗi: parry quá mạnh (mất balance), parry mà không counter (lãng phí cơ hội), parry jab thứ hai trong double jab (miss cú đầu). Parry + cross là combo phòng thủ cơ bản nhất. Tập với partner: partner jab, bạn parry-counter.",
+    "defense": "Chống parry: feint jab draw parry rồi đánh thật; double jab (parry cú đầu, ăn cú hai); jab body thay vì head; hook sau jab bị parry. Không telegraph jab — jab nhanh khó parry.",
+    "video_attack": {
+      "title": "How to Parry Punches in Boxing",
+      "url": "https://www.youtube.com/watch?v=mvGQ3cQvsKo"
+    },
+    "video_defense": {
+      "title": "Parry and Counter Cross",
+      "url": "https://www.youtube.com/watch?v=1pwhwJ3pmis"
+    },
+    "sources": [
+      "[Expert Boxing — Parry](https://expertboxing.com/parry-punch)",
+      "[Precision Striking — Parry Jab](https://precisionstriking.com/boxing-parry/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "slip-outside",
+    "name_vi": "Slip ngoài",
+    "name_en": "Slip Outside",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐",
+    "tags": "Defense / head movement / slip",
+    "situation": "Slip outside (slip ra ngoài jab) là nghiêng đầu sang phải (orthodox) để jab/cross đi qua bên trái — mở góc counter cross/hook. Slip nhẹ từ hông và chân, không cúi đầu (dễ uppercut). Slip ngoài jab orthodox → counter cross tay phải. Lỗi: slip quá sâu (mất balance), slip không counter (chỉ né), slip chậm (vẫn ăn đòn). Kết hợp slip-pivot: slip ngoài, pivot, hook. Mike Tyson slip inside nhiều hơn; Mayweather slip outside + counter.",
+    "defense": "Chống slip outside: feint jab draw slip rồi hook; body shot khi họ slip (đầu hạ); uppercut khi họ slip xuống; hook sau jab (slip ngoài jab vẫn ăn hook). Double jab — slip cú đầu, ăn cú hai.",
+    "video_attack": {
+      "title": "How to Slip Punches in Boxing",
+      "url": "https://www.youtube.com/watch?v=RE7elmI9Uu8"
+    },
+    "video_defense": {
+      "title": "Slip and Rip - Slip Outside and Counter with a Cross",
+      "url": "https://www.youtube.com/watch?v=d6QxRAZZH4A"
+    },
+    "sources": [
+      "[Expert Boxing — Slip Punch](https://expertboxing.com/slip-punch)",
+      "[Precision Striking — Slip Outside](https://precisionstriking.com/boxing-slip/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "slip-inside",
+    "name_vi": "Slip trong",
+    "name_en": "Slip Inside",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐",
+    "tags": "Defense / head movement / inside",
+    "situation": "Slip inside là nghiêng đầu vào trong jab (orthodox slip trái) — vào 'dead zone' giữa hai tay guard, setup hook và uppercut. Slip inside nguy hiểm hơn slip outside nếu timing sai — dễ ăn cross tay sau. Hiệu quả vs jab-heavy opponent. Lỗi: slip inside quá sâu vào uppercut range, không counter ngay, slip inside khi đối thủ hook tay dẫn tốt. Combo: slip inside jab → lead hook → cross. Tyson hay slip inside + hook.",
+    "defense": "Chống slip inside: cross tay sau ngay khi họ slip vào ( họ vào đường cross); lead hook khi họ slip inside; clinch nếu họ vào quá gần; body shot trước khi họ slip.",
+    "video_attack": {
+      "title": "Slip Inside Technique",
+      "url": "https://www.youtube.com/watch?v=7J4V7XgK0Og"
+    },
+    "video_defense": {
+      "title": "Inside Slip and Hook Counter",
+      "url": "https://www.youtube.com/watch?v=zmCRZetDL7A"
+    },
+    "sources": [
+      "[Expert Boxing — Slip Inside](https://expertboxing.com/slip-inside)",
+      "[Tony Jeffries — Head Movement](https://www.youtube.com/watch?v=xOeEqDjkaVE)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "roll-under",
+    "name_vi": "Roll dưới",
+    "name_en": "Roll Under",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐",
+    "tags": "Defense / roll / hook defense",
+    "situation": "Roll under là cuộn thân dưới hook (thường hook tay dẫn) — uốn gối, xoay vai, đi dưới đường hook, đứng lên counter hook/cross. Roll khác slip: roll đi xuống rồi lên, slip đi ngang. Hiệu quả vs hook-happy opponent. Lỗi: roll quá chậm (ăn hook), roll không đứng lên counter, roll khi đối thủ uppercut (nguy hiểm). Combo: roll under lead hook → rear hook/cross. Tập với rope/string trên hook height.",
+    "defense": "Chống roll under: hook body thay vì head (roll under head hook miss); uppercut khi họ roll xuống; hook ngắn không over-swing; second hook khi họ đang roll up.",
+    "video_attack": {
+      "title": "How to Roll Under a Punch",
+      "url": "https://www.youtube.com/watch?v=3dUc64v7-Po"
+    },
+    "video_defense": {
+      "title": "Rolling Under a Hook and Countering",
+      "url": "https://www.youtube.com/watch?v=8kyWmzMKGKs"
+    },
+    "sources": [
+      "[Expert Boxing — Roll Punch](https://expertboxing.com/roll-punch)",
+      "[Precision Striking — Roll Under](https://precisionstriking.com/boxing-roll/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "pull-back",
+    "name_vi": "Pull back",
+    "name_en": "Pull Back",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐",
+    "tags": "Defense / lean / counter",
+    "situation": "Pull back là nghiêng thân về sau (lean back) để đòn đi qua — giữ chân, chỉ upper body lean. Floyd Mayweather signature. Hiệu quả vs jab và cross tầm xa. Lỗi: pull back quá xa (mất balance, khó counter), pull back khi đối thủ tầm gần (vẫn ăn hook), không counter sau pull back. Pull back + counter cross/hook. Cần core strength — tập plank và lean drill.",
+    "defense": "Chống pull back: body shot (lean back hở body); feint draw lean rồi jab thật; step forward khi họ lean (cut distance); hook vòng (lean back không né hook ngang tốt).",
+    "video_attack": {
+      "title": "Pull Back Defense in Boxing",
+      "url": "https://www.youtube.com/watch?v=vwelPijazrg"
+    },
+    "video_defense": {
+      "title": "Counter After Pull Back",
+      "url": "https://www.youtube.com/watch?v=D8DouKeOkfI"
+    },
+    "sources": [
+      "[Expert Boxing — Pull Back](https://expertboxing.com/pull-back)",
+      "[Tony Jeffries — Pull Back](https://www.youtube.com/watch?v=ArQ50PXMCj4)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "shoulder-roll",
+    "name_vi": "Shoulder roll",
+    "name_en": "Shoulder Roll",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐⭐",
+    "tags": "Defense / shoulder roll / advanced",
+    "situation": "Shoulder roll (Philly shell) là nghiêng vai, để đòn trượt trên vai trước — guard tay thấp hơn, phản công bằng tay sau. Mayweather, James Toney style. Cần timing và reflex cao — không phải guard mặc định cho beginner. Lỗi: shoulder roll khi chưa master (ăn đòn clean), roll sai góc (ăn uppercut), không counter sau roll. Học sau khi thành thạo high guard và slip.",
+    "defense": "Đối thủ dùng shoulder roll sẽ để đòn trượt trên vai và phản công ngay — đừng spam cross liên tục vào vùng họ chủ đích roll. Tấn công thân bằng hook bụng và liver shot vì Philly shell thường hở phía dưới. Uppercut giữa hai tay guard hoặc từ góc hẹp khó bị roll. Feint nhiều lần để buộc họ roll sai nhịp rồi đánh đòn thật vào khoảng trống recovery. Tăng volume đòn ngắn thay vì một đòn power — roll kém hiệu quả khi phải xử lý liên tiếp. Quan sát bên nào họ roll tốt hơn và tấn công phía đối diện.",
+    "video_attack": {
+      "title": "How to Shoulder Roll in Boxing",
+      "url": "https://www.youtube.com/watch?v=TNF4okneIqU"
+    },
+    "video_defense": {
+      "title": "Breaking the Shoulder Roll",
+      "url": "https://www.youtube.com/watch?v=UOit8AzlC7o"
+    },
+    "sources": [
+      "[Expert Boxing — Shoulder Roll](https://expertboxing.com/shoulder-roll)",
+      "[Precision Striking — Philly Shell](https://precisionstriking.com/philly-shell/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "cover-up",
+    "name_vi": "Cover up",
+    "name_en": "Cover Up",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐",
+    "tags": "Defense / survival / clinch",
+    "situation": "Cover up là bọc đầu bằng hai tay, khuỷu khép — dùng khi bị corner, hurt, hoặc chờ break. Không phải chiến thuật lâu dài — survival mode. Giữ guard chặt, xoay thân, tìm clinch hoặc footwork thoát. Lỗi: cover up quá sớm (passive), cover up không di chuyển (ref stoppage risk), cover up thay vì học slip/parry. Tập cover up + pivot out drill.",
+    "defense": "Exploit cover up: body shot liên tục, referee không break nếu không clinch — volume to body và head alternating. Uppercut split guard. Không waste energy punch vào giáp tay — angle change.",
+    "video_attack": {
+      "title": "How to Cover Up in Boxing",
+      "url": "https://www.youtube.com/watch?v=9OL0Mt0La6M"
+    },
+    "video_defense": {
+      "title": "Escaping the Corner",
+      "url": "https://www.youtube.com/watch?v=o8hZWhvQyNc"
+    },
+    "sources": [
+      "[Tony Jeffries — Cover Up](https://www.youtube.com/watch?v=9OL0Mt0La6M)",
+      "[Expert Boxing — Cover Up](https://expertboxing.com/cover-up)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "long-guard",
+    "name_vi": "Long guard",
+    "name_en": "Long Guard",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐",
+    "tags": "Defense / distance / lead hand",
+    "situation": "Long guard là duỗi tay dẫn ra phía trước (không locked elbow) — chặn jab, đo khoảng cách, push đối thủ. Tay dẫn trên trán hoặc vai đối thủ, tay sau guard cằm. Hiệu quả vs pressure fighter và tầm xa. Lỗi: long guard quá cứng (bị parry và counter), long guard tầm gần (uppercut), không retract tay dẫn khi đấm. Kết hợp long guard + jab + footwork lùi.",
+    "defense": "Chống long guard: parry tay dẫn xuống, slip inside, body shot dưới tay dẫn, feint draw tay dẫn rồi angle change. Cut ring — long guard yếu khi bị corner.",
+    "video_attack": {
+      "title": "Long Guard Technique for Boxing",
+      "url": "https://www.youtube.com/watch?v=A78y9-BlECM"
+    },
+    "video_defense": {
+      "title": "Beating the Long Guard",
+      "url": "https://www.youtube.com/watch?v=bCAH2oIE_QE"
+    },
+    "sources": [
+      "[Tony Jeffries — Long Guard](https://www.youtube.com/watch?v=A78y9-BlECM)",
+      "[Expert Boxing — Long Guard](https://expertboxing.com/long-guard)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "catch-counter",
+    "name_vi": "Catch và counter",
+    "name_en": "Catch and Counter",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐⭐",
+    "tags": "Defense / catch / counter",
+    "situation": "Catch là bắt jab đối thủ bằng tay sau (palm catch) — deflect và giữ tay họ, mở counter cross/hook. Cần timing và reflex. Catch khác parry: catch giữ tay, parry đẩy. Lỗi: catch miss (ăn jab clean), catch không counter, catch vs power jab (tay đau). Drill: partner slow jab, catch-counter cross.",
+    "defense": "Để tránh bị catch jab: không đưa jab thẳng tuyến chậm — jab flick nhanh và rút tay ngay. Jab body thay vì jab đầu khiến catch khó hơn vì tay phải phải hạ xuống. Double jab buộc họ chọn catch cú nào; cú thứ hai thường lọt nếu họ commit catch cú đầu. Feint jab draw catch rỗng rồi cross thật. Hook ngay sau jab nếu họ cố catch — tay đang giữ jab của bạn sẽ hở sườn. Giữ jab ngắn, không lock elbow.",
+    "video_attack": {
+      "title": "How to Catch and Counter",
+      "url": "https://www.youtube.com/watch?v=pIiJRubdtt8"
+    },
+    "video_defense": {
+      "title": "Catch Jab Counter Cross",
+      "url": "https://www.youtube.com/watch?v=PLU3-tlD3y4"
+    },
+    "sources": [
+      "[Tony Jeffries — Catch Counter](https://www.youtube.com/watch?v=pIiJRubdtt8)",
+      "[Expert Boxing — Catch Punch](https://expertboxing.com/catch-punch)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "block-body",
+    "name_vi": "Block thân",
+    "name_en": "Body Block",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐",
+    "tags": "Defense / body / elbow",
+    "situation": "Block body là dùng khuỷu và cẳng tay che sườn/bụng — hạ khuỷu khi thấy body shot, giữ tay trên bảo vệ đầu. Rotate hông giảm lực. Lỗi: block body mà hạ guard đầu (overhand counter), block quá thấp (liver hở), block tĩnh không counter. Sau block body, counter head hoặc clinch.",
+    "defense": "Khi đối thủ hay block body: feint body draw block rồi overhand hoặc hook đầu ngay lập tức. Hook vào phía sườn đối diện bên họ rotate block. Uppercut split guard sau khi họ hạ khuỷu block body. Đừng spam body một chỗ — đổi góc bằng footwork sang trái/phải. Shovel hook và liver shot vào góc khó block hơn hook thẳng. Tấn công đầu liên tục buộc họ không dám hạ tay block body lâu.",
+    "video_attack": {
+      "title": "How to Block Body Shots",
+      "url": "https://www.youtube.com/watch?v=dclpaykd08U"
+    },
+    "video_defense": {
+      "title": "Body Punching to Open Guard",
+      "url": "https://www.youtube.com/watch?v=0KkMPtDZaRo"
+    },
+    "sources": [
+      "[Expert Boxing — Body Block](https://expertboxing.com/body-block)",
+      "[Precision Striking — Body Defense](https://precisionstriking.com/boxing-body-defense/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "footwork-defense",
+    "name_vi": "Footwork phòng thủ",
+    "name_en": "Defensive Footwork",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#5-phòng-thủ-defense",
+    "level": "⭐⭐",
+    "tags": "Defense / footwork / distance",
+    "situation": "Footwork phòng thủ: lùi (step back), pivot out, angle change — né đòn bằng chân thay vì chỉ head movement. 'Make them miss, make them pay' — lùi né, counter. Lỗi: lùi thẳng vào rope, lùi không counter (passive), cross chân khi lùi. Drill: partner advance, bạn lùi-pivot-counter.",
+    "defense": "Chống lại footwork phòng thủ tốt: cut ring bằng bước chéo, không đuổi thẳng theo hướng lùi của họ. Body shot buộc họ đứng lại thay vì lùi thoải mái. Feint bước tiến freeze chân họ rồi jab thật. Double jab bắt nhịp lùi — cú thứ hai thường chạm khi họ vừa reset chân. Áp sát góc để giảm không gian pivot. Dùng pressure có kiểm soát thay vì chase cross dài mất balance.",
+    "video_attack": {
+      "title": "Defensive Footwork for Boxing",
+      "url": "https://www.youtube.com/watch?v=NbhTtrpRYME"
+    },
+    "video_defense": {
+      "title": "Cutting Off the Ring",
+      "url": "https://www.youtube.com/watch?v=s4mNa-5MdmY"
+    },
+    "sources": [
+      "[fightTIPS — Defensive Footwork](https://www.youtube.com/watch?v=NbhTtrpRYME)",
+      "[Expert Boxing — Defensive Footwork](https://expertboxing.com/defensive-footwork)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "combo-1-2",
+    "name_vi": "Combo 1-2",
+    "name_en": "Jab-Cross Combo",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐",
+    "tags": "Combinations / 1-2 / fundamentals",
+    "situation": "Combo 1-2 (jab-cross) là tổ hợp cơ bản nhất — jab setup, cross power. Jab nhanh quay guard, cross ngay trong khe 0.2 giây. Step-in jab tăng tầm cross. Lỗi: jab chậm (cross bị block), cross arm punch, không quay về guard sau combo. Drill 1000 1-2 trên bag mỗi tuần. Biến thể: 1-2 lùi, 1-2 pivot, 1-2 body-head.",
+    "defense": "Phòng thủ combo 1-2: parry jab tay dẫn sang phải và counter cross đồng thời. Slip ra ngoài jab khiến cross đi trượt, rồi hook counter. High guard chặn cross nếu không kịp slip — khuỷu khép, không nhìn xuống. Jab interrupt trước khi họ hoàn thành 1-2. Lùi một bước sau khi block jab để cross miss range. Đọc vai load — cross thường đi sau jab 0.2 giây, chuẩn bị slip sẵn.",
+    "video_attack": {
+      "title": "Boxing Combo: 1-2 (Jab-Cross)",
+      "url": "https://www.youtube.com/watch?v=2OSLq94d5BE"
+    },
+    "video_defense": {
+      "title": "Defending the 1-2",
+      "url": "https://www.youtube.com/watch?v=NP0T6sbU1J0"
+    },
+    "sources": [
+      "[Expert Boxing — 1-2 Combo](https://expertboxing.com/1-2-combo)",
+      "[fightTIPS — Basic Combos](https://www.youtube.com/watch?v=2OSLq94d5BE)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "combo-1-2-3",
+    "name_vi": "Combo 1-2-3",
+    "name_en": "Jab-Cross-Lead Hook",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐",
+    "tags": "Combinations / 1-2-3 / hook",
+    "situation": "Combo 1-2-3: jab, cross, lead hook — hook kết thúc combo sau cross làm đối thủ guard shift. Cross mở guard bên hook. Pivot chân cho hook. Lỗi: hook quá chậm sau cross, hook telegraph rộng. Dùng khi đối thủ block cross nhưng guard hở bên.",
+    "defense": "Chống 1-2-3: sau khi block hoặc slip cross, anticipate hook tay dẫn — roll under hoặc block khuỷu cao. Clinch ngay sau cross nếu thấy họ load hook, không cho họ hoàn thành cú ba. Slip ngoài jab để cả combo lệch hướng. Parry jab và bước lùi trước cross. Uppercut counter khi họ hook quá rộng. Giữ khoảng cách — hook cần tầm trung, lùi sớm phá combo.",
+    "video_attack": {
+      "title": "How to Throw the 1-2-3 Combo",
+      "url": "https://www.youtube.com/watch?v=Vh_DXu-bThk"
+    },
+    "video_defense": {
+      "title": "Rolling Under the 3",
+      "url": "https://www.youtube.com/watch?v=8kyWmzMKGKs"
+    },
+    "sources": [
+      "[Expert Boxing — 1-2-3](https://expertboxing.com/1-2-3-combo)",
+      "[fightTIPS — 1-2-3](https://www.youtube.com/watch?v=Vh_DXu-bThk)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "double-jab-cross",
+    "name_vi": "Double jab-cross",
+    "name_en": "Double Jab-Cross",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐",
+    "tags": "Combinations / double jab / setup",
+    "situation": "Double jab-cross: jab-jab-cross — jab đầu feint/setup, jab hai step-in, cross power. Phá guard và timing đối thủ. Lỗi: cả hai jab chậm, cross overreach sau double step.",
+    "defense": "Phòng thủ double jab-cross: parry jab đầu tiên nhẹ, slip jab thứ hai sang phải. Lùi sau jab đầu để jab hai và cross miss tầm. Counter cross giữa hai jab nếu timing tốt. High guard sau parry jab đầu chuẩn bị cross. Đừng lùi thẳng liên tục — pivot sang một bên sau jab đầu. Jab interrupt trước khi họ bắt đầu chuỗi.",
+    "video_attack": {
+      "title": "Double Jab Cross Combo",
+      "url": "https://www.youtube.com/watch?v=1P1GnhQ1o2k"
+    },
+    "video_defense": {
+      "title": "Parry Double Jab",
+      "url": "https://www.youtube.com/watch?v=EKk0GgWic3E"
+    },
+    "sources": [
+      "[Expert Boxing — Double Jab Cross](https://expertboxing.com/double-jab-cross)",
+      "[fightTIPS — Double Jab](https://www.youtube.com/watch?v=1P1GnhQ1o2k)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "jab-body-head",
+    "name_vi": "Jab thân-đầu",
+    "name_en": "Jab Body-Head",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐",
+    "tags": "Combinations / level change / mix",
+    "situation": "Jab body-head: jab thân (body jab) rồi jab đầu hoặc cross đầu — level change phá guard. Feint head jab trước body jab. Lỗi: level change quá chậm, body jab telegraph.",
+    "defense": "Chống jab body-head: khi thấy level change xuống, block body bằng khuỷu nhưng giữ tay trên bảo vệ đầu. Uppercut counter khi họ hạ xuống đánh body. Không hạ guard đầu quá lâu sau block body. Anticipate head shot ngay sau body jab — phần lớn combo theo pattern body-head. Slip head jab sau khi block body. Clinch nếu bị áp sát sau level change.",
+    "video_attack": {
+      "title": "Jab to the Body and Head Combo",
+      "url": "https://www.youtube.com/watch?v=1O8rznvNXHg"
+    },
+    "video_defense": {
+      "title": "Defending Level Changes",
+      "url": "https://www.youtube.com/watch?v=0KkMPtDZaRo"
+    },
+    "sources": [
+      "[Expert Boxing — Body Head Combo](https://expertboxing.com/jab-body-head)",
+      "[fightTIPS — Level Change](https://www.youtube.com/watch?v=1O8rznvNXHg)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "hook-hook-cross",
+    "name_vi": "Hook-hook-cross",
+    "name_en": "Hook-Hook-Cross",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐",
+    "tags": "Combinations / hooks / inside",
+    "situation": "Hook-hook-cross: lead hook, rear hook, cross — combo inside mạnh, overwhelm guard. Cần tầm gần-trung. Lỗi: hook quá rộng, mất balance sau hook thứ hai.",
+    "defense": "Phòng thủ hook-hook-cross: clinch ngay sau hook đầu hoặc roll under hook tay dẫn. Lùi trước hook đầu để hook hai và cross miss. Block khuỷu cao cho cả hai hook — đừng chỉ block một bên. Counter cross sau khi block hook thứ hai nếu họ over-commit. Jab push trước khi họ vào tầm inside. Footwork pivot out thay vì đứng yên absorb combo.",
+    "video_attack": {
+      "title": "Hook Hook Cross Combination",
+      "url": "https://www.youtube.com/watch?v=RlLBHo_ZjhQ"
+    },
+    "video_defense": {
+      "title": "Inside Defense Clinch",
+      "url": "https://www.youtube.com/watch?v=6kncaKLpXLw"
+    },
+    "sources": [
+      "[Expert Boxing — Hook Combos](https://expertboxing.com/hook-combinations)",
+      "[fightTIPS — Hook Combo](https://www.youtube.com/watch?v=RlLBHo_ZjhQ)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "uppercut-hook-cross",
+    "name_vi": "Uppercut-hook-cross",
+    "name_en": "Uppercut-Hook-Cross",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐",
+    "tags": "Combinations / inside / power",
+    "situation": "Uppercut-hook-cross: uppercut split guard, hook same side, cross finish — combo inside classic. Hiệu quả vs guard cao. Lỗi: uppercut miss (combo break), quá chậm giữa các đòn.",
+    "defense": "Chống uppercut-hook-cross: pull back uppercut — lean back khi thấy họ squat load. Clinch sau uppercut attempt block combo giữa chừng. Guard giữ chặt giữa hai tay chống uppercut split. Block hook sau uppercut bằng khuỷu cao. Lateral step ra ngoài sau khi né uppercut. Không cúi đầu xuống — dễ ăn uppercut thêm.",
+    "video_attack": {
+      "title": "Uppercut Hook Cross Combo",
+      "url": "https://www.youtube.com/watch?v=NSKAIvGyBKU"
+    },
+    "video_defense": {
+      "title": "Clinch Break from Inside",
+      "url": "https://www.youtube.com/watch?v=7qLvDgpy3cI"
+    },
+    "sources": [
+      "[Coach Anthony — Inside Combo](https://www.youtube.com/watch?v=NSKAIvGyBKU)",
+      "[Expert Boxing — Uppercut Combo](https://expertboxing.com/uppercut-hook-cross)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "five-punch-combo",
+    "name_vi": "Combo năm đòn",
+    "name_en": "Five-Punch Combo",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐⭐",
+    "tags": "Combinations / advanced / volume",
+    "situation": "Five-punch combo: ví dụ jab-cross-hook-cross-hook — volume và angles. Cần conditioning và timing. Không spam — chọn thời điểm opponent passive hoặc sau feint. Lỗi: combo quá dài miss cuối, gas out.",
+    "defense": "Phòng thủ combo dài: clinch giữa chuỗi để cắt combo — đừng đợi hết năm đòn. Slip hoặc roll đòn thứ ba thường làm combo dừng. Counter sớm bằng jab interrupt đòn đầu. Body shot khi họ đang throw combo làm họ gas và miss cuối. Cover up ngắn nếu bị corner rồi pivot out. Đọc pattern — combo dài thường lặp lại trong sparring.",
+    "video_attack": {
+      "title": "5 Punch Combo for Boxing",
+      "url": "https://www.youtube.com/watch?v=fk1Ed6t_xfs"
+    },
+    "video_defense": {
+      "title": "Interrupting Combinations",
+      "url": "https://www.youtube.com/watch?v=ggLJw14DA84"
+    },
+    "sources": [
+      "[Coach Anthony — 5 Punch Combo](https://www.youtube.com/watch?v=fk1Ed6t_xfs)",
+      "[Expert Boxing — Advanced Combos](https://expertboxing.com/advanced-combinations)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "inside-combo",
+    "name_vi": "Combo tầm gần",
+    "name_en": "Inside Combinations",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐",
+    "tags": "Combinations / inside / short",
+    "situation": "Inside combo: short punches — uppercut, hook, shovel hook ở clinch range. Không cần full extension. Head movement + short shots. Lỗi: inside combo ở tầm xa (miss), không bảo vệ khi inside.",
+    "defense": "Chống inside combo: clinch tie-up ngay khi họ vào tầm gần — không cho không gian short punch. Push off tạo khoảng cách rồi jab. Uppercut counter khi họ bước vào. Pivot out thay vì brawl inside nếu inside không phải strength của bạn. Forearm frame chặn uppercut. Referee sẽ break clinch — sẵn sàng punch on break.",
+    "video_attack": {
+      "title": "Inside Fighting Combinations",
+      "url": "https://www.youtube.com/watch?v=ovU4G4QT03c"
+    },
+    "video_defense": {
+      "title": "Clinch Fighting Defense",
+      "url": "https://www.youtube.com/watch?v=OAjZjYhwidQ"
+    },
+    "sources": [
+      "[Coach Anthony — Inside Combo](https://www.youtube.com/watch?v=ovU4G4QT03c)",
+      "[Expert Boxing — Inside Fighting](https://expertboxing.com/inside-combinations)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "counter-1-2",
+    "name_vi": "Counter 1-2",
+    "name_en": "Counter Jab-Cross",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐⭐",
+    "tags": "Combinations / counter / reactive",
+    "situation": "Counter 1-2: slip/parry jab đối thủ rồi cross (hoặc 1-2 của bạn sau defense). Reactive combo — không initiate. Lỗi: counter sớm (miss jab), counter không follow guard.",
+    "defense": "Tránh bị counter 1-2: feint jab không commit thật. Double jab — họ counter sau jab đầu sẽ miss jab hai. Jab body thay vì jab đầu. Không over-extend jab — tay dẫn quay về guard nhanh. Mix jab với hook off jab. Bước offline sau jab thay vì đứng thẳng hàng. Đọc đối thủ hay slip hay parry.",
+    "video_attack": {
+      "title": "Counter the Jab with a Cross",
+      "url": "https://www.youtube.com/watch?v=KuXLl3siQrQ"
+    },
+    "video_defense": {
+      "title": "Feint Jab Defense",
+      "url": "https://www.youtube.com/watch?v=VsSxDoQ6F6c"
+    },
+    "sources": [
+      "[Coach Anthony — Counter 1-2](https://www.youtube.com/watch?v=KuXLl3siQrQ)",
+      "[Expert Boxing — Counter Punching](https://expertboxing.com/counter-punching)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "feint-combo",
+    "name_vi": "Feint combo",
+    "name_en": "Feint Combination",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐",
+    "tags": "Combinations / feint / setup",
+    "situation": "Feint combo: feint jab/body/head rồi combo thật — draw phản ứng mở guard. Feint shoulder, feint step, feint jab half. Lỗi: feint quá nhiều (predictable), feint không follow real punch.",
+    "defense": "Chống feint combo: không phản ứng mọi feint — chờ đòn thật. Jab interrupt khi thấy shoulder load thật. Counter ngay sau feint rỗng nếu họ over-feint. Giữ guard không di chuyển quá nhiều với feint tay. Body stay busy — khó feint người luôn punch. Quan sát hông và chân — feint thật thường có weight transfer.",
+    "video_attack": {
+      "title": "Feinting to Set Up Combinations",
+      "url": "https://www.youtube.com/watch?v=b15GMrjIfPE"
+    },
+    "video_defense": {
+      "title": "Not Falling for Feints",
+      "url": "https://www.youtube.com/watch?v=Cx1AQp0qChA"
+    },
+    "sources": [
+      "[Coach Anthony — Feint Combo](https://www.youtube.com/watch?v=b15GMrjIfPE)",
+      "[Expert Boxing — Feinting](https://expertboxing.com/feinting)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "switch-hitting",
+    "name_vi": "Switch hitting",
+    "name_en": "Switch Hitting",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐⭐⭐",
+    "tags": "Combinations / switch stance / angles",
+    "situation": "Switch hitting: đổi southpaw/orthodox giữa combo — confuse angles. Ví dụ orthodox jab, switch southpaw, lead hook. Cần thành thạo cả hai thế. Lỗi: switch chậm (ăn đòn giữa switch), switch không train đủ.",
+    "defense": "Phòng thủ switch hitting: tấn công ngay khi họ đang đổi stance — khoảnh khắc chân chưa set. Jab liên tục buộc họ switch trong tư thế bất lợi. Không chase vào góc mới sau switch — reset distance bằng footwork. Học nhận biết switch qua hông và chân trước. Body shot khi switch vì guard thường lỏng giữa chuyển. Sparring nhiều với switch hitter để quen timing.",
+    "video_attack": {
+      "title": "Switch Hitting in Boxing",
+      "url": "https://www.youtube.com/watch?v=L3T8RpgakFk"
+    },
+    "video_defense": {
+      "title": "Stopping the Switch",
+      "url": "https://www.youtube.com/watch?v=4Q9hqtQ85IY"
+    },
+    "sources": [
+      "[Coach Anthony — Switch Hitting](https://www.youtube.com/watch?v=L3T8RpgakFk)",
+      "[Expert Boxing — Switch Stance](https://expertboxing.com/switch-hitting)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "pad-work-basics",
+    "name_vi": "Pad work cơ bản",
+    "name_en": "Pad Work Basics",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp",
+    "level": "⭐",
+    "tags": "Combinations / mitts / partner",
+    "situation": "Pad work (focus mitts): HLV giữ mitts, võ sĩ throw combo theo call. Luyện timing, accuracy, combo flow. Bắt đầu 1-2, 1-2-3, thêm defense giữa rounds. Lỗi: đấm mitts mà không di chuyển, power quá sớm (form xấu).",
+    "defense": "Khi partner hold mitts: gọi combo realistic không quá phức tạp cho level họ. Giữ mitts sát nhau đúng angle — mitts lỏng dạy form xấu. Feedback ngay sau mỗi combo: thiếu pivot, hạ tay, thiếu snap. Tăng tempo dần, không rush power ngày đầu. Rotate giữa offense mitts và defense drill. Đội găng đầy đủ cả holder và puncher.",
+    "video_attack": {
+      "title": "Focus Mitt Basics for Boxing",
+      "url": "https://www.youtube.com/watch?v=W-bs8oki3Wc"
+    },
+    "video_defense": {
+      "title": "Holding Mitts for Partner",
+      "url": "https://www.youtube.com/watch?v=4Q9hqtQ85IY"
+    },
+    "sources": [
+      "[Coach Anthony — Pad Work](https://www.youtube.com/watch?v=W-bs8oki3Wc)",
+      "[Expert Boxing — Mitt Work](https://expertboxing.com/pad-work)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "counter-basics",
+    "name_vi": "Counter cơ bản",
+    "name_en": "Counter Punching Basics",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công",
+    "level": "⭐⭐",
+    "tags": "Counter / fundamentals / timing",
+    "situation": "Counter punching: để đối thủ miss hoặc commit trước, rồi đánh — 'make them miss, make them pay'. Slip-parry-roll trước counter. Lỗi: counter sớm, counter không guard sau. Học counter sau khi defense solid.",
+    "defense": "Chống counter puncher: feint nhiều, không commit đòn đầu tiên thật. Volume mix body và head — khó counter mọi đòn. Jab không over-extend. Đừng chase sau khi họ slip — họ chờ bạn miss. Pressure với short combo thay vì one big shot. Study tape xem họ thích slip hay parry. Body attack buộc họ phòng thủ thay vì chỉ counter.",
+    "video_attack": {
+      "title": "Counter Punching Basics",
+      "url": "https://www.youtube.com/watch?v=S240LUSyJoU"
+    },
+    "video_defense": {
+      "title": "Beating the Counter Puncher",
+      "url": "https://www.youtube.com/watch?v=_suns2rGt2U"
+    },
+    "sources": [
+      "[Tony Jeffries — Counter Basics](https://www.youtube.com/watch?v=S240LUSyJoU)",
+      "[Expert Boxing — Counter Punching](https://expertboxing.com/counter-punching)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "pull-counter",
+    "name_vi": "Pull counter",
+    "name_en": "Pull Counter",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công",
+    "level": "⭐⭐⭐",
+    "tags": "Counter / pull back / Mayweather",
+    "situation": "Pull counter: lean back né jab/cross, counter cross/hook ngay — Mayweather specialty. Timing chính xác — pull quá sớm miss, quá muộn ăn đòn. Lỗi: pull không counter, pull vs hook (nguy hiểm).",
+    "defense": "Tránh pull counter: body shot trước — pull back hở bụng. Feint jab draw pull rồi hook thật. Double jab, cú thứ hai bắt khi họ đang recover pull. Hook sau jab thay vì cross — pull counter cross là signature. Không lean forward khi jab. Mix jab với step to side. Đọc khi họ hay lean back — setup trap.",
+    "video_attack": {
+      "title": "Pull Counter Technique",
+      "url": "https://www.youtube.com/watch?v=fJdJTbed2kI"
+    },
+    "video_defense": {
+      "title": "Avoiding Pull Counter",
+      "url": "https://www.youtube.com/watch?v=D8DouKeOkfI"
+    },
+    "sources": [
+      "[Tony Jeffries — Pull Counter](https://www.youtube.com/watch?v=fJdJTbed2kI)",
+      "[Expert Boxing — Pull Counter](https://expertboxing.com/pull-counter)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "parry-counter-cross",
+    "name_vi": "Parry counter cross",
+    "name_en": "Parry Counter Cross",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công",
+    "level": "⭐⭐",
+    "tags": "Counter / parry / cross",
+    "situation": "Parry jab sang phải, cross đồng thời hoặc ngay sau — combo phòng thủ phổ biến nhất. Parry nhẹ, cross từ guard. Drill partner jab slow → parry cross.",
+    "defense": "Chống parry counter cross: feint jab draw parry rỗng. Jab body — parry jab đầu khó, body jab mở guard. Hook off jab thay vì cross sau jab bị parry. Double jab buộc parry hai lần. Jab ngắn không lock. Slip thay vì jab thẳng tuyến nếu biết họ hay parry.",
+    "video_attack": {
+      "title": "Parry and Counter with Cross",
+      "url": "https://www.youtube.com/watch?v=1pwhwJ3pmis"
+    },
+    "video_defense": {
+      "title": "Feint Jab to Draw Parry",
+      "url": "https://www.youtube.com/watch?v=VsSxDoQ6F6c"
+    },
+    "sources": [
+      "[Expert Boxing — Parry Counter](https://expertboxing.com/parry-counter)",
+      "[Precision Striking — Parry Cross](https://precisionstriking.com/parry-counter/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "slip-counter-cross",
+    "name_vi": "Slip counter cross",
+    "name_en": "Slip Counter Cross",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công",
+    "level": "⭐⭐",
+    "tags": "Counter / slip / cross",
+    "situation": "Slip outside jab, counter cross tay sau — 'slip and rip'. Slip nhẹ, cross ngay trong arc jab. Lỗi: slip sâu miss counter timing.",
+    "defense": "Phòng thủ slip counter cross: feint jab không commit. Double jab — slip thường chỉ né cú đầu. Jab body khi slip inside. Hook sau jab nếu họ slip ngoài jab của bạn. Không over-commit jab. Mix rhythm — slip counter cần đọc jab của bạn. Uppercut khi thấy họ slip xuống quá sâu.",
+    "video_attack": {
+      "title": "Slip and Rip Counter Cross",
+      "url": "https://www.youtube.com/watch?v=d6QxRAZZH4A"
+    },
+    "video_defense": {
+      "title": "Defending Slip Counter",
+      "url": "https://www.youtube.com/watch?v=RE7elmI9Uu8"
+    },
+    "sources": [
+      "[Precision Striking — Slip Counter](https://precisionstriking.com/slip-counter/)",
+      "[Expert Boxing — Slip and Rip](https://expertboxing.com/slip-counter)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "counter-overhand",
+    "name_vi": "Counter overhand",
+    "name_en": "Counter Overhand",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công",
+    "level": "⭐⭐⭐",
+    "tags": "Counter / overhand / power",
+    "situation": "Counter overhand: khi đối thủ jab/commit forward, overhand vòng guard — power counter. Timing khi họ lean in. Lỗi: overhand quá chậm, miss over-commit.",
+    "defense": "Chống counter overhand: jab không lean forward quá nhiều. Slip inside jab thay vì commit forward. Body jab trước head — overhand counter thường sau jab miss. Keep jab short và recoil nhanh. Feint jab draw overhand counter rỗng rồi hook. Guard cao sau mọi jab nếu đối thủ hay overhand counter.",
+    "video_attack": {
+      "title": "Counter with Overhand Right",
+      "url": "https://www.youtube.com/watch?v=HbBhPZZil7E"
+    },
+    "video_defense": {
+      "title": "Slip the Overhand",
+      "url": "https://www.youtube.com/watch?v=3MDpSjcXzVg"
+    },
+    "sources": [
+      "[Expert Boxing — Counter Overhand](https://expertboxing.com/counter-overhand)",
+      "[fightTIPS — Overhand Counter](https://www.youtube.com/watch?v=xfbkC_kQ1Gw)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "counter-body",
+    "name_vi": "Counter body",
+    "name_en": "Body Counter",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công",
+    "level": "⭐⭐",
+    "tags": "Counter / body / setup",
+    "situation": "Counter body: khi đối thủ guard cao hoặc sau khi họ head punch, counter body jab/hook — 'hit where they ain't'. Body counter phá nhịp và setup head.",
+    "defense": "Phòng thủ body counter: sau khi đánh đầu, guard body ngay — body counter thường follow head punch. Không over-commit head shot liên tục. Mix level — feint head attack body. Clinch sau combo đầu nếu bị hurt body. Block khuỷu sẵn sàng sau mỗi flurry đầu. Condition body trong training để không fold khi bị counter body.",
+    "video_attack": {
+      "title": "Body Counter Punching",
+      "url": "https://www.youtube.com/watch?v=jhcIjFgz2bI"
+    },
+    "video_defense": {
+      "title": "Body Defense After Attack",
+      "url": "https://www.youtube.com/watch?v=dclpaykd08U"
+    },
+    "sources": [
+      "[Tony Jeffries — Body Counter](https://www.youtube.com/watch?v=jhcIjFgz2bI)",
+      "[Expert Boxing — Body Counter](https://expertboxing.com/body-counter)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "check-hook-counter",
+    "name_vi": "Check hook counter",
+    "name_en": "Check Hook Counter",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công",
+    "level": "⭐⭐⭐",
+    "tags": "Counter / check hook / advanced",
+    "situation": "Check hook counter: khi pressure forward, pivot check hook — counter và stop momentum. Mayweather vs Pacquiao style. Lỗi: check quá sớm/muộn.",
+    "defense": "Tránh check hook counter: feint step forward không commit thật. Body shot trước khi tiến — check hook thường nhắm đầu. Angle change sang trái/phải thay vì đi thẳng vào. Jab at distance, không chase vào tầm check hook. Double feint step. Nếu bị check hook: cover up ngay, clinch, recover.",
+    "video_attack": {
+      "title": "Check Hook Counter",
+      "url": "https://www.youtube.com/watch?v=fDnul3Hv2RQ"
+    },
+    "video_defense": {
+      "title": "Beating Check Hook",
+      "url": "https://www.youtube.com/watch?v=ccBW7bpodng"
+    },
+    "sources": [
+      "[Expert Boxing — Check Hook](https://expertboxing.com/check-hook-counter)",
+      "[Precision Striking — Check Hook](https://precisionstriking.com/check-hook/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "timing-counter",
+    "name_vi": "Timing counter",
+    "name_en": "Timing and Counter",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công",
+    "level": "⭐⭐⭐",
+    "tags": "Counter / timing / rhythm",
+    "situation": "Timing counter: đọc nhịp đối thủ — punch giữa combo họ, sau đòn cuối, khi họ breathe. Không rush — wait opening. Lỗi: counter vào guard; impatient.",
+    "defense": "Chống timing counter: vary rhythm — đừng combo cùng pattern mỗi lần. Feint trước đòn thật. Body mix phá timing họ đọc. Pause giữa combo — counter puncher hay đợi đòn cuối. Jab flick không commit. Sparring nhiều để họ không đọc được habit. Burst và pause không đều.",
+    "video_attack": {
+      "title": "Timing Your Counters",
+      "url": "https://www.youtube.com/watch?v=eBxn21FtqPg"
+    },
+    "video_defense": {
+      "title": "Breaking Opponent Timing",
+      "url": "https://www.youtube.com/watch?v=rnwEUIylf8A"
+    },
+    "sources": [
+      "[Tony Jeffries — Timing](https://www.youtube.com/watch?v=eBxn21FtqPg)",
+      "[Expert Boxing — Counter Timing](https://expertboxing.com/counter-timing)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "out-boxer",
+    "name_vi": "Out-boxer",
+    "name_en": "Out-Boxer Style",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐",
+    "tags": "Strategy / out-boxer / distance",
+    "situation": "Out-boxer giữ tầm xa, jab control, footwork lùi, counter — không brawl. Win on points và frustration. Cần jab tốt, cardio, ring IQ. Lỗi: lùi vào rope, jab không variety, không punish advance.",
+    "defense": "Chống out-boxer: cut ring, không đuổi thẳng. Body attack làm chậm footwork lùi của họ. Feint buộc họ phản ứng rồi angle in. Pressure từng bước có punch, không chỉ walk forward. Southpaw angles nếu họ quen orthodox jab battle. Double jab close distance. Kiên nhẫn — không frustrate và over-commit.",
+    "video_attack": {
+      "title": "How to Outbox Your Opponent",
+      "url": "https://www.youtube.com/watch?v=KxcDlH3KWA"
+    },
+    "video_defense": {
+      "title": "Beating the Out-Boxer",
+      "url": "https://www.youtube.com/watch?v=2QkqWAOfdrE"
+    },
+    "sources": [
+      "[fightTIPS — Outboxing](https://www.youtube.com/watch?v=KxcDlH3KWA)",
+      "[Expert Boxing — Out-Boxer](https://expertboxing.com/out-boxer)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "pressure-fighting",
+    "name_vi": "Pressure fighting",
+    "name_en": "Pressure Fighting",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐",
+    "tags": "Strategy / pressure / inside",
+    "situation": "Pressure fighting: bước forward liên tục, body shots, cut ring, không cho breath — GGG, Julio Cesar Chavez style. Cần cardio và chin. Lỗi: pressure không punch (walk forward), head first no guard.",
+    "defense": "Phòng thủ pressure fighter: footwork lùi có punch — jab off back foot. Clinch reset khi bị áp sát. Check hook khi họ bước vào. Body stay busy — body shot slow pressure. Counter khi họ commit forward. Pivot out góc thay vì đứng yên absorb. Cardio tốt để không fade trước họ.",
+    "video_attack": {
+      "title": "Pressure Fighting Tips",
+      "url": "https://www.youtube.com/watch?v=9G4CMCcpfVI"
+    },
+    "video_defense": {
+      "title": "Stopping Pressure Fighters",
+      "url": "https://www.youtube.com/watch?v=VLJcYBIXC6Y"
+    },
+    "sources": [
+      "[fightTIPS — Pressure](https://www.youtube.com/watch?v=9G4CMCcpfVI)",
+      "[Expert Boxing — Pressure Fighting](https://expertboxing.com/pressure-fighting)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "in-fighter",
+    "name_vi": "In-fighter",
+    "name_en": "In-Fighter / Swarmer",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐",
+    "tags": "Strategy / inside / swarmer",
+    "situation": "In-fighter (swarmer): vào tầm gần, short hooks, uppercuts, volume — Mike Tyson, Ricky Hatton. Cần head movement và inside defense. Lỗi: vào không combo (ăn counter), không clinch break.",
+    "defense": "Chống in-fighter: jab push giữ khoảng cách. Uppercut khi họ bước vào — entry là lúc hở. Clinch tie-up giảm short punch space. Pivot out sau mỗi combo của bạn. Không brawl nếu bạn out-boxer. Body shot khi họ head movement nhiều. Referee break clinch — sẵn sàng jab on break.",
+    "video_attack": {
+      "title": "Inside Fighting Strategy",
+      "url": "https://www.youtube.com/watch?v=6RtJtwn3__0"
+    },
+    "video_defense": {
+      "title": "Keeping Distance from Swarmer",
+      "url": "https://www.youtube.com/watch?v=NbhTtrpRYME"
+    },
+    "sources": [
+      "[Expert Boxing — In-Fighter](https://expertboxing.com/in-fighter)",
+      "[fightTIPS — Inside Fighting](https://www.youtube.com/watch?v=ur5hukAy08k)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "fighting-ranges",
+    "name_vi": "Các tầm đánh",
+    "name_en": "Fighting Ranges",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐",
+    "tags": "Strategy / range / distance",
+    "situation": "Ba tầm: long (jab range), mid (combo range), close (inside/clinch). Mỗi đòn có tầm optimal — jab long, hook mid, uppercut close. Game plan: fight ở tầm strength. Lỗi: hook tầm xa, jab tầm gần.",
+    "defense": "Exploit wrong range: nếu họ hook tầm xa — stay long jab. Nếu họ jab tầm gần — inside clinch và uppercut. Lùi khi họ inside strong; pressure khi họ chỉ out-box. Footwork điều khiển range chứ không để họ chọn. Feint draw họ vào range bất lợi. Body shot buộc đổi range.",
+    "video_attack": {
+      "title": "Understanding Boxing Ranges",
+      "url": "https://www.youtube.com/watch?v=TdatF03Gb4Q"
+    },
+    "video_defense": {
+      "title": "Changing Ranges in a Fight",
+      "url": "https://www.youtube.com/watch?v=A4xK6XqWBYk"
+    },
+    "sources": [
+      "[fightTIPS — Ranges](https://www.youtube.com/watch?v=TdatF03Gb4Q)",
+      "[Expert Boxing — Fighting Ranges](https://expertboxing.com/boxing-ranges)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "cut-ring",
+    "name_vi": "Cut ring",
+    "name_en": "Cutting Off the Ring",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐",
+    "tags": "Strategy / footwork / trap",
+    "situation": "Cut ring: bước chéo chặn lối thoát đối thủ — không chase trực tiếp. Step to their lead foot side. Lỗi: chase linear ( họ lùi thoát), cut quá chậm.",
+    "defense": "Thoát bị cut ring: pivot dọc theo rope không lùi thẳng vào góc. Jab stop advance của họ. Clinch reset position. Angle step sudden sang trái/phải. Không panic — cover up ngắn rồi footwork out. Punch off ropes thay vì chỉ cover passive.",
+    "video_attack": {
+      "title": "How to Cut Off the Ring",
+      "url": "https://www.youtube.com/watch?v=s4mNa-5MdmY"
+    },
+    "video_defense": {
+      "title": "Ring Cutting Defense",
+      "url": "https://www.youtube.com/watch?v=BDuTGIx5qy8"
+    },
+    "sources": [
+      "[fightTIPS — Cut Ring](https://www.youtube.com/watch?v=s4mNa-5MdmY)",
+      "[Expert Boxing — Cut Ring](https://expertboxing.com/cut-ring)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "center-ring",
+    "name_vi": "Giữ tâm ring",
+    "name_en": "Center Ring Control",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐",
+    "tags": "Strategy / ring generalship / position",
+    "situation": "Center ring control: giữ vị trí trung tâm, đối thủ phải di chuyen quanh — judges favor center. Footwork và jab maintain position. Lỗi: follow opponent to rope (give center).",
+    "defense": "Lấy center ring: angle step vào giữa sau mỗi exchange. Jab push họ ra rìa. Cut ring hướng về center. Footwork không follow họ lùi ra rìa. Body shot buộc họ di chuyển theo ý bạn. Round 3 judges nhớ fighter ở center — game plan ring position.",
+    "video_attack": {
+      "title": "Controlling the Center of the Ring",
+      "url": "https://www.youtube.com/watch?v=xfbkC_kQ1Gw"
+    },
+    "video_defense": {
+      "title": "Losing Center Ring",
+      "url": "https://www.youtube.com/watch?v=KxcDlH3KWA"
+    },
+    "sources": [
+      "[fightTIPS — Ring Control](https://www.youtube.com/watch?v=xfbkC_kQ1Gw)",
+      "[Expert Boxing — Ring Generalship](https://expertboxing.com/ring-control)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "feints",
+    "name_vi": "Feint",
+    "name_en": "Feinting",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐",
+    "tags": "Strategy / feint / deception",
+    "situation": "Feint: giả đòn draw phản ứng — feint jab, shoulder feint, step feint, body feint. Mở guard và timing cho real punch. Lỗi: feint every punch (predictable), feint không follow.",
+    "defense": "Chống feint-heavy fighter: không react — wait real punch. Jab interrupt shoulder feint. Counter feint rỗng. Body stay busy khó feint. Eyes on chest và hips không chỉ tay. Sparring patience — beginner hay bite mọi feint. Record và review feint patterns.",
+    "video_attack": {
+      "title": "How to Feint in Boxing",
+      "url": "https://www.youtube.com/watch?v=b15GMrjIfPE"
+    },
+    "video_defense": {
+      "title": "Not Falling for Feints",
+      "url": "https://www.youtube.com/watch?v=Cx1AQp0qChA"
+    },
+    "sources": [
+      "[Coach Anthony — Feints](https://www.youtube.com/watch?v=b15GMrjIfPE)",
+      "[Expert Boxing — Feinting](https://expertboxing.com/feinting)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "southpaw-matchup",
+    "name_vi": "Trận southpaw",
+    "name_en": "Southpaw Matchup",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐⭐",
+    "tags": "Strategy / southpaw / angles",
+    "situation": "Southpaw vs orthodox: battle for outside foot — ai có outside foot có góc cross tốt. Southpaw jab vs orthodox jab collision. Lỗi: foot position equal (dangerous).",
+    "defense": "Southpaw vs orthodox: giành outside lead foot — bước chéo chân trước ra ngoài chân họ. Jab battle tay dẫn — tie up tay dẫn họ. Tránh foot parallel nguy hiểm. Cross khi có outside angle. Pivot clear khỏi cross tay sau của họ. Drill southpaw matchup riêng trong camp.",
+    "video_attack": {
+      "title": "Southpaw vs Orthodox Strategy",
+      "url": "https://www.youtube.com/watch?v=G7YMlzwiwtA"
+    },
+    "video_defense": {
+      "title": "Southpaw Matchup Defense",
+      "url": "https://www.youtube.com/watch?v=R7kuzFX4Z24"
+    },
+    "sources": [
+      "[Expert Boxing — Southpaw Matchup](https://expertboxing.com/southpaw-matchup)",
+      "[Boxing Life — Southpaw](https://www.youtube.com/watch?v=aoYVawF8F8A)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "rope-management",
+    "name_vi": "Quản lý dây",
+    "name_en": "Rope Management",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐",
+    "tags": "Strategy / ropes / survival",
+    "situation": "Rope management: khi ở rope — clinch, pivot along rope, cover up, không panic. Pivot để thoát corner. Lỗi: stand flat on ropes, không punch off ropes.",
+    "defense": "Khi trap opponent on ropes: angle cut không punch wild — body head mix. Uppercut khi họ cover high on ropes. Không waste energy vào guard trên rope. Back off một bước draw họ ra rồi attack again. Ref may break clinch on ropes. Volume to body khi họ shell up.",
+    "video_attack": {
+      "title": "Fighting Off the Ropes",
+      "url": "https://www.youtube.com/watch?v=o8hZWhvQyNc"
+    },
+    "video_defense": {
+      "title": "Trapping on the Ropes",
+      "url": "https://www.youtube.com/watch?v=s4mNa-5MdmY"
+    },
+    "sources": [
+      "[Tony Jeffries — Ropes](https://www.youtube.com/watch?v=o8hZWhvQyNc)",
+      "[Expert Boxing — Rope Management](https://expertboxing.com/rope-management)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "head-movement-offense",
+    "name_vi": "Head movement tấn công",
+    "name_en": "Offensive Head Movement",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật",
+    "level": "⭐⭐⭐",
+    "tags": "Strategy / head movement / offense",
+    "situation": "Offensive head movement: slip/roll trong khi punch — head off centerline khi attack. Tyson, Lomachenko style. Khó hơn defensive head movement. Lỗi: head movement không punch (just dancing).",
+    "defense": "Chống offensive head movement: body shot khi đầu họ di chuyển — body cố định hơn. Uppercut khi head down sau slip. Clinch stop rhythm movement. Feint draw movement rồi counter static moment. Jab at body và head alternating. Không chase head — punch where body will be.",
+    "video_attack": {
+      "title": "Offensive Head Movement",
+      "url": "https://www.youtube.com/watch?v=xOeEqDjkaVE"
+    },
+    "video_defense": {
+      "title": "Stopping Head Movement",
+      "url": "https://www.youtube.com/watch?v=rqklqINb7ag"
+    },
+    "sources": [
+      "[Tony Jeffries — Head Movement](https://www.youtube.com/watch?v=xOeEqDjkaVE)",
+      "[fightTIPS — Head Movement](https://www.youtube.com/watch?v=rqklqINb7ag)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "basic-clinch",
+    "name_vi": "Clinch cơ bản",
+    "name_en": "Basic Clinch",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#9-clinch",
+    "level": "⭐",
+    "tags": "Clinch / tie-up / rest",
+    "situation": "Basic clinch: ôm đối thủ, tay trên tay họ, đầu dưới hoặc bên — nghỉ, reset, hoặc inside work setup. Ref break sau vài giây. Lỗi: clinch passively only (judges không thích), clinch không punch.",
+    "defense": "Break basic clinch: rotate one arm over theirs. Push on biceps tạo space. Punch legal on break — uppercut or hook. Head position — không để họ head under chin. Referee call break — step back ready. Tie arm của họ nếu muốn giữ clinch longer.",
+    "video_attack": {
+      "title": "Basic Boxing Clinch",
+      "url": "https://www.youtube.com/watch?v=7qLvDgpy3cI"
+    },
+    "video_defense": {
+      "title": "Breaking the Clinch",
+      "url": "https://www.youtube.com/watch?v=OAjZjYhwidQ"
+    },
+    "sources": [
+      "[Coach Anthony — Clinch](https://www.youtube.com/watch?v=7qLvDgpy3cI)",
+      "[Expert Boxing — Clinch](https://expertboxing.com/boxing-clinch)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "clinch-punching",
+    "name_vi": "Đấm trong clinch",
+    "name_en": "Clinch Punching",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#9-clinch",
+    "level": "⭐⭐",
+    "tags": "Clinch / inside punch / short",
+    "situation": "Clinch punching: short uppercut, hook body/head trong clinch — legal trước ref break. Forearm create space. Lỗi: punch on back of head (foul), hold too long.",
+    "defense": "Phòng thủ clinch punching: tie arms tighter — không cho space short punch. Head on their shoulder reduce uppercut angle. Referee call break — guard on break. Push off create distance. Rotate out của clinch thay vì stay passive. Legal — không hit back of head.",
+    "video_attack": {
+      "title": "Punching Inside the Clinch",
+      "url": "https://www.youtube.com/watch?v=ovU4G4QT03c"
+    },
+    "video_defense": {
+      "title": "Clinch Punch Defense",
+      "url": "https://www.youtube.com/watch?v=6kncaKLpXLw"
+    },
+    "sources": [
+      "[Coach Anthony — Clinch Punch](https://www.youtube.com/watch?v=ovU4G4QT03c)",
+      "[Expert Boxing — Clinch Punching](https://expertboxing.com/clinch-punching)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "inside-fighting",
+    "name_vi": "Inside fighting",
+    "name_en": "Inside Fighting",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#9-clinch",
+    "level": "⭐⭐",
+    "tags": "Clinch / inside / short game",
+    "situation": "Inside fighting: tầm clinch range — short shots, head movement, tie-up battle. Không full extension punches. Cần conditioning và dirty boxing basics.",
+    "defense": "Chống inside fighter: jab off push không cho settle inside. Pivot out mỗi 3–4 giây nếu bị trap inside. Uppercut on entry. Win clinch battle — stronger tie-up. Outside game nếu inside không phải strength. Cardio for inside war. Ref breaks — capitalize on reset.",
+    "video_attack": {
+      "title": "Inside Fighting Techniques",
+      "url": "https://www.youtube.com/watch?v=6RtJtwn3__0"
+    },
+    "video_defense": {
+      "title": "Stopping Inside Fighters",
+      "url": "https://www.youtube.com/watch?v=9G4CMCcpfVI"
+    },
+    "sources": [
+      "[Expert Boxing — Inside Fighting](https://expertboxing.com/inside-fighting)",
+      "[fightTIPS — Inside](https://www.youtube.com/watch?v=ur5hukAy08k)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "tie-break",
+    "name_vi": "Thoát clinch",
+    "name_en": "Clinch Break / Tie Break",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#9-clinch",
+    "level": "⭐⭐",
+    "tags": "Clinch / break / escape",
+    "situation": "Tie break: rotate one arm over, push on biceps, step back — referee break hoặc self break. Punch on break legal window. Lỗi: break và eat counter (guard on break).",
+    "defense": "Ngăn tie-break nếu bạn đang win inside: re-clinch ngay sau họ break. Punch before referee fully separates. Stronger arm position prevent their rotate out. Head pressure forward. Dirty boxing legal frames — forearm on biceps. Third man in ring — respect ref.",
+    "video_attack": {
+      "title": "How to Break a Clinch",
+      "url": "https://www.youtube.com/watch?v=OAjZjYhwidQ"
+    },
+    "video_defense": {
+      "title": "Preventing Clinch Break",
+      "url": "https://www.youtube.com/watch?v=7qLvDgpy3cI"
+    },
+    "sources": [
+      "[Coach Anthony — Clinch Break](https://www.youtube.com/watch?v=OAjZjYhwidQ)",
+      "[Expert Boxing — Tie Break](https://expertboxing.com/clinch-break)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "clinch-defense",
+    "name_vi": "Phòng thủ clinch",
+    "name_en": "Clinch Defense",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#9-clinch",
+    "level": "⭐⭐",
+    "tags": "Clinch / defense / avoid",
+    "situation": "Clinch defense: avoid bị tie — hand fight, forearm frame, không let opponent head under chin. Jab push before clinch. Lỗi: accept clinch when losing outside.",
+    "defense": "Force clinch on opponent who hates inside: pressure step in on their punch recovery. Tie on jab return. Inside step after body shot. Head under their chin legal position. Ref will break — plan punch on break. Train clinch daily if strategy.",
+    "video_attack": {
+      "title": "Clinch Defense for Boxers",
+      "url": "https://www.youtube.com/watch?v=ggLJw14DA84"
+    },
+    "video_defense": {
+      "title": "Forcing the Clinch",
+      "url": "https://www.youtube.com/watch?v=ovU4G4QT03c"
+    },
+    "sources": [
+      "[Coach Anthony — Clinch Defense](https://www.youtube.com/watch?v=ggLJw14DA84)",
+      "[Expert Boxing — Clinch Defense](https://expertboxing.com/clinch-defense)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "dirty-boxing-basics",
+    "name_vi": "Dirty boxing cơ bản",
+    "name_en": "Dirty Boxing Basics",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#9-clinch",
+    "level": "⭐⭐⭐",
+    "tags": "Clinch / dirty boxing / legal tricks",
+    "situation": "Dirty boxing (legal): forearm frame, shoulder bump, punch on break, body head mix inside — trong luật amateur/pro. Không low blow, headbutt, hit back of head. Lỗi: foul và point deduction.",
+    "defense": "Chống dirty boxing legal: referee awareness — protest foul rõ ràng. Tie arms prevent forearm frame. Outside range nếu họ inside specialist. Head position không cho shoulder bump off balance. Strong core resist bump. Watch tape opponent clinch habits trước fight.",
+    "video_attack": {
+      "title": "Dirty Boxing Techniques (Legal)",
+      "url": "https://www.youtube.com/watch?v=VsSxDoQ6F6c"
+    },
+    "video_defense": {
+      "title": "Referee and Clinch Fouls",
+      "url": "https://www.youtube.com/watch?v=6kncaKLpXLw"
+    },
+    "sources": [
+      "[Coach Anthony — Dirty Boxing](https://www.youtube.com/watch?v=VsSxDoQ6F6c)",
+      "[Expert Boxing — Inside Tricks](https://expertboxing.com/dirty-boxing)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "heavy-bag",
+    "name_vi": "Heavy bag",
+    "name_en": "Heavy Bag Training",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐",
+    "tags": "Training / bag / power",
+    "situation": "Heavy bag: luyện power, combo, conditioning — 3-5 rounds 3 min. Mix combos, body-head, movement around bag. Lỗi: chỉ power không technique, không move (static bag work). Wrap hands, gloves đúng size.",
+    "defense": "Heavy bag không phải đối thủ — nhưng khi partner bag work sai: đứng quá gần bag bị swing back hit. Di chuyển quanh bag simulate opponent angle. Bag work partner can call combos và correct form. Treat bag như opponent có counter — slip after combo on bag drill.",
+    "video_attack": {
+      "title": "Heavy Bag Workout for Boxing",
+      "url": "https://www.youtube.com/watch?v=UFVDcNDnpoU"
+    },
+    "video_defense": {
+      "title": "Heavy Bag Defense Drill",
+      "url": "https://www.youtube.com/watch?v=QkKXcpH5IxU"
+    },
+    "sources": [
+      "[Tony Jeffries — Heavy Bag](https://www.youtube.com/watch?v=UFVDcNDnpoU)",
+      "[Expert Boxing — Heavy Bag](https://expertboxing.com/heavy-bag-training)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "double-end-bag",
+    "name_vi": "Double-end bag",
+    "name_en": "Double-End Bag",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐⭐",
+    "tags": "Training / timing / accuracy",
+    "situation": "Double-end bag: timing, accuracy, head movement — bag rebound nhanh. Jab-cross timing, slip-punch. Lỗi: hit too hard (bag fly wild), không rhythm.",
+    "defense": "Double-end bag training defense angle: bag rebound nhanh simulate counter punch — slip sau mỗi combo trên double-end. Partner drill: một người call slip-punch rhythm. Timing miss = bag hit face — teaches guard recovery. Start slow speed tăng dần.",
+    "video_attack": {
+      "title": "Double End Bag Training",
+      "url": "https://www.youtube.com/watch?v=LnRH1t4b-ZY"
+    },
+    "video_defense": {
+      "title": "Timing on Double End Bag",
+      "url": "https://www.youtube.com/watch?v=kXOWCDIzKRY"
+    },
+    "sources": [
+      "[Expert Boxing — Double End Bag](https://expertboxing.com/double-end-bag)",
+      "[Precision Striking — Double End](https://precisionstriking.com/double-end-bag/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "speed-bag",
+    "name_vi": "Speed bag",
+    "name_en": "Speed Bag",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐⭐",
+    "tags": "Training / rhythm / hand speed",
+    "situation": "Speed bag: hand speed, rhythm, shoulder endurance — circular punch pattern. Bắt đầu slow, tăng tempo. Lỗi: quá sớm full speed (miss rhythm), không elbow up.",
+    "defense": "Speed bag luyện hand speed phản xạ — đối thủ hay speed bag có tay nhanh. Chống hand speed cao: body attack slow them. Clinch break rhythm tay nhanh. High guard compact — không mở rộng cho quick jab. Read shoulder không chỉ tay.",
+    "video_attack": {
+      "title": "Speed Bag Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=QR4inob0Hok"
+    },
+    "video_defense": {
+      "title": "Speed Bag Rhythm Tips",
+      "url": "https://www.youtube.com/watch?v=BQZg5tNW7yg"
+    },
+    "sources": [
+      "[Expert Boxing — Speed Bag](https://expertboxing.com/speed-bag)",
+      "[Precision Striking — Speed Bag](https://precisionstriking.com/speed-bag/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "focus-mitts",
+    "name_vi": "Focus mitts",
+    "name_en": "Focus Mitt Training",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐",
+    "tags": "Training / mitts / partner",
+    "situation": "Focus mitts với HLV/partner: accuracy, combo, defense reaction. HLV call combos, hold pads đúng angle. 5-10 rounds per session. Lỗi: mitt holder không feedback.",
+    "defense": "Holder defense role: mitts không phải target passive — move mitts realistic, pull away simulate miss. Correct angle — mitts perpendicular incoming punch. Call defense combos: slip-hook, parry-cross. Protect yourself as holder — elbows in.",
+    "video_attack": {
+      "title": "Focus Mitt Training Basics",
+      "url": "https://www.youtube.com/watch?v=W-bs8oki3Wc"
+    },
+    "video_defense": {
+      "title": "Advanced Mitt Drills",
+      "url": "https://www.youtube.com/watch?v=fk1Ed6t_xfs"
+    },
+    "sources": [
+      "[Coach Anthony — Focus Mitts](https://www.youtube.com/watch?v=W-bs8oki3Wc)",
+      "[Expert Boxing — Mitt Training](https://expertboxing.com/focus-mitts)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "partner-drills",
+    "name_vi": "Partner drills",
+    "name_en": "Partner Drills",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐",
+    "tags": "Training / partner / technique",
+    "situation": "Partner drills: slip-bar, parry-counter, jab-only sparring, body sparring — controlled technique work. Communicate intensity. Lỗi: drill become brawl, no gloves/mouthguard.",
+    "defense": "Partner drill safety: communicate power level trước. Gloves mouthguard mandatory. Stop nếu partner flinch excessive — giảm speed. Switch offense defense roles equal time. Coach supervise parry-counter drills — timing sensitive.",
+    "video_attack": {
+      "title": "Boxing Partner Drills",
+      "url": "https://www.youtube.com/watch?v=2OSLq94d5BE"
+    },
+    "video_defense": {
+      "title": "Parry Counter Partner Drill",
+      "url": "https://www.youtube.com/watch?v=1pwhwJ3pmis"
+    },
+    "sources": [
+      "[fightTIPS — Partner Drills](https://www.youtube.com/watch?v=2OSLq94d5BE)",
+      "[Expert Boxing — Partner Training](https://expertboxing.com/partner-drills)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "sparring-etiquette",
+    "name_vi": "Etiquette sparring",
+    "name_en": "Sparring Etiquette",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐",
+    "tags": "Training / sparring / safety",
+    "situation": "Sparring etiquette: match partner level, không hay đòn khi partner hurt, tap glove respect, không head hunt beginner. Goal là học không 'win'. Communicate power level trước.",
+    "defense": "Nếu partner vi phạm etiquette: nói giảm power ngay. Stop sparring nếu unsafe — không ego continue. Báo coach. Match intensity — không head hunt beginner. Tap glove respect. Record agreement round goals trước spar.",
+    "video_attack": {
+      "title": "Sparring Etiquette for Boxing",
+      "url": "https://www.youtube.com/watch?v=6kncaKLpXLw"
+    },
+    "video_defense": {
+      "title": "Safe Sparring Tips",
+      "url": "https://www.youtube.com/watch?v=NP0T6sbU1J0"
+    },
+    "sources": [
+      "[Boxing Life — Sparring Etiquette](https://www.youtube.com/watch?v=6kncaKLpXLw)",
+      "[Expert Boxing — Sparring Rules](https://expertboxing.com/sparring-etiquette)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "technical-sparring",
+    "name_vi": "Technical sparring",
+    "name_en": "Technical Sparring",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐⭐",
+    "tags": "Training / sparring / light",
+    "situation": "Technical sparring: light contact (30-50%), focus technique và defense — không score. Often jab only or one combo at a time. Lỗi: escalate to war, không respect light touch.",
+    "defense": "Technical spar defense: honor light touch — nếu partner escalate, restate rules hoặc stop. Counter light vẫn OK — teaches timing. Focus designated combos only không wild. Give feedback constructive sau round.",
+    "video_attack": {
+      "title": "Technical Sparring Guide",
+      "url": "https://www.youtube.com/watch?v=VLJcYBIXC6Y"
+    },
+    "video_defense": {
+      "title": "Light Sparring Defense",
+      "url": "https://www.youtube.com/watch?v=RE7elmI9Uu8"
+    },
+    "sources": [
+      "[fightTIPS — Technical Sparring](https://www.youtube.com/watch?v=VLJcYBIXC6Y)",
+      "[Expert Boxing — Technical Sparring](https://expertboxing.com/technical-sparring)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "conditioning",
+    "name_vi": "Conditioning",
+    "name_en": "Boxing Conditioning",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐",
+    "tags": "Training / cardio / fitness",
+    "situation": "Boxing conditioning: road work, interval sprints, circuit (burpees, jump rope, bag rounds). Fight-specific cardio — không chỉ chạy dài. 3 rounds bag = fight simulation. Lỗi: chỉ gym weights không cardio.",
+    "defense": "Opponent better conditioned: body attack drain cardio. Pace không let them sprint uninterrupted. Cut ring limit movement. Clinch rest steal nếu bạn mệt hơn — không ideal nhưng survival. Train conditioning equal — không rely opponent gas.",
+    "video_attack": {
+      "title": "Boxing Conditioning Workout",
+      "url": "https://www.youtube.com/watch?v=2QkqWAOfdrE"
+    },
+    "video_defense": {
+      "title": "Jump Rope Conditioning",
+      "url": "https://www.youtube.com/watch?v=QR4inob0Hok"
+    },
+    "sources": [
+      "[fightTIPS — Conditioning](https://www.youtube.com/watch?v=2QkqWAOfdrE)",
+      "[Expert Boxing — Conditioning](https://expertboxing.com/boxing-conditioning)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "warm-up",
+    "name_vi": "Khởi động",
+    "name_en": "Warm-Up",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐",
+    "tags": "Training / warm-up / injury prevention",
+    "situation": "Warm-up trước boxing: jump rope 5 min, dynamic stretch (arm circles, hip openers), shadowbox light 2 rounds, gradually increase intensity. Lỗi: không warm-up (injury), static stretch cold muscles.",
+    "defense": "Warm-up không trực tiếp defense — nhưng opponent skip warm-up có thể slow round 1. Pressure early test legs. Body shot early if they cold. Respect own warm-up — injury risk nếu skip.",
+    "video_attack": {
+      "title": "Boxing Warm Up Routine",
+      "url": "https://www.youtube.com/watch?v=rqklqINb7ag"
+    },
+    "video_defense": {
+      "title": "Dynamic Warm Up for Fighters",
+      "url": "https://www.youtube.com/watch?v=BDuTGIx5qy8"
+    },
+    "sources": [
+      "[fightTIPS — Warm Up](https://www.youtube.com/watch?v=rqklqINb7ag)",
+      "[Expert Boxing — Warm Up](https://expertboxing.com/boxing-warm-up)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "recovery",
+    "name_vi": "Phục hồi",
+    "name_en": "Recovery",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập",
+    "level": "⭐",
+    "tags": "Training / recovery / rest",
+    "situation": "Recovery: sleep 8h, hydration, protein, active recovery (light jog, stretch), ice sore areas. Rest days — không train hard 7 ngày/tuần. Lỗi: overtrain, không sleep, fight camp no recovery.",
+    "defense": "Opponent overtrain no recovery: they fade round 2–3 — increase pace hiệp sau. Bad weight cut opponent weak round 1 — capitalize early. Your recovery better = sustained output late rounds.",
+    "video_attack": {
+      "title": "Recovery for Boxers",
+      "url": "https://www.youtube.com/watch?v=aoYVawF8F8A"
+    },
+    "video_defense": {
+      "title": "Rest Days in Training",
+      "url": "https://www.youtube.com/watch?v=ZcpySnPb3EU"
+    },
+    "sources": [
+      "[Boxing Life — Recovery](https://www.youtube.com/watch?v=aoYVawF8F8A)",
+      "[Expert Boxing — Recovery](https://expertboxing.com/boxing-recovery)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "amateur-rules",
+    "name_vi": "Luật amateur",
+    "name_en": "Amateur Boxing Rules",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#11-rules-luật",
+    "level": "⭐",
+    "tags": "Rules / amateur / AIBA",
+    "situation": "Amateur rules (AIBA/USA Boxing): 3 rounds x 3 min (senior), headgear tùy giải, scoring 10-point must reduced emphasis — judges count clean punches. Standing eight count. Khác pro về pace và scoring.",
+    "defense": "Hiểu luật amateur để không bị surprise: opponent sẽ throw volume for judges — match activity. Standing eight count opportunity — không reckless abandon defense. Headgear changes timing — adjust distance.",
+    "video_attack": {
+      "title": "Amateur Boxing Rules Explained",
+      "url": "https://www.youtube.com/watch?v=6kncaKLpXLw"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Amateur Rules](https://www.youtube.com/watch?v=6kncaKLpXLw)",
+      "[AIBA Technical Rules](https://www.iba.sport/rulesset/)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "scoring",
+    "name_vi": "Cách chấm điểm",
+    "name_en": "Scoring Criteria",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#11-rules-luật",
+    "level": "⭐⭐",
+    "tags": "Rules / scoring / judges",
+    "situation": "Scoring pro (10-point must): effective aggression, ring generalship, defense, clean hard punches. Mỗi round winner 10, loser 9 (or 8 if dominated). Body shots count nếu clean. Lỗi hiểu: không chỉ knockdown mới score.",
+    "defense": "Fight scoring-aware opponent sẽ flurry cuối round — don't give round away last 30 seconds. Win rounds clearly không close rounds lazy. Ring generalship score — center và cut ring.",
+    "video_attack": {
+      "title": "How Boxing is Scored",
+      "url": "https://www.youtube.com/watch?v=6kncaKLpXLw"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Scoring](https://www.youtube.com/watch?v=6kncaKLpXLw)",
+      "[Expert Boxing — Scoring](https://expertboxing.com/boxing-scoring)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "legal-targets-fouls",
+    "name_vi": "Vùng đích và lỗi",
+    "name_en": "Legal Targets and Fouls",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#11-rules-luật",
+    "level": "⭐",
+    "tags": "Rules / fouls / safety",
+    "situation": "Legal targets: front of head, front/side body above belt. Fouls: low blow, headbutt, hit back of head/kidney, hold and hit, rabbit punches. Warning → point deduction → DQ. Groin protector bắt buộc amateur.",
+    "defense": "Opponent foul intentionally: talk ref immediately. Protect groin low guard. Don't retaliate foul — point deduction them. Know legal targets — body above belt front side.",
+    "video_attack": {
+      "title": "Boxing Fouls and Rules",
+      "url": "https://www.youtube.com/watch?v=6kncaKLpXLw"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Fouls](https://www.youtube.com/watch?v=6kncaKLpXLw)",
+      "[Expert Boxing — Boxing Rules](https://expertboxing.com/boxing-rules)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "competition-prep",
+    "name_vi": "Chuẩn bị thi đấu",
+    "name_en": "Competition Preparation",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#11-rules-luật",
+    "level": "⭐⭐",
+    "tags": "Rules / competition / camp",
+    "situation": "Competition prep: 6-8 week camp — taper volume week before, weight cut plan, study opponent tape, game plan 2-3 strategies. Mock sparring rounds. Lỗi: peak too early, bad weight cut.",
+    "defense": "Scout opponent trong prep: họ study you too — vary camp patterns. Hide injury limitations. Game plan B if A fails ring day. Weight cut opponent may weaken — hoặc họ strong nếu cut tốt.",
+    "video_attack": {
+      "title": "Fight Camp Preparation",
+      "url": "https://www.youtube.com/watch?v=aoYVawF8F8A"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Fight Camp](https://www.youtube.com/watch?v=aoYVawF8F8A)",
+      "[Expert Boxing — Fight Preparation](https://expertboxing.com/fight-preparation)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "weight-management",
+    "name_vi": "Quản lý cân",
+    "name_en": "Weight Management",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#11-rules-luật",
+    "level": "⭐⭐",
+    "tags": "Rules / weight / cut",
+    "situation": "Weight management: walk-around weight vs fight weight — cut gradual không crash. Weigh-in 24h before (pro) or day-of (amateur tùy). Rehydrate sau weigh-in. Lỗi: cut quá nhiều (performance drop, health risk).",
+    "defense": "Opponent bad weight cut: pressure round 1–2 before hydrate recover. Body attack dehydrated opponent. Your proper weight management = performance edge late.",
+    "video_attack": {
+      "title": "Making Weight for Boxing",
+      "url": "https://www.youtube.com/watch?v=aoYVawF8F8A"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Weight Cut](https://www.youtube.com/watch?v=aoYVawF8F8A)",
+      "[Expert Boxing — Weight Management](https://expertboxing.com/weight-cutting)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "corner-between-rounds",
+    "name_vi": "Corner giữa hiệp",
+    "name_en": "Corner Between Rounds",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#11-rules-luật",
+    "level": "⭐",
+    "tags": "Rules / corner / coaching",
+    "situation": "Corner giữa hiệp: 1 phút — coach water, instruction ngắn (1-2 adjustments), ice nếu swell. Fighter listen, breathe. Không overload info. Second và cutman roles.",
+    "defense": "Listen opponent corner nếu audible — adjust strategy round sau. Cutman swelling — target eye nếu họ swell. Corner panic signal — increase pressure.",
+    "video_attack": {
+      "title": "Corner Work Between Rounds",
+      "url": "https://www.youtube.com/watch?v=6kncaKLpXLw"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Corner Work](https://www.youtube.com/watch?v=6kncaKLpXLw)",
+      "[Expert Boxing — Corner Instructions](https://expertboxing.com/corner-work)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "game-plan",
+    "name_vi": "Game plan",
+    "name_en": "Fight Game Plan",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý",
+    "level": "⭐⭐",
+    "tags": "Mental / strategy / preparation",
+    "situation": "Game plan: 2-3 chiến thuật trước fight — ví dụ jab control round 1, body attack round 2, pressure round 3. Plan A, B nếu Plan A fail. Viết ra và drill trong camp.",
+    "defense": "Disrupt opponent game plan: không fight their comfort zone. Feint và tempo change round 1. Body attack nếu họ expect head battle. Adapt faster than they adjust — round 2 change.",
+    "video_attack": {
+      "title": "Building a Fight Game Plan",
+      "url": "https://www.youtube.com/watch?v=aoYVawF8F8A"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Game Plan](https://www.youtube.com/watch?v=aoYVawF8F8A)",
+      "[Expert Boxing — Game Plan](https://expertboxing.com/fight-game-plan)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "reading-opponent",
+    "name_vi": "Đọc đối thủ",
+    "name_en": "Reading Your Opponent",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý",
+    "level": "⭐⭐⭐",
+    "tags": "Mental / IQ / adaptation",
+    "situation": "Reading opponent: round 1 probe — jab test reactions, note habits (low left hand? lazy jab return?). Adjust round 2+. Watch shoulders, breath, feet.",
+    "defense": "Hide habits from reader: vary combos không predictable. Feint không always same. Change rhythm round 2. Don't telegraph favorite combo every exchange.",
+    "video_attack": {
+      "title": "How to Read Your Opponent",
+      "url": "https://www.youtube.com/watch?v=eBxn21FtqPg"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Tony Jeffries — Ring IQ](https://www.youtube.com/watch?v=eBxn21FtqPg)",
+      "[Expert Boxing — Reading Opponents](https://expertboxing.com/reading-opponent)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "adrenaline",
+    "name_vi": "Adrenaline và nerves",
+    "name_en": "Managing Adrenaline",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý",
+    "level": "⭐",
+    "tags": "Mental / nerves / fight night",
+    "situation": "Adrenaline fight night: gas out round 1 nếu không control — breathe, stick game plan, không brawl adrenaline. Experience reduces nerves. Visualization trước fight.",
+    "defense": "Opponent adrenaline round 1: let them gas — slip counter over-commit. Body shot calm them. Don't brawl adrenaline match — stick plan.",
+    "video_attack": {
+      "title": "Dealing with Pre-Fight Nerves",
+      "url": "https://www.youtube.com/watch?v=S240LUSyJoU"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Tony Jeffries — Fight Nerves](https://www.youtube.com/watch?v=S240LUSyJoU)",
+      "[Expert Boxing — Mental Prep](https://expertboxing.com/boxing-mental-preparation)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "video-study",
+    "name_vi": "Xem video",
+    "name_en": "Video Study",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý",
+    "level": "⭐⭐",
+    "tags": "Mental / study / film",
+    "situation": "Video study: xem opponent fights — note patterns, favorite combos, defense holes. Xem own sparring tape sửa form. 30 min/week minimum serious fighters.",
+    "defense": "Opponent study you on tape too — show different looks each bout. Spar diverse partners hide patterns. New combos camp không show public sparring.",
+    "video_attack": {
+      "title": "How to Study Boxing Film",
+      "url": "https://www.youtube.com/watch?v=aoYVawF8F8A"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Film Study](https://www.youtube.com/watch?v=aoYVawF8F8A)",
+      "[Expert Boxing — Video Analysis](https://expertboxing.com/video-study)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "training-journal",
+    "name_vi": "Nhật ký tập",
+    "name_en": "Training Journal",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý",
+    "level": "⭐",
+    "tags": "Mental / journal / progress",
+    "situation": "Training journal: ghi buổi tập — combos worked, weaknesses, sparring notes, weight, sleep. Review weekly. Accountability và track progress over months.",
+    "defense": "Opponent không journal — long term bạn improve faster. Exploit repeated mistakes họ không fix. Your journal track their tendencies nếu rematch.",
+    "video_attack": {
+      "title": "Tracking Your Boxing Progress",
+      "url": "https://www.youtube.com/watch?v=aoYVawF8F8A"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Training Log](https://www.youtube.com/watch?v=aoYVawF8F8A)",
+      "[Expert Boxing — Training Journal](https://expertboxing.com/training-journal)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "consistent-training",
+    "name_vi": "Tập đều",
+    "name_en": "Consistent Training",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý",
+    "level": "⭐",
+    "tags": "Mental / discipline / habit",
+    "situation": "Consistent training: 4-5 days/week minimum — skill compound over months/years. Không skip footwork và defense days. Show up tired at least light work.",
+    "defense": "Outwork inconsistent opponent — late rounds họ fade skill gap shows. Preparation beats talent long camp.",
+    "video_attack": {
+      "title": "Staying Consistent in Boxing",
+      "url": "https://www.youtube.com/watch?v=aoYVawF8F8A"
+    },
+    "video_defense": null,
+    "sources": [
+      "[Boxing Life — Consistency](https://www.youtube.com/watch?v=aoYVawF8F8A)",
+      "[Expert Boxing — Training Consistency](https://expertboxing.com/consistent-training)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "beginner-skills",
+    "name_vi": "Kỹ năng cơ bản",
+    "name_en": "Beginner Skills Checklist",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#13-levels-cấp-độ",
+    "level": "⭐",
+    "tags": "Levels / beginner / foundation",
+    "situation": "Beginner checklist: stance, guard, jab, cross, basic footwork, high guard defense, 1-2 combo, shadowbox, jump rope. Master trước sparring hard. 3-6 tháng foundation.",
+    "defense": "Vs beginner: jab control, body attack, không hay đòn. Counter predictable 1-2. Footwork lùi họ chase. Teach không humiliate — adjust power.",
+    "video_attack": {
+      "title": "Beginner Boxing Skills",
+      "url": "https://www.youtube.com/watch?v=aoYVawF8F8A"
+    },
+    "video_defense": {
+      "title": "Fundamentals for New Boxers",
+      "url": "https://www.youtube.com/watch?v=szjhVsr7Ync"
+    },
+    "sources": [
+      "[Boxing Life — Beginner Guide](https://www.youtube.com/watch?v=aoYVawF8F8A)",
+      "[Expert Boxing — Beginner](https://expertboxing.com/beginner-boxing)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "intermediate-skills",
+    "name_vi": "Kỹ năng trung cấp",
+    "name_en": "Intermediate Skills Checklist",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#13-levels-cấp-độ",
+    "level": "⭐⭐",
+    "tags": "Levels / intermediate / development",
+    "situation": "Intermediate: hooks, uppercuts, slip/parry/roll, 3-5 punch combos, pad work fluent, light sparring confident, body attack, feints. 1-2 năm training.",
+    "defense": "Vs intermediate: test defense feints level changes. Don't underestimate — hook và body improved. Mix speed và power.",
+    "video_attack": {
+      "title": "Intermediate Boxing Training",
+      "url": "https://www.youtube.com/watch?v=BDuTGIx5qy8"
+    },
+    "video_defense": {
+      "title": "Next Level Defense",
+      "url": "https://www.youtube.com/watch?v=RE7elmI9Uu8"
+    },
+    "sources": [
+      "[fightTIPS — Intermediate](https://www.youtube.com/watch?v=BDuTGIx5qy8)",
+      "[Expert Boxing — Intermediate](https://expertboxing.com/intermediate-boxing)"
+    ],
+    "extra_links": []
+  },
+  {
+    "slug": "advanced-skills",
+    "name_vi": "Kỹ năng nâng cao",
+    "name_en": "Advanced Skills Checklist",
+    "section_link": "../TAT-CA-KY-NANG-BOXING.md#13-levels-cấp-độ",
+    "level": "⭐⭐⭐",
+    "tags": "Levels / advanced / mastery",
+    "situation": "Advanced: counter punching, ring generalship, inside fighting, check hook, shoulder roll, switch hitting, fight camp ready, amateur/pro competition. Years of dedicated training.",
+    "defense": "Vs advanced: few holes — need physical edge game plan discipline. Don't lazy — one mistake costly. Respect và sharp strategy.",
+    "video_attack": {
+      "title": "Advanced Boxing Techniques",
+      "url": "https://www.youtube.com/watch?v=fJdJTbed2kI"
+    },
+    "video_defense": {
+      "title": "Elite Defense Concepts",
+      "url": "https://www.youtube.com/watch?v=TNF4okneIqU"
+    },
+    "sources": [
+      "[Tony Jeffries — Advanced](https://www.youtube.com/watch?v=fJdJTbed2kI)",
+      "[Expert Boxing — Advanced](https://expertboxing.com/advanced-boxing)"
+    ],
+    "extra_links": []
+  }
+]
