@@ -1,6 +1,6 @@
 # Combo tầm gần
 
-> **Tiếng Anh:** Inside Combinations · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐ · Combinations / inside / short
+> **Tiếng Anh:** Inside Combinations · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐ · Combinations / inside / short
 
 ---
 

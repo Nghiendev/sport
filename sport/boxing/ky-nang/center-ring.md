@@ -1,6 +1,6 @@
 # Giữ tâm ring
 
-> **Tiếng Anh:** Center Ring Control · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐ · Strategy / ring generalship / position
+> **Tiếng Anh:** Center Ring Control · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐ · Strategy / ring generalship / position
 
 ---
 

@@ -1,6 +1,6 @@
 # Pull counter
 
-> **Tiếng Anh:** Pull Counter · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công) · ⭐⭐⭐ · Counter / pull back / Mayweather
+> **Tiếng Anh:** Pull Counter · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-punching) · ⭐⭐⭐ · Counter / pull back / Mayweather
 
 ---
 

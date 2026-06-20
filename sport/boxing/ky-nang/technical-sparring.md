@@ -1,6 +1,6 @@
 # Technical sparring
 
-> **Tiếng Anh:** Technical Sparring · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐⭐ · Training / sparring / light
+> **Tiếng Anh:** Technical Sparring · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐⭐ · Training / sparring / light
 
 ---
 

@@ -1,6 +1,6 @@
 # Cách chấm điểm
 
-> **Tiếng Anh:** Scoring Criteria · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules-luật) · ⭐⭐ · Rules / scoring / judges
+> **Tiếng Anh:** Scoring Criteria · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules) · ⭐⭐ · Rules / scoring / judges
 
 ---
 

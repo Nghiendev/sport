@@ -1,6 +1,6 @@
 # Counter overhand
 
-> **Tiếng Anh:** Counter Overhand · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công) · ⭐⭐⭐ · Counter / overhand / power
+> **Tiếng Anh:** Counter Overhand · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-punching) · ⭐⭐⭐ · Counter / overhand / power
 
 ---
 

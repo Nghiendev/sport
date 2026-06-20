@@ -1,6 +1,6 @@
 # Speed bag
 
-> **Tiếng Anh:** Speed Bag · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐⭐ · Training / rhythm / hand speed
+> **Tiếng Anh:** Speed Bag · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐⭐ · Training / rhythm / hand speed
 
 ---
 

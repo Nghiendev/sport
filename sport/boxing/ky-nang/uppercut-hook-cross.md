@@ -1,6 +1,6 @@
 # Uppercut-hook-cross
 
-> **Tiếng Anh:** Uppercut-Hook-Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐ · Combinations / inside / power
+> **Tiếng Anh:** Uppercut-Hook-Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐ · Combinations / inside / power
 
 ---
 

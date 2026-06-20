@@ -1,6 +1,6 @@
 # Counter cơ bản
 
-> **Tiếng Anh:** Counter Punching Basics · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công) · ⭐⭐ · Counter / fundamentals / timing
+> **Tiếng Anh:** Counter Punching Basics · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-punching) · ⭐⭐ · Counter / fundamentals / timing
 
 ---
 

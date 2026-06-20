@@ -1,6 +1,6 @@
 # Xem video
 
-> **Tiếng Anh:** Video Study · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý) · ⭐⭐ · Mental / study / film
+> **Tiếng Anh:** Video Study · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental) · ⭐⭐ · Mental / study / film
 
 ---
 

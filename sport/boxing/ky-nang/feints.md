@@ -1,6 +1,6 @@
 # Feint
 
-> **Tiếng Anh:** Feinting · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐ · Strategy / feint / deception
+> **Tiếng Anh:** Feinting · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐ · Strategy / feint / deception
 
 ---
 

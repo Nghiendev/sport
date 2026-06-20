@@ -1,6 +1,6 @@
 # Quản lý dây
 
-> **Tiếng Anh:** Rope Management · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐ · Strategy / ropes / survival
+> **Tiếng Anh:** Rope Management · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐ · Strategy / ropes / survival
 
 ---
 

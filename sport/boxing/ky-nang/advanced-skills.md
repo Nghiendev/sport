@@ -1,6 +1,6 @@
 # Kỹ năng nâng cao
 
-> **Tiếng Anh:** Advanced Skills Checklist · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#13-levels-cấp-độ) · ⭐⭐⭐ · Levels / advanced / mastery
+> **Tiếng Anh:** Advanced Skills Checklist · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#13-levels) · ⭐⭐⭐ · Levels / advanced / mastery
 
 ---
 

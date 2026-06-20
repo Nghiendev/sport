@@ -1,6 +1,6 @@
 # Game plan
 
-> **Tiếng Anh:** Fight Game Plan · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý) · ⭐⭐ · Mental / strategy / preparation
+> **Tiếng Anh:** Fight Game Plan · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental) · ⭐⭐ · Mental / strategy / preparation
 
 ---
 

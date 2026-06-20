@@ -1,6 +1,6 @@
 # Slip counter cross
 
-> **Tiếng Anh:** Slip Counter Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công) · ⭐⭐ · Counter / slip / cross
+> **Tiếng Anh:** Slip Counter Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-punching) · ⭐⭐ · Counter / slip / cross
 
 ---
 

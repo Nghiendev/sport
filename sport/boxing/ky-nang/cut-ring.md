@@ -1,6 +1,6 @@
 # Cut ring
 
-> **Tiếng Anh:** Cutting Off the Ring · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐ · Strategy / footwork / trap
+> **Tiếng Anh:** Cutting Off the Ring · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐ · Strategy / footwork / trap
 
 ---
 

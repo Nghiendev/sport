@@ -1,6 +1,6 @@
 # Head movement tấn công
 
-> **Tiếng Anh:** Offensive Head Movement · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐⭐ · Strategy / head movement / offense
+> **Tiếng Anh:** Offensive Head Movement · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐⭐ · Strategy / head movement / offense
 
 ---
 

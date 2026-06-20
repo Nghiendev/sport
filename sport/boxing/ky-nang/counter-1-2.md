@@ -1,6 +1,6 @@
 # Counter 1-2
 
-> **Tiếng Anh:** Counter Jab-Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐⭐ · Combinations / counter / reactive
+> **Tiếng Anh:** Counter Jab-Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐⭐ · Combinations / counter / reactive
 
 ---
 

@@ -1,6 +1,6 @@
 # Conditioning
 
-> **Tiếng Anh:** Boxing Conditioning · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐ · Training / cardio / fitness
+> **Tiếng Anh:** Boxing Conditioning · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐ · Training / cardio / fitness
 
 ---
 

@@ -1,6 +1,6 @@
 # Quản lý cân
 
-> **Tiếng Anh:** Weight Management · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules-luật) · ⭐⭐ · Rules / weight / cut
+> **Tiếng Anh:** Weight Management · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules) · ⭐⭐ · Rules / weight / cut
 
 ---
 

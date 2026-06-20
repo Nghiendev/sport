@@ -1,6 +1,6 @@
 # Partner drills
 
-> **Tiếng Anh:** Partner Drills · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐ · Training / partner / technique
+> **Tiếng Anh:** Partner Drills · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐ · Training / partner / technique
 
 ---
 

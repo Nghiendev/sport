@@ -1,6 +1,6 @@
 # Check hook counter
 
-> **Tiếng Anh:** Check Hook Counter · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công) · ⭐⭐⭐ · Counter / check hook / advanced
+> **Tiếng Anh:** Check Hook Counter · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-punching) · ⭐⭐⭐ · Counter / check hook / advanced
 
 ---
 

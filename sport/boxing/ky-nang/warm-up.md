@@ -1,6 +1,6 @@
 # Khởi động
 
-> **Tiếng Anh:** Warm-Up · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐ · Training / warm-up / injury prevention
+> **Tiếng Anh:** Warm-Up · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐ · Training / warm-up / injury prevention
 
 ---
 

@@ -1,6 +1,6 @@
 # Timing counter
 
-> **Tiếng Anh:** Timing and Counter · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công) · ⭐⭐⭐ · Counter / timing / rhythm
+> **Tiếng Anh:** Timing and Counter · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-punching) · ⭐⭐⭐ · Counter / timing / rhythm
 
 ---
 

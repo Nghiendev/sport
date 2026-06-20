@@ -1,6 +1,6 @@
 # Heavy bag
 
-> **Tiếng Anh:** Heavy Bag Training · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐ · Training / bag / power
+> **Tiếng Anh:** Heavy Bag Training · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐ · Training / bag / power
 
 ---
 

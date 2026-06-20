@@ -1,6 +1,6 @@
 # Parry counter cross
 
-> **Tiếng Anh:** Parry Counter Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công) · ⭐⭐ · Counter / parry / cross
+> **Tiếng Anh:** Parry Counter Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-punching) · ⭐⭐ · Counter / parry / cross
 
 ---
 

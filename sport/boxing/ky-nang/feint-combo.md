@@ -1,6 +1,6 @@
 # Feint combo
 
-> **Tiếng Anh:** Feint Combination · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐ · Combinations / feint / setup
+> **Tiếng Anh:** Feint Combination · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐ · Combinations / feint / setup
 
 ---
 

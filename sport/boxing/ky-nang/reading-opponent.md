@@ -1,6 +1,6 @@
 # Đọc đối thủ
 
-> **Tiếng Anh:** Reading Your Opponent · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý) · ⭐⭐⭐ · Mental / IQ / adaptation
+> **Tiếng Anh:** Reading Your Opponent · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental) · ⭐⭐⭐ · Mental / IQ / adaptation
 
 ---
 

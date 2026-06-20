@@ -1,6 +1,6 @@
 # Kỹ năng cơ bản
 
-> **Tiếng Anh:** Beginner Skills Checklist · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#13-levels-cấp-độ) · ⭐ · Levels / beginner / foundation
+> **Tiếng Anh:** Beginner Skills Checklist · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#13-levels) · ⭐ · Levels / beginner / foundation
 
 ---
 

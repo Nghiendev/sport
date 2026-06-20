@@ -1,6 +1,6 @@
 # Các tầm đánh
 
-> **Tiếng Anh:** Fighting Ranges · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐ · Strategy / range / distance
+> **Tiếng Anh:** Fighting Ranges · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐ · Strategy / range / distance
 
 ---
 

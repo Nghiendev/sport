@@ -1,6 +1,6 @@
 # Trận southpaw
 
-> **Tiếng Anh:** Southpaw Matchup · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐⭐ · Strategy / southpaw / angles
+> **Tiếng Anh:** Southpaw Matchup · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐⭐ · Strategy / southpaw / angles
 
 ---
 

@@ -1,6 +1,6 @@
 # In-fighter
 
-> **Tiếng Anh:** In-Fighter / Swarmer · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐ · Strategy / inside / swarmer
+> **Tiếng Anh:** In-Fighter / Swarmer · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐ · Strategy / inside / swarmer
 
 ---
 

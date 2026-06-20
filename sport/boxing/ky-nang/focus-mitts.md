@@ -1,6 +1,6 @@
 # Focus mitts
 
-> **Tiếng Anh:** Focus Mitt Training · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐ · Training / mitts / partner
+> **Tiếng Anh:** Focus Mitt Training · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐ · Training / mitts / partner
 
 ---
 

@@ -1,6 +1,6 @@
 # Hook-hook-cross
 
-> **Tiếng Anh:** Hook-Hook-Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐ · Combinations / hooks / inside
+> **Tiếng Anh:** Hook-Hook-Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐ · Combinations / hooks / inside
 
 ---
 

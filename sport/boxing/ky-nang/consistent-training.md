@@ -1,6 +1,6 @@
 # Tập đều
 
-> **Tiếng Anh:** Consistent Training · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý) · ⭐ · Mental / discipline / habit
+> **Tiếng Anh:** Consistent Training · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental) · ⭐ · Mental / discipline / habit
 
 ---
 

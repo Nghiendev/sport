@@ -1,6 +1,6 @@
 # Kỹ năng trung cấp
 
-> **Tiếng Anh:** Intermediate Skills Checklist · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#13-levels-cấp-độ) · ⭐⭐ · Levels / intermediate / development
+> **Tiếng Anh:** Intermediate Skills Checklist · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#13-levels) · ⭐⭐ · Levels / intermediate / development
 
 ---
 

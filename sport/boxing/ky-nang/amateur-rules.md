@@ -1,6 +1,6 @@
 # Luật amateur
 
-> **Tiếng Anh:** Amateur Boxing Rules · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules-luật) · ⭐ · Rules / amateur / AIBA
+> **Tiếng Anh:** Amateur Boxing Rules · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules) · ⭐ · Rules / amateur / AIBA
 
 ---
 

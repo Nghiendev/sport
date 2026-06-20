@@ -1,6 +1,6 @@
 # Adrenaline và nerves
 
-> **Tiếng Anh:** Managing Adrenaline · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý) · ⭐ · Mental / nerves / fight night
+> **Tiếng Anh:** Managing Adrenaline · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental) · ⭐ · Mental / nerves / fight night
 
 ---
 

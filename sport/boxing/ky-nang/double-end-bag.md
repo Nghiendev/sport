@@ -1,6 +1,6 @@
 # Double-end bag
 
-> **Tiếng Anh:** Double-End Bag · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐⭐ · Training / timing / accuracy
+> **Tiếng Anh:** Double-End Bag · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐⭐ · Training / timing / accuracy
 
 ---
 

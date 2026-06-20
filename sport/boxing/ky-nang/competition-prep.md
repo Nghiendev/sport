@@ -1,6 +1,6 @@
 # Chuẩn bị thi đấu
 
-> **Tiếng Anh:** Competition Preparation · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules-luật) · ⭐⭐ · Rules / competition / camp
+> **Tiếng Anh:** Competition Preparation · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules) · ⭐⭐ · Rules / competition / camp
 
 ---
 

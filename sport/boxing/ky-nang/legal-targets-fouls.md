@@ -1,6 +1,6 @@
 # Vùng đích và lỗi
 
-> **Tiếng Anh:** Legal Targets and Fouls · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules-luật) · ⭐ · Rules / fouls / safety
+> **Tiếng Anh:** Legal Targets and Fouls · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules) · ⭐ · Rules / fouls / safety
 
 ---
 

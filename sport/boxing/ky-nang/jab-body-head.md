@@ -1,6 +1,6 @@
 # Jab thân-đầu
 
-> **Tiếng Anh:** Jab Body-Head · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐ · Combinations / level change / mix
+> **Tiếng Anh:** Jab Body-Head · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐ · Combinations / level change / mix
 
 ---
 

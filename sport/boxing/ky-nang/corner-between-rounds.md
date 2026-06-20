@@ -1,6 +1,6 @@
 # Corner giữa hiệp
 
-> **Tiếng Anh:** Corner Between Rounds · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules-luật) · ⭐ · Rules / corner / coaching
+> **Tiếng Anh:** Corner Between Rounds · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#11-rules) · ⭐ · Rules / corner / coaching
 
 ---
 

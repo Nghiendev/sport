@@ -1,6 +1,6 @@
 # Switch hitting
 
-> **Tiếng Anh:** Switch Hitting · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐⭐ · Combinations / switch stance / angles
+> **Tiếng Anh:** Switch Hitting · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐⭐ · Combinations / switch stance / angles
 
 ---
 

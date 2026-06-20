@@ -1,6 +1,6 @@
 # Combo năm đòn
 
-> **Tiếng Anh:** Five-Punch Combo · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐⭐ · Combinations / advanced / volume
+> **Tiếng Anh:** Five-Punch Combo · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐⭐ · Combinations / advanced / volume
 
 ---
 

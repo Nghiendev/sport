@@ -1,6 +1,6 @@
 # Combo 1-2-3
 
-> **Tiếng Anh:** Jab-Cross-Lead Hook · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐ · Combinations / 1-2-3 / hook
+> **Tiếng Anh:** Jab-Cross-Lead Hook · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐ · Combinations / 1-2-3 / hook
 
 ---
 

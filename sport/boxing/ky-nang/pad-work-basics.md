@@ -1,6 +1,6 @@
 # Pad work cơ bản
 
-> **Tiếng Anh:** Pad Work Basics · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐ · Combinations / mitts / partner
+> **Tiếng Anh:** Pad Work Basics · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐ · Combinations / mitts / partner
 
 ---
 

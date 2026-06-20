@@ -1,6 +1,6 @@
 # Nhật ký tập
 
-> **Tiếng Anh:** Training Journal · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental-tâm-lý) · ⭐ · Mental / journal / progress
+> **Tiếng Anh:** Training Journal · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#12-mental) · ⭐ · Mental / journal / progress
 
 ---
 

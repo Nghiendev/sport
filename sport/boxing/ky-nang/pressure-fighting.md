@@ -1,6 +1,6 @@
 # Pressure fighting
 
-> **Tiếng Anh:** Pressure Fighting · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐ · Strategy / pressure / inside
+> **Tiếng Anh:** Pressure Fighting · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐ · Strategy / pressure / inside
 
 ---
 

@@ -1,6 +1,6 @@
 # Out-boxer
 
-> **Tiếng Anh:** Out-Boxer Style · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-chiến-thuật) · ⭐⭐ · Strategy / out-boxer / distance
+> **Tiếng Anh:** Out-Boxer Style · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#8-distance-strategy) · ⭐⭐ · Strategy / out-boxer / distance
 
 ---
 

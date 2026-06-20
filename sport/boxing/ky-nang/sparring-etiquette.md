@@ -1,6 +1,6 @@
 # Etiquette sparring
 
-> **Tiếng Anh:** Sparring Etiquette · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐ · Training / sparring / safety
+> **Tiếng Anh:** Sparring Etiquette · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐ · Training / sparring / safety
 
 ---
 

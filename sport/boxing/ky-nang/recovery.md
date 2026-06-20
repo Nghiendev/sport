@@ -1,6 +1,6 @@
 # Phục hồi
 
-> **Tiếng Anh:** Recovery · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training-luyện-tập) · ⭐ · Training / recovery / rest
+> **Tiếng Anh:** Recovery · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#10-training) · ⭐ · Training / recovery / rest
 
 ---
 

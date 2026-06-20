@@ -1,6 +1,6 @@
 # Counter body
 
-> **Tiếng Anh:** Body Counter · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-phản-công) · ⭐⭐ · Counter / body / setup
+> **Tiếng Anh:** Body Counter · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#7-counter-punching) · ⭐⭐ · Counter / body / setup
 
 ---
 

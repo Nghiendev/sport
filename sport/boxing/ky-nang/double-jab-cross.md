@@ -1,6 +1,6 @@
 # Double jab-cross
 
-> **Tiếng Anh:** Double Jab-Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations-tổ-hợp) · ⭐⭐ · Combinations / double jab / setup
+> **Tiếng Anh:** Double Jab-Cross · [← Quay lại bách khoa](../TAT-CA-KY-NANG-BOXING.md#6-combinations) · ⭐⭐ · Combinations / double jab / setup
 
 ---
 
