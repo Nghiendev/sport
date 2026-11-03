@@ -1,0 +1,144 @@
+{
+  "positions": [
+    { "id": "standing", "label": "Đứng / Clinch", "x": 420, "y": 40, "role": "neutral" },
+    { "id": "guard_bottom", "label": "Guard (dưới)", "x": 180, "y": 160, "role": "bottom" },
+    { "id": "guard_top", "label": "Trong Guard (trên)", "x": 660, "y": 160, "role": "top" },
+    { "id": "half", "label": "Half Guard", "x": 420, "y": 250, "role": "neutral" },
+    { "id": "turtle", "label": "Turtle", "x": 80, "y": 320, "role": "bottom" },
+    { "id": "side_top", "label": "Side Control", "x": 660, "y": 340, "role": "top" },
+    { "id": "kob", "label": "Knee on Belly", "x": 820, "y": 430, "role": "top" },
+    { "id": "mount", "label": "Mount", "x": 660, "y": 500, "role": "top" },
+    { "id": "back", "label": "Rear Mount", "x": 420, "y": 600, "role": "top" },
+    { "id": "finish", "label": "Submission / Tap", "x": 420, "y": 720, "role": "finish" }
+  ],
+  "positionEdges": [
+    { "from": "standing", "to": "guard_bottom", "label": "Pull guard", "kind": "scramble" },
+    { "from": "standing", "to": "guard_top", "label": "Takedown", "kind": "advance" },
+    { "from": "guard_top", "to": "side_top", "label": "Pass", "kind": "advance" },
+    { "from": "guard_top", "to": "half", "label": "Smash half", "kind": "advance" },
+    { "from": "guard_bottom", "to": "guard_top", "label": "Sweep", "kind": "recover" },
+    { "from": "half", "to": "side_top", "label": "Pass half", "kind": "advance" },
+    { "from": "half", "to": "guard_bottom", "label": "Recover", "kind": "recover" },
+    { "from": "side_top", "to": "kob", "label": "Knee drive", "kind": "advance" },
+    { "from": "side_top", "to": "mount", "label": "Step over", "kind": "advance" },
+    { "from": "kob", "to": "mount", "label": "To mount", "kind": "advance" },
+    { "from": "mount", "to": "back", "label": "Take back", "kind": "advance" },
+    { "from": "back", "to": "finish", "label": "RNC", "kind": "advance" },
+    { "from": "side_top", "to": "finish", "label": "Kimura / Americana", "kind": "advance" },
+    { "from": "mount", "to": "finish", "label": "Armbar / Ezekiel", "kind": "advance" },
+    { "from": "guard_bottom", "to": "finish", "label": "Triangle chain", "kind": "recover" },
+    { "from": "side_top", "to": "turtle", "label": "Bottom escapes", "kind": "recover" },
+    { "from": "turtle", "to": "guard_bottom", "label": "Granby / sit-out", "kind": "recover" },
+    { "from": "turtle", "to": "back", "label": "Hooks in", "kind": "advance" }
+  ],
+  "chains": [
+    {
+      "id": "top_classic",
+      "title": "Chuỗi Top cổ điển",
+      "summary": "Pass → Side → Mount → Back → RNC",
+      "skillIds": [
+        "knee-cut-pass",
+        "over-under-pass",
+        "toreando-pass",
+        "side-control",
+        "crossface-pin",
+        "knee-drive-mount",
+        "mount-position",
+        "armbar",
+        "rear-mount",
+        "rear-naked-choke"
+      ]
+    },
+    {
+      "id": "closed_guard",
+      "title": "Closed Guard — Triangle chain",
+      "summary": "Triangle ↔ Armbar ↔ Omoplata (A fail → B)",
+      "skillIds": [
+        "closed-guard-bottom",
+        "triangle-choke",
+        "armbar",
+        "omoplata",
+        "kimura",
+        "hip-bump-sweep",
+        "scissor-sweep"
+      ]
+    },
+    {
+      "id": "open_guard",
+      "title": "Open Guard → Back",
+      "summary": "Butterfly / DLR → sweep hoặc berimbolo",
+      "skillIds": [
+        "butterfly-guard",
+        "de-la-riva-guard",
+        "spider-guard",
+        "butterfly-sweep",
+        "de-la-riva-sweep",
+        "x-guard-sweep",
+        "berimbolo",
+        "crab-ride",
+        "arm-drag-back-take"
+      ]
+    },
+    {
+      "id": "defense",
+      "title": "Thoát pin → Guard",
+      "summary": "Side / Mount / Back dưới → hip escape / turtle",
+      "skillIds": [
+        "hip-escape-to-guard",
+        "side-control-bridge-escape",
+        "upa-escape",
+        "elbow-knee-escape",
+        "rear-mount-escape",
+        "turn-to-knees-escape",
+        "granby-roll",
+        "sit-out-escape"
+      ]
+    },
+    {
+      "id": "standing",
+      "title": "Đứng → Ground",
+      "summary": "Grip → takedown / pull guard",
+      "skillIds": [
+        "collar-tie",
+        "underhook",
+        "arm-drag",
+        "double-leg",
+        "single-leg",
+        "body-lock-takedown",
+        "guard-pull",
+        "scrambling"
+      ]
+    },
+    {
+      "id": "half_guard",
+      "title": "Half Guard exchange",
+      "summary": "Ai thắng underhook thường thắng exchange",
+      "skillIds": [
+        "standard-half-guard",
+        "knee-shield-half-guard",
+        "old-school-half-sweep",
+        "underhook",
+        "crossface-underhook-pass",
+        "knee-slide-to-mount-pass",
+        "kimura-trap-back"
+      ]
+    }
+  ],
+  "skillLinks": [
+    { "from": "triangle-choke", "to": "armbar", "label": "stack / posture" },
+    { "from": "armbar", "to": "omoplata", "label": "pull arm" },
+    { "from": "triangle-choke", "to": "omoplata", "label": "fail lock" },
+    { "from": "triangle-choke", "to": "kimura", "label": "arm wrong place" },
+    { "from": "hip-bump-sweep", "to": "kimura", "label": "sweep fail" },
+    { "from": "knee-cut-pass", "to": "side-control", "label": "pass" },
+    { "from": "side-control", "to": "knee-drive-mount", "label": "advance" },
+    { "from": "knee-drive-mount", "to": "mount-position", "label": "establish" },
+    { "from": "mount-position", "to": "rear-mount", "label": "take back" },
+    { "from": "rear-mount", "to": "rear-naked-choke", "label": "finish" },
+    { "from": "americana", "to": "arm-triangle-choke", "label": "fail → chain" },
+    { "from": "de-la-riva-guard", "to": "berimbolo", "label": "invert" },
+    { "from": "berimbolo", "to": "rear-mount", "label": "hooks" },
+    { "from": "butterfly-sweep", "to": "mount-position", "label": "sweep land" },
+    { "from": "upa-escape", "to": "closed-guard-bottom", "label": "recover" }
+  ]
+}

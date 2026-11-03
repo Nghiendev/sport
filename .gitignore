@@ -6,3 +6,8 @@ __pycache__/
 
 # PDF gốc (~174MB, có bản quyền) — giữ local, không đưa lên git
 *.pdf
+
+# Web apps
+node_modules/
+dist/
+.vite/
