@@ -29,4 +29,16 @@ npm run build
 npm run preview
 ```
 
-Output: `sites/bjj/dist/` — có thể deploy lên GitHub Pages, Netlify, Vercel, Cloudflare Pages.
+Output: `sites/bjj/dist/`
+
+## GitHub Pages
+
+Repo này deploy tự động qua Actions (`.github/workflows/deploy-matmap.yml`).
+
+1. GitHub → **Settings → Pages**
+2. **Source:** GitHub Actions
+3. Push lên `master` (hoặc chạy workflow thủ công)
+
+URL: **https://Nghiendev.github.io/sport/**
+
+> Vite dùng `base: '/sport/'` vì đây là project Pages của repo `sport`.
