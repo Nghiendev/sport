@@ -1,10 +1,10 @@
-name: Deploy MATMAP to GitHub Pages
+name: Deploy sites to GitHub Pages
 
 on:
   push:
     branches: [master]
     paths:
-      - "sites/bjj/**"
+      - "sites/**"
       - ".github/workflows/deploy-matmap.yml"
   workflow_dispatch:
 
@@ -26,15 +26,34 @@ jobs:
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: sites/bjj/package-lock.json
-      - name: Install & build
+          cache-dependency-path: |
+            sites/bjj/package-lock.json
+            sites/mma-language/package-lock.json
+
+      - name: Build MATMAP (BJJ)
         working-directory: sites/bjj
         run: |
           npm ci
           npm run build
+
+      - name: Build MMA Language
+        working-directory: sites/mma-language
+        run: |
+          npm ci
+          npm run build
+
+      - name: Assemble Pages artifact
+        run: |
+          mkdir -p publish/mma-language
+          cp -r sites/bjj/dist/. publish/
+          cp -r sites/mma-language/dist/. publish/mma-language/
+          printf '%s\n' \
+            '<!doctype html><html lang="vi"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Sport Sites</title><style>body{font-family:system-ui,sans-serif;max-width:40rem;margin:3rem auto;padding:0 1rem;line-height:1.5}a{color:#102a56}</style></head><body><h1>Sport Sites</h1><ul><li><a href="./">MATMAP — BJJ skill map</a></li><li><a href="./mma-language/">MMA Language — từ điển Việt–Anh</a></li></ul></body></html>' \
+            > publish/sites.html
+
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: sites/bjj/dist
+          path: publish
 
   deploy:
     needs: build

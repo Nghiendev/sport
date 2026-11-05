@@ -1,0 +1,2801 @@
+[
+  {
+    "id": "M001",
+    "vi": "Võ thuật tổng hợp",
+    "en": "Mixed martial arts (MMA)",
+    "def": "Môn đối kháng cho phép kết hợp đánh bằng đòn và giao đấu bằng vật, ghì, khóa hoặc siết trong phạm vi luật giải. Nét đặc trưng là võ sĩ có thể chuyển giữa các cách giao đấu ngay trong một pha.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M002",
+    "vi": "Đánh đứng",
+    "en": "Striking",
+    "def": "Tấn công bằng đấm, đá, gối, chỏ và các đòn đánh được phép. Trong tiếng Việt thường gọi phân môn này là đánh đứng, nhưng striking còn bao gồm đòn đánh khi hai người áp sát hoặc đã xuống sàn.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M003",
+    "vi": "Giao đấu bằng vật và kiểm soát",
+    "en": "Grappling",
+    "def": "Tranh vị trí bằng cách nắm, ghì, vật, thoát, khóa hoặc siết. Pha tranh hai tay trong khi cả hai còn đứng cũng là grappling.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M004",
+    "vi": "Giao đấu đứng",
+    "en": "Stand-up fighting",
+    "def": "Giai đoạn hai võ sĩ còn trên chân. Có thể đánh từ xa, vào clinch, hoặc chuyển sang vật. Stand-up trong khẩu lệnh của trọng tài còn có thể chỉ việc đưa trận đấu trở lại tư thế đứng.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M005",
+    "vi": "Địa chiến",
+    "en": "Ground fighting",
+    "def": "Giao đấu khi một hoặc cả hai võ sĩ đã xuống sàn. Trong MMA, người dưới vừa phải quản lý khoảng cách đánh vừa tìm cách đảo thế, đứng dậy hoặc tấn công.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M006",
+    "vi": "Chuyển pha",
+    "en": "Transition",
+    "def": "Khoảnh khắc đổi cách giao đấu hoặc vị trí. Ví dụ, từ đấm sang ôm chân là chuyển pha đánh–vật, còn từ ghì ngang sang cưỡi là chuyển vị trí trên sàn.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M007",
+    "vi": "Cự ly",
+    "en": "Range; distance",
+    "def": "Khoảng cách tương quan giữa hai người đối với một hành động cụ thể. Một võ sĩ có thể đã vào tầm đá nhưng còn ngoài tầm đấm của đối thủ.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M008",
+    "vi": "Tầm với",
+    "en": "Reach",
+    "def": "Trong hồ sơ võ sĩ, thường là sải tay đo từ đầu ngón tay bên này tới đầu ngón tay bên kia khi dang hai tay. Khi HLV nói out of reach, họ đang nói ngoài tầm chạm ở tình huống đó.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M009",
+    "vi": "Căn thời điểm",
+    "en": "Timing",
+    "def": "Chọn thời khắc hành động theo nhịp di chuyển hoặc phản ứng đối thủ. Một cú đấm chặn lúc đối phương bước vào là ví dụ về timing.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M010",
+    "vi": "Nhịp độ",
+    "en": "Pace",
+    "def": "Tốc độ và mật độ hoạt động trong một quãng giao đấu. Ép nhịp có thể thể hiện qua liên tục bắt đối phương đổi hướng, chống vật hoặc phòng đòn.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M011",
+    "vi": "Nhử động tác",
+    "en": "Feint",
+    "def": "Phát tín hiệu giống phần mở đầu của một đòn để gợi phản ứng. Võ sĩ có thể nhử hạ tầm để quan sát tay đối phương trước khi chọn đòn thật.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Khái niệm hoặc chiến thuật"
+  },
+  {
+    "id": "M012",
+    "vi": "Dọn đường cho đòn",
+    "en": "Set-up; setup",
+    "def": "Hành động tạo điều kiện cho đòn sau. Một cú jab thật, động tác nhử hoặc bước chân đều có thể làm nhiệm vụ này.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M013",
+    "vi": "Đánh phản",
+    "en": "Counter; counterstrike",
+    "def": "Đòn đánh khai thác thời điểm hoặc sơ hở do đối thủ vừa tấn công. Có thể xuất hiện trước khi đòn kia hoàn tất, ngay khi đỡ hoặc sau khi né.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M014",
+    "vi": "Gây sức ép",
+    "en": "Pressure",
+    "def": "Buộc đối thủ liên tục xử lý mối đe dọa bằng vị trí, đòn đánh hoặc nhịp áp sát. Trên sàn, pressure còn chỉ áp lực do trọng lượng và hướng tì tạo ra.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M015",
+    "vi": "Cắt lồng",
+    "en": "Cutting off the cage",
+    "def": "Di chuyển chặn đường thoát ngang của đối thủ để thu hẹp phần sân họ còn sử dụng. Dấu hiệu là người ép chiếm trước lối ra thay vì chạy theo sau.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M016",
+    "vi": "Giành trung tâm",
+    "en": "Taking the center",
+    "def": "Chiếm khu vực giữa sân đấu để có nhiều hướng đánh và buộc đối thủ hoạt động gần biên hơn. Việc đứng ở giữa tự nó chưa nói lên hiệu quả tấn công.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M017",
+    "vi": "Chuỗi đòn",
+    "en": "Combination; combo",
+    "def": "Hai hay nhiều đòn được tổ chức liền nhau để đòn trước mở đường cho đòn sau. One-two là một chuỗi cụ thể, còn combination có thể nối cả đấm và đá.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M018",
+    "vi": "Đổi tầng tấn công",
+    "en": "Mixing levels",
+    "def": "Luân phiên đe dọa các độ cao, chẳng hạn đánh đầu rồi đánh thân hoặc chuyển sang bắt chân. Phân biệt với level change, vốn chỉ động tác hạ hoặc đổi độ cao cơ thể.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M019",
+    "vi": "Đánh xong áp sát",
+    "en": "Punch into the clinch",
+    "def": "Dùng loạt đấm che bước vào cự ly ôm ghì. Cụm động từ hữu ích khi bình luận một pha liên hoàn vì nó xác định mục đích của đòn mở đường.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M020",
+    "vi": "Nhử vật rồi đánh lên",
+    "en": "Fake the shot, come upstairs",
+    "def": "Võ sĩ gợi đe dọa vào chân rồi chuyển hướng tấn công lên đầu. Come upstairs trong ngôn ngữ góc đài gợi đích đánh cao, không phải hiệu lệnh đứng dậy.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M021",
+    "vi": "Phá nhịp",
+    "en": "Broken rhythm",
+    "def": "Cố ý thay đổi khoảng ngừng giữa các bước hoặc các đòn để đối thủ khó căn thời điểm. Ví dụ, lặp hai cú jab đều nhịp rồi chậm một nhịp trước cú đánh tiếp theo.",
+    "group": "Không gian giao đấu và chiến thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M022",
+    "vi": "Thế đứng",
+    "en": "Stance",
+    "def": "Cách bố trí chân, hông, thân và tay để vừa phát lực vừa di chuyển hoặc phòng vật. Lead và rear được xác định theo bên đứng trước và sau ở thời điểm quan sát.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M023",
+    "vi": "Thế trái trước",
+    "en": "Orthodox stance",
+    "def": "Thế đứng thường đưa chân trái và tay trái ra trước, bên phải ở sau. Tên thế mô tả cách đứng, không đủ để suy ra tay thuận tự nhiên.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M024",
+    "vi": "Thế phải trước",
+    "en": "Southpaw stance",
+    "def": "Thế đứng đưa chân phải và tay phải ra trước, bên trái ở sau. Một võ sĩ thuận phải vẫn có thể chủ động dùng thế này.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M025",
+    "vi": "Đổi thế đứng",
+    "en": "Stance switch; switch stance",
+    "def": "Thay đổi bên chân dẫn trong lúc di chuyển hoặc tấn công. Khi hai chân đổi vai trò, những khẩu lệnh như lead hook cũng đổi bên tương ứng.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M026",
+    "vi": "Cùng thế đứng",
+    "en": "Closed-stance matchup",
+    "def": "Hai người cùng có chân trái trước hoặc cùng có chân phải trước. Thuật ngữ mô tả tương quan giữa hai thế đứng, khác với closed guard ở địa chiến.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M027",
+    "vi": "Khác thế đứng",
+    "en": "Open-stance matchup",
+    "def": "Một người đứng trái trước và người kia phải trước. Cuộc tranh vị trí chân trước phía ngoài thường xuất hiện trong tương quan này.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M028",
+    "vi": "Bên trước",
+    "en": "Lead side",
+    "def": "Bên tay và chân ở gần đối thủ hơn trong thế đứng hiện tại. Lead hand có thể là tay trái hoặc phải.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M029",
+    "vi": "Bên sau",
+    "en": "Rear side",
+    "def": "Bên tay và chân lùi sau trong thế đứng. Rear kick là cú đá bằng chân sau dù người thực hiện đang đứng thế nào.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M030",
+    "vi": "Nền trụ",
+    "en": "Base",
+    "def": "Cách phân bố điểm tựa và trọng tâm để chịu lực hoặc đổi hướng. Trên sàn, võ sĩ có thể thêm một bàn tay làm điểm tựa khi đối phương định lật.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M031",
+    "vi": "Thủ tay",
+    "en": "Guard (striking)",
+    "def": "Cách bố trí bàn tay, cẳng tay và khuỷu để che mục tiêu và sẵn sàng phản đòn. Cụm high guard nói về tay thủ cao, khác với guard bằng chân ở địa chiến.",
+    "group": "Tư thế và bộ pháp",
+    "context": "Lớp tập · Phân tích và truyền thông",
+    "function": "Tên tư thế hoặc vị trí"
+  },
+  {
+    "id": "M032",
+    "vi": "Thủ cao",
+    "en": "High guard",
+    "def": "Đưa hai tay lên bảo vệ đầu, thường giữ khuỷu tương đối gần thân. Tên gọi mô tả vị trí tay, không bảo đảm mọi góc đánh đã được che.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M033",
+    "vi": "Bộ pháp",
+    "en": "Footwork",
+    "def": "Hệ thống bước, xoay và đổi hướng để điều chỉnh cự ly, góc đánh và thăng bằng. Khi quan sát, hãy theo dõi cả chân dẫn lẫn chân sau.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M034",
+    "vi": "Xoay trụ",
+    "en": "Pivot",
+    "def": "Đổi hướng thân và chân quanh điểm trụ để mở góc hoặc đưa người ra khỏi đường tấn công. Chuyển động nổi bật là sự xoay hướng thay vì chỉ lùi thẳng.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M035",
+    "vi": "Di chuyển vòng",
+    "en": "Circling",
+    "def": "Đi theo cung quanh đối thủ hoặc khỏi hàng rào trong khi duy trì hướng quan sát. Người circling đang tìm lại khoảng trống hai bên.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M036",
+    "vi": "Bước ngang",
+    "en": "Lateral step; sidestep",
+    "def": "Dịch cơ thể sang bên để tránh đường đánh hoặc chiếm vị trí mới. Có thể bước ngang mà chưa đổi hướng mặt như khi pivot.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M037",
+    "vi": "Ra góc",
+    "en": "Angle off",
+    "def": "Rời đường đối diện trực tiếp, thường sau một đòn hoặc khi đối thủ lao tới. Kết quả là hai người phải quay chỉnh lại mới đối diện nhau.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M038",
+    "vi": "Điểm trụ thứ ba",
+    "en": "Tripod; tripod base",
+    "def": "Cấu hình ba điểm tựa được dùng để nâng hông hoặc chống lật tùy tình huống. Trong lời hướng dẫn, cần chỉ rõ ba điểm nào đang chịu lực.",
+    "group": "Tư thế và bộ pháp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M039",
+    "vi": "Đấm thẳng tay trước",
+    "en": "Jab",
+    "def": "Cú đấm theo đường tương đối thẳng bằng tay dẫn. Võ sĩ dùng jab để đo tầm, ghi nhận phản ứng, gây tác động hoặc che bước vào đòn kế tiếp.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M040",
+    "vi": "Đấm thẳng tay sau",
+    "en": "Cross; rear straight",
+    "def": "Cú đấm thẳng bằng tay sau, thường phối hợp xoay thân và vai. Trong cách gọi đòn cơ bản, cross thường là đòn thứ hai của tổ hợp one-two.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M041",
+    "vi": "Đấm móc ngang",
+    "en": "Hook",
+    "def": "Cú đấm có quỹ đạo vòng từ bên vào, thường đi quanh đường thủ giữa. Left hook xác định bên trái, còn lead hook xác định vai trò của tay trong thế đứng.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M042",
+    "vi": "Đấm móc lên",
+    "en": "Uppercut",
+    "def": "Cú đấm theo đường đi lên vào mục tiêu ở cự ly thích hợp, thường là cằm hoặc thân. Dấu hiệu nhận diện là hướng đi lên của nắm đấm.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M043",
+    "vi": "Đấm vòng vượt tay",
+    "en": "Overhand",
+    "def": "Cú đấm theo cung vượt qua phía trên đường thủ rồi đi xuống mục tiêu. Quỹ đạo khác cú straight dù hai đòn đều có thể xuất phát từ tay sau.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M044",
+    "vi": "Đấm búa",
+    "en": "Hammerfist",
+    "def": "Dùng cạnh phía ngón út của nắm tay để đánh theo động tác như vung búa. Trong MMA thường gặp ở cự ly ngắn hoặc khi người trên đánh xuống.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M045",
+    "vi": "Đấm xoay mu tay",
+    "en": "Spinning backfist",
+    "def": "Đòn đánh bằng mu nắm tay sau khi xoay người. Khi gọi tên từ hình quay, cần phân biệt điểm tiếp xúc thực tế là nắm tay, cẳng tay hay chỏ.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M046",
+    "vi": "Đấm vào thân",
+    "en": "Body shot",
+    "def": "Đòn đấm nhắm vùng thân thay vì đầu. Từ này cho biết mục tiêu chứ chưa xác định quỹ đạo là thẳng, móc ngang hay móc lên.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M047",
+    "vi": "Đấm chạm dò",
+    "en": "Pawing jab; pawing lead hand",
+    "def": "Tay trước liên tục vươn, chạm hoặc gây nhiễu để đo tầm và che ý đồ. Không phải mỗi lần tay đưa ra đều là cú jab phát lực hoàn chỉnh.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M048",
+    "vi": "Đấm một–hai",
+    "en": "One-two; jab–cross",
+    "def": "Tổ hợp jab rồi đấm thẳng tay sau. Số thứ tự trong tên này chỉ trình tự hai đòn, không xác định tay trái hay phải.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M049",
+    "vi": "Chặn đòn",
+    "en": "Block",
+    "def": "Dùng cấu trúc phòng thủ để nhận và chặn đường đòn. Chẳng hạn đưa cẳng tay che thân trước cú đá thay vì làm đối thủ đánh hụt.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M050",
+    "vi": "Gạt đòn",
+    "en": "Parry",
+    "def": "Dùng tiếp xúc ngắn để làm đòn lệch khỏi mục tiêu. Người gạt thường chỉ cần đổi hướng đường đánh một khoảng nhỏ.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M051",
+    "vi": "Né lệch đầu",
+    "en": "Slip",
+    "def": "Đưa đầu lệch khỏi đường cú đấm bằng chuyển động vừa đủ của thân và chân. Võ sĩ vẫn có thể ở trong tầm để phản đòn.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M052",
+    "vi": "Lặn dưới đòn móc",
+    "en": "Roll under; bob and weave",
+    "def": "Hạ độ cao và di chuyển đầu theo cung dưới đường đấm vòng rồi trở lại thế đánh. Trong buổi BJJ, roll còn có nghĩa đấu tập địa chiến.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M053",
+    "vi": "Lùi thân tránh đòn",
+    "en": "Pull; pull back",
+    "def": "Rút đầu và phần thân trên khỏi tầm đòn trong khi vẫn giữ khả năng trở lại phản công. Pull counter là đòn phản ngay sau động tác rút này.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M054",
+    "vi": "Che kín",
+    "en": "Cover up; shell up",
+    "def": "Thu tay và khuỷu để che các mục tiêu khi chịu chuỗi đòn. Cụm từ mô tả phản ứng phòng thủ, chưa cho biết các đòn có xuyên thủ hay không.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M055",
+    "vi": "Móc chặn khi thoát góc",
+    "en": "Check hook",
+    "def": "Cú móc dùng khi đối thủ tiến vào, thường phối hợp xoay hoặc bước lệch hướng. Đặc điểm là vừa chặn nhịp tiến vừa tạo đường thoát.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M056",
+    "vi": "Đấm xẻng",
+    "en": "Shovel hook",
+    "def": "Cú đấm đi chéo lên, có đặc điểm trung gian giữa móc ngang và móc lên. Thường được gọi khi võ sĩ đánh vòng lên thân từ góc thấp.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M057",
+    "vi": "Đấm bật kiểu siêu nhân",
+    "en": "Superman punch",
+    "def": "Đòn đấm kèm động tác chân sau văng về sau và thân lao tới, thường dùng động tác chân để gợi phản ứng với cú đá. Không phải mọi cú đấm nhảy đều có cơ chế này.",
+    "group": "Đòn tay và phòng thủ đánh đứng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M058",
+    "vi": "Đá vòng",
+    "en": "Roundhouse kick; round kick",
+    "def": "Chân đánh đi theo cung vòng vào mục tiêu. Cú đá có thể nhắm chân, thân hoặc đầu, nên tên quỹ đạo và tên mục tiêu có thể cùng xuất hiện.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M059",
+    "vi": "Đá thấp",
+    "en": "Low kick",
+    "def": "Cú đá nhắm phần thấp của đối thủ, thường vào chân. Cách gọi low kick chưa xác định đánh mặt trong, mặt ngoài, đùi hay bắp chân.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M060",
+    "vi": "Đá bắp chân",
+    "en": "Calf kick",
+    "def": "Đòn đá thấp nhắm phần cẳng chân ở vùng bắp chân. Đây là một loại low kick, phân biệt bằng vị trí đích so với cú đá vào đùi.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M061",
+    "vi": "Đá mặt trong đùi",
+    "en": "Inside leg kick",
+    "def": "Đòn đá vào phía trong chân đối thủ, thường nhắm đùi. Inside chỉ bề mặt bị đánh, không đồng nghĩa với đá bằng chân trước.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M062",
+    "vi": "Đá thân",
+    "en": "Body kick",
+    "def": "Đòn đá vào thân, thường được gọi khi bàn luận mục tiêu thay vì cơ chế. Ví dụ, body kick có thể là một cú đá vòng vào sườn.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M063",
+    "vi": "Đá cao",
+    "en": "High kick; head kick",
+    "def": "Đá cao mô tả độ cao của đòn. Head kick chỉ rõ mục tiêu là đầu, kể cả khi đối thủ hạ người khiến mục tiêu ở thấp hơn bình thường.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M064",
+    "vi": "Đá trước",
+    "en": "Front kick",
+    "def": "Cú đá đưa chân về trước theo đường tương đối trực diện. Có biến thể thiên về đẩy và biến thể bật nhanh vào mục tiêu.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M065",
+    "vi": "Đạp đẩy",
+    "en": "Push kick; teep",
+    "def": "Đòn đẩy bằng chân để ngăn đối thủ tiến, tạo khoảng cách hoặc phá nhịp. Teep là cách gọi thường nghe trong Muay Thai.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M066",
+    "vi": "Đá ngang",
+    "en": "Side kick",
+    "def": "Đòn đá duỗi chân về mục tiêu khi hông và thân xoay nghiêng. Phân biệt với round kick qua hướng đẩy ra tương đối thẳng của chân.",
+    "group": "Đá gối và chỏ",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M067",
+    "vi": "Đá hậu xoay",
+    "en": "Spinning back kick",
+    "def": "Xoay người rồi đẩy chân về phía sau vào mục tiêu. Đặc điểm nhận dạng là đường chân đạp ra sau, khác cú đá xoay móc theo cung.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M068",
+    "vi": "Bắt chân đá",
+    "en": "Kick catch",
+    "def": "Đỡ và giữ chân đối phương sau cú đá. Cú bắt có thể mở ra pha vật hoặc trả đòn nhưng riêng việc giữ chân chưa phải là một takedown.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M069",
+    "vi": "Chặn đá bằng ống chân",
+    "en": "Kick check",
+    "def": "Nhấc chân đón đường đá bằng gối hoặc ống chân. Trong lời hô check the kick, HLV yêu cầu phòng cú đá đang đến.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M070",
+    "vi": "Gối thẳng",
+    "en": "Straight knee",
+    "def": "Đòn gối hướng về trước, dùng ở khoảng cách gần hoặc khi đang clinch. Tên gọi mô tả đường gối thay vì cách khống chế đối phương.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M071",
+    "vi": "Gối bay",
+    "en": "Flying knee",
+    "def": "Đòn gối khi người đánh bật lên và rời mặt sàn. Cần phân biệt với bước nhấc gối thông thường khi một chân vẫn chịu trọng lượng.",
+    "group": "Đá gối và chỏ",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M072",
+    "vi": "Chỏ ngang",
+    "en": "Horizontal elbow",
+    "def": "Đòn chỏ quét gần ngang qua mục tiêu ở cự ly ngắn. Tên đòn mô tả hướng di chuyển của khuỷu tay.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M073",
+    "vi": "Chỏ xoay",
+    "en": "Spinning elbow",
+    "def": "Xoay thân để đưa chỏ vào mục tiêu từ góc khác. Góc quay có thể khiến đòn trông giống spinning backfist, cần xem phần cơ thể tiếp xúc.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M074",
+    "vi": "Đá đổi chân",
+    "en": "Switch kick",
+    "def": "Đổi nhanh vị trí hai chân trước khi đá, thường để chân vốn đứng trước có đường phát lực giống chân sau. Switch kick gọi tên bước chuẩn bị chứ chưa cho biết đích đánh.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M075",
+    "vi": "Đá dấu hỏi",
+    "en": "Question mark kick",
+    "def": "Đầu gối và thân mở đầu như một kiểu đá rồi chân đổi đường cong về phía đầu ở đoạn sau. Tên ví quỹ đạo đổi hướng với dấu hỏi.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M076",
+    "vi": "Đá xoay móc gót",
+    "en": "Spinning hook kick; wheel kick",
+    "def": "Sau khi xoay, chân đi ngang theo cung móc vào mục tiêu, thường tiếp xúc bằng gót. Khác spinning back kick ở đoạn cuối của đường chân.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M077",
+    "vi": "Đá chặn xiên",
+    "en": "Oblique kick",
+    "def": "Đòn đạp theo hướng chéo xuống nhắm chân đối thủ, thường nhằm cản bước tiến. Tên này mô tả một dạng đá chặn cụ thể, khác low kick vòng vào đùi.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M078",
+    "vi": "Đá vào chân trụ khi đối thủ đá",
+    "en": "Kick the standing leg",
+    "def": "Cụm mô tả việc tấn công chân còn chịu trọng lượng khi đối phương đã nhấc chân kia để đá. Phân loại là đòn đá hay quét còn phụ thuộc cơ chế và diễn biến.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M079",
+    "vi": "Gối vòng",
+    "en": "Curving knee; round knee",
+    "def": "Đòn gối vào từ bên theo một đường cong, thường gặp khi hai người ôm ghì. Khác straight knee ở hướng đầu gối đi vào thân.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M080",
+    "vi": "Chỏ xéo",
+    "en": "Diagonal elbow",
+    "def": "Đòn chỏ đi chéo qua mục tiêu, có thể từ dưới lên hoặc từ trên xuống. Khi bình luận nên thêm hướng nếu góc quay cho phép.",
+    "group": "Đá gối và chỏ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M081",
+    "vi": "Ôm ghì ở thế đứng",
+    "en": "Clinch",
+    "def": "Hai võ sĩ đứng đủ gần để dùng tay, đầu và thân kiểm soát nhau. Từ clinch có thể mở sang gối, chỏ, vật hoặc tách ra đánh.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên tư thế hoặc vị trí"
+  },
+  {
+    "id": "M082",
+    "vi": "Tranh tay",
+    "en": "Hand fighting",
+    "def": "Cuộc giành vị trí qua nắm, gạt, bóc tay và kiểm soát cổ tay. Xuất hiện cả trước pha vật lẫn khi người bị lấy lưng đang phòng siết.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M083",
+    "vi": "Giành vị trí tay trong",
+    "en": "Inside position",
+    "def": "Đưa tay hoặc cẳng tay vào khoảng giữa hai cánh tay đối phương để có đường kiểm soát thuận lợi. Trong các hệ kiểm soát chân, inside position có thể nói riêng về vị trí chân.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M084",
+    "vi": "Luồn tay dưới nách",
+    "en": "Underhook",
+    "def": "Một tay đi dưới nách đối thủ và ôm hoặc nâng vùng thân trên. Có thể dùng khi đứng tranh clinch, hoặc từ half guard dưới để xoay người lên.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M085",
+    "vi": "Quàng tay trên",
+    "en": "Overhook",
+    "def": "Một tay vòng qua phía trên cánh tay đối phương và khép lại để kiểm soát. Tên gọi mô tả quan hệ hai cánh tay, chưa xác định lực chống vật.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M086",
+    "vi": "Quàng tay ghì chống vật",
+    "en": "Whizzer",
+    "def": "Cách dùng overhook với áp lực ghì và xoay nhằm phá hướng vào vật hoặc chống đối thủ lên thế. Nếu chỉ thấy tay quàng nhưng không rõ tác dụng, overhook là cách mô tả rộng hơn.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M087",
+    "vi": "Hai tay luồn nách",
+    "en": "Double underhooks",
+    "def": "Cả hai tay đều giành đường dưới nách đối phương. Vị trí này thường dẫn tới ôm thân, nhưng hai bàn tay chưa nhất thiết đã nối nhau.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M088",
+    "vi": "Một tay trên một tay dưới",
+    "en": "Over-under clinch",
+    "def": "Mỗi bên thường có một underhook và một overhook. Hai võ sĩ tiếp tục tranh đầu, hông và vị trí chân để xoay hoặc vật.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M089",
+    "vi": "Luân phiên luồn tay",
+    "en": "Pummeling; pummelling",
+    "def": "Động tác tranh lại vị trí tay trong bằng cách luồn, xoay vai và đặt lại tay. Drill pummeling có thể lặp theo nhịp, còn trong trận đối phương sẽ chống lại.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M090",
+    "vi": "Ghì gáy một tay",
+    "en": "Collar tie",
+    "def": "Đặt tay hoặc cẳng tay kiểm soát phía sau đầu và gáy đối phương. Có thể phối hợp với tay kia ở cổ tay hoặc bắp tay để kéo đổi hướng.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M091",
+    "vi": "Ghì gáy hai tay",
+    "en": "Double collar tie",
+    "def": "Dùng cả hai tay kiểm soát đầu hoặc gáy trong clinch. Muay Thai clinch còn bao gồm nhiều cấu hình tay khác nên hai tên không hoàn toàn đồng nghĩa.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M092",
+    "vi": "Ôm khóa thân",
+    "en": "Body lock",
+    "def": "Hai tay ôm quanh thân đối thủ, thường nối lại thành một vòng kiểm soát. Có thể ôm từ phía trước, bên cạnh hoặc phía sau.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M093",
+    "vi": "Kiểm soát hai tay một",
+    "en": "Two-on-one; 2-on-1",
+    "def": "Dùng hai tay của mình kiểm soát một tay đối phương. Võ sĩ có thể làm lệch vai đối phương để tiếp cận hông hoặc lưng.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M094",
+    "vi": "Kéo tay mở sườn",
+    "en": "Arm drag",
+    "def": "Kéo cánh tay đối thủ chéo qua đường giữa để vượt ra bên sườn. Dấu hiệu thành công là xuất hiện góc tiếp cận thân hoặc lưng.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M095",
+    "vi": "Giật đầu xuống",
+    "en": "Snap-down; snapdown",
+    "def": "Kéo đầu và phần thân trên đối thủ xuống để phá tư thế đứng. Từ đó có thể giành front headlock hoặc vòng ra sau.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M096",
+    "vi": "Ôm đầu phía trước",
+    "en": "Front headlock",
+    "def": "Kiểm soát đầu từ phía trước khi đối thủ cúi hoặc chống tay, thường kèm một cánh tay. Đây là vị trí để điều hướng hoặc tấn công, chưa mặc nhiên có đòn siết.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M097",
+    "vi": "Vị trí đầu trong clinch",
+    "en": "Head position",
+    "def": "Cách đặt trán, thái dương hoặc bên đầu so với đầu và vai đối thủ để lái thân trên. Có underhook nhưng mất vị trí đầu vẫn có thể bị xoay vào lồng.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M098",
+    "vi": "Kiểm soát cổ tay",
+    "en": "Wrist control",
+    "def": "Giữ một hoặc hai cổ tay nhằm hạn chế tay đánh, tay chống hoặc tay bóc khóa. Wrist control mô tả một điểm giữ, khác wrist lock là đòn khóa khớp.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M099",
+    "vi": "Vật sát lồng",
+    "en": "Cage wrestling; fence wrestling",
+    "def": "Tranh vật khi hàng rào giới hạn đường lùi hoặc làm điểm tựa. Kỹ thuật gồm ghim, đổi hướng, vật xuống và ngăn đối thủ đứng lên.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M100",
+    "vi": "Ép vào hàng rào",
+    "en": "Pinning against the fence",
+    "def": "Dùng vị trí đầu, vai, hông hoặc vòng ôm để giữ đối thủ sát lồng. Động tác này có thể tạo cơ hội đánh hoặc vật nhưng riêng thời gian ép chưa thể hiện mức hiệu quả.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M101",
+    "vi": "Xoay khỏi hàng rào",
+    "en": "Turn off the fence",
+    "def": "Xoay góc hoặc đổi vị trí để thoát thế lưng sát lồng. Có thể kết thúc bằng việc đổi vai, khiến chính đối thủ bị ép vào lồng.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M102",
+    "vi": "Tách khỏi clinch",
+    "en": "Clinch break; disengagement",
+    "def": "Một hoặc cả hai võ sĩ gỡ điểm bám và tạo lại khoảng cách. Break trong lời trọng tài có thể là yêu cầu tách, không phải lời cho phép tiếp tục đánh trong lúc tách.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M103",
+    "vi": "Nối tay lòng bàn tay",
+    "en": "Gable grip; palm-to-palm grip",
+    "def": "Hai lòng bàn tay áp vào nhau và gập các ngón để tạo vòng nắm, không đan ngón. Có thể dùng trong body lock hoặc nhiều cấu hình kiểm soát ở sàn.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M104",
+    "vi": "Ôm lưng khi đứng",
+    "en": "Rear body lock; rear waist lock",
+    "def": "Võ sĩ đứng sau và nối tay quanh thân hoặc eo đối thủ. Đây là điểm xuất phát cho mat return khi đối thủ đang tìm cách rời lồng.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M105",
+    "vi": "Đánh khi tách nhau",
+    "en": "Strike on the break",
+    "def": "Tấn công vào lúc hai võ sĩ chủ động rời clinch trong giao đấu đang tiếp diễn. Cần phân biệt với đánh sau lệnh dừng hoặc tách của trọng tài.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M106",
+    "vi": "Bóc điểm nắm",
+    "en": "Grip break; grip strip",
+    "def": "Gỡ một điểm bám của đối thủ ở cổ tay, thân hoặc trang phục. Trong No-Gi, trọng tâm thường là bóc bàn tay hoặc tách vòng nắm đã nối.",
+    "group": "Áp sát tranh tay và vật lồng",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M107",
+    "vi": "Vật ngã",
+    "en": "Takedown",
+    "def": "Đưa đối thủ từ thế đứng xuống sàn bằng một hành động vật. Khi làm thống kê, điều kiện để ghi nhận một lần vật thành công phụ thuộc hệ thống dữ liệu.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M108",
+    "vi": "Vào chân",
+    "en": "Shot; takedown shot",
+    "def": "Pha lao hoặc bước vào để bắt chân và thực hiện đòn vật. Trong ngữ cảnh striking, shot lại có thể chỉ một đòn đánh.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M109",
+    "vi": "Hạ tầm",
+    "en": "Level change",
+    "def": "Hạ độ cao trọng tâm để vào chân, né hoặc nhử đối thủ. Hạ tầm mới là chuyển động ban đầu, chưa có nghĩa đã thực hiện cú vật.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M110",
+    "vi": "Bước xuyên vào vật",
+    "en": "Penetration step",
+    "def": "Bước đưa hông và thân vào gần mục tiêu khi bắt chân. Trên thảm hoặc sát lồng, hình thức bước có thể thay đổi theo khoảng trống.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M111",
+    "vi": "Vật hai chân",
+    "en": "Double-leg takedown; double leg",
+    "def": "Kiểm soát cả hai chân rồi phối hợp lực đẩy, kéo hoặc chuyển góc để đưa đối thủ xuống. Từ double leg gọi theo số chân bị kiểm soát.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M112",
+    "vi": "Vật một chân",
+    "en": "Single-leg takedown; single leg",
+    "def": "Tập trung kiểm soát một chân đối thủ để phá trụ và hoàn tất pha vật. Có nhiều cách kết thúc tùy chân còn lại và sự hỗ trợ của hàng rào.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M113",
+    "vi": "Vào sâu ôm đùi",
+    "en": "High crotch",
+    "def": "Đường vào một chân với tay đi sâu phía trong, cao sát đùi đối thủ. Có thể chuyển thành double leg nếu đường kiểm soát chân kia mở ra.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M114",
+    "vi": "Chạm gối phá trụ",
+    "en": "Knee tap",
+    "def": "Một tay chặn hoặc kéo vùng gối trong khi thân trên dẫn đối thủ lệch qua chân đó. Khác với knee strike, đây là đòn vật.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M115",
+    "vi": "Bắt cổ chân",
+    "en": "Ankle pick",
+    "def": "Tấn công cổ chân kết hợp làm lệch trọng tâm phía trên để đối thủ mất trụ. Không đồng nghĩa với ankle lock ở địa chiến.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M116",
+    "vi": "Ngáng chân trong",
+    "en": "Inside trip",
+    "def": "Dùng chân tác động từ phía trong chân đối thủ, kết hợp kiểm soát thân trên để đưa họ xuống. Trip thường được nối sau clinch hoặc body lock.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M117",
+    "vi": "Ngáng chân ngoài",
+    "en": "Outside trip",
+    "def": "Đặt hoặc móc chân từ phía ngoài chân đối thủ trong khi lái thân họ qua điểm trụ. Phân biệt bằng quan hệ hai chân thay vì chỉ nhìn hướng ngã.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M118",
+    "vi": "Quét chân trụ",
+    "en": "Foot sweep",
+    "def": "Dùng chân quét chân đối thủ khi sự dịch chuyển trọng lượng tạo thời điểm thuận lợi. Trong địa chiến, sweep lại có thể chỉ đảo từ dưới lên trên.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M119",
+    "vi": "Quật qua hông",
+    "en": "Hip throw; hip toss",
+    "def": "Đưa hông vào vị trí làm điểm tựa để chuyển đối thủ qua người và xuống sàn. Có nhiều biến thể tùy tay kiểm soát và hướng xoay.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M120",
+    "vi": "Vật nối đòn",
+    "en": "Chain wrestling",
+    "def": "Liên kết nhiều phương án vật theo phản ứng chống đỡ. Ví dụ, đối thủ rút một chân khỏi double leg thì người tấn công chuyển sang single leg.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M121",
+    "vi": "Đưa trở lại sàn",
+    "en": "Mat return",
+    "def": "Đưa đối thủ vừa đứng dậy xuống sàn trong khi vẫn giữ được kiểm soát, thường từ phía sau. Dấu hiệu là pha đứng lên và vòng giữ diễn ra trong cùng chuỗi.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M122",
+    "vi": "Duỗi chân ép hông chống vật",
+    "en": "Sprawl",
+    "def": "Đưa chân ra sau và hạ áp lực hông để chống pha vào chân. Chỉ lùi chân mà để đối thủ tiếp tục ôm sâu chưa chắc đã tạo được sprawl hữu hiệu.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "Lớp tập · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M123",
+    "vi": "Đánh vòng ra sau",
+    "en": "Go-behind",
+    "def": "Di chuyển quanh đầu hoặc vai để chiếm phía sau đối thủ, thường sau sprawl hoặc snap-down. Có thể giành lưng mà chưa đặt móc chân.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M124",
+    "vi": "Tranh vị trí trong chuyển động",
+    "en": "Scramble",
+    "def": "Pha hai người đổi hướng, chống tay, đứng lên hoặc lật qua nhau khi quyền kiểm soát chưa ổn định. Không dùng tên này cho mọi chuyển tiếp đã được một bên kiểm soát rõ.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M125",
+    "vi": "Phòng vật",
+    "en": "Takedown defense; TDD",
+    "def": "Khả năng hoặc hành động ngăn đối thủ hoàn tất pha vật. Trong bảng số liệu, TDD còn chỉ tỷ lệ phòng vật theo cách ghi nhận của đơn vị thống kê.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M126",
+    "vi": "Đứng dậy nhờ hàng rào",
+    "en": "Wall walk; cage walk-up",
+    "def": "Từ thế thấp sát lồng, võ sĩ dùng hàng rào làm điểm tựa để dần đưa người lên chân. Trong bình luận, cần phân biệt tì thân vào lồng với nắm mắt lưới.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M127",
+    "vi": "Đổi hướng hoàn tất pha vật",
+    "en": "Turn the corner; cut the corner",
+    "def": "Sau khi bắt chân, người vật đổi góc kéo hoặc đẩy thay vì tiếp tục lao thẳng. Khẩu lệnh Turn the corner! thường nhắm đúng bước chuyển hướng này.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M128",
+    "vi": "Tái vào chân",
+    "en": "Re-shot; reshot",
+    "def": "Vào vật ngay sau khi vừa chặn pha vào chân của đối thủ. Dùng re-shot khi cú vào chân thứ hai là phản ứng nối tiếp, chứ không chỉ là một lần thử mới sau khi trận đã ngắt nhịp.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M129",
+    "vi": "Lên vật từ guard",
+    "en": "Wrestle-up",
+    "def": "Từ guard, người dưới nâng thân, tiến tới ôm chân hoặc thân và chuyển sang đấu vật. Khác technical stand-up ở mục tiêu giành kết nối và đưa đối thủ xuống.",
+    "group": "Vào vật chống vật và chuyển tiếp",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M130",
+    "vi": "Thế thủ bằng chân",
+    "en": "Guard (grappling)",
+    "def": "Nhóm vị trí dùng chân để quản lý khoảng cách, cản đường vượt hoặc tấn công đối thủ trước mặt. Người nằm dưới có thể đang chủ động kiểm soát và tìm khóa siết.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M131",
+    "vi": "Thủ khép chân",
+    "en": "Closed guard; full guard",
+    "def": "Người dưới vòng hai chân quanh thân đối thủ và khép vòng, thường bằng cách bắt chéo cổ chân. Người trên cần quản lý tư thế để hạn chế bị kéo sát hoặc mất thăng bằng.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "Lớp tập · Phân tích và truyền thông",
+    "function": "Tên tư thế hoặc vị trí"
+  },
+  {
+    "id": "M132",
+    "vi": "Thủ mở",
+    "en": "Open guard",
+    "def": "Nhóm guard không khép kín hai chân quanh thân. Bàn chân, đầu gối và ống chân có thể đặt ở nhiều điểm để tạo khoảng cách hoặc móc kéo.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M133",
+    "vi": "Nửa thủ",
+    "en": "Half guard",
+    "def": "Người dưới kẹp hoặc kiểm soát một chân của người trên bằng hai chân của mình. Vẫn còn chân bị kẹp là dấu hiệu quan trọng khi phân biệt với side control.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M134",
+    "vi": "Chắn gối",
+    "en": "Knee shield",
+    "def": "Dùng đầu gối và ống chân làm vật cản trước thân trên đối thủ, thường trong half guard. Tấm chắn giúp giữ khoảng cách khi người trên tìm cách ép sát.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M135",
+    "vi": "Thủ bướm",
+    "en": "Butterfly guard",
+    "def": "Dùng bàn chân móc phía trong đùi đối thủ để nâng, giữ khoảng cách hoặc làm họ lệch trụ. Người chơi thường ngồi hoặc ngả để tiếp nhận trọng lượng đối thủ.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M136",
+    "vi": "Thủ một chân kiểu X",
+    "en": "Single-leg X guard; SLX",
+    "def": "Người dưới dùng hai chân kiểm soát một chân đối thủ, kết hợp các điểm chặn quanh hông và đùi. Đây là thế kiểm soát, có thể dẫn đến quét hoặc vào hệ khóa chân.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M137",
+    "vi": "Thủ chữ X",
+    "en": "X-guard",
+    "def": "Người dưới luồn xuống dưới trọng tâm của đối thủ đứng và bố trí các móc chân để tách hoặc phá các điểm trụ. Khác SLX ở cách chân kiểm soát cấu trúc hai chân đối thủ.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M138",
+    "vi": "Thủ ngồi",
+    "en": "Seated guard",
+    "def": "Người chơi guard ngồi hướng về đối thủ thay vì nằm ngửa. Họ có thể móc chân, bắt chân hoặc đứng lên nếu đối thủ lùi ra.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M139",
+    "vi": "Giữ guard",
+    "en": "Guard retention",
+    "def": "Ngăn người trên vượt qua hệ chân đang che chắn. Thường quan sát thấy người dưới điều chỉnh góc hông, đặt lại gối hoặc thu chân vào giữa.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M140",
+    "vi": "Lấy lại guard",
+    "en": "Guard recovery; re-guard",
+    "def": "Đưa chân trở lại giữa hai người sau khi đối thủ đã vượt hoặc gần vượt qua. Recovery nhấn vào việc tái lập cấu trúc đã mất.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M141",
+    "vi": "Vượt guard",
+    "en": "Guard pass; passing the guard",
+    "def": "Người trên vượt qua hệ kiểm soát bằng chân để tiến tới kiểm soát thân đối thủ. Chỉ gỡ được vòng cổ chân của closed guard chưa đồng nghĩa đã qua guard.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M142",
+    "vi": "Ghì ngang",
+    "en": "Side control; side mount",
+    "def": "Người trên kiểm soát thân đối phương từ một bên, thường sau khi đã vượt hai chân. Có thể ghì ngực sát ngực hoặc thay đổi hướng hông theo phản ứng người dưới.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M143",
+    "vi": "Cưỡi thân",
+    "en": "Mount; full mount",
+    "def": "Người trên ngồi dạng chân qua thân người dưới và kiểm soát trục thân. Trong MMA, vị trí này có thể mở đường đánh xuống hoặc buộc người dưới xoay lưng.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M144",
+    "vi": "Cưỡi cao",
+    "en": "High mount",
+    "def": "Biến thể mount với đầu gối người trên tiến cao về phía nách hoặc vai người dưới. Tư thế này hạn chế khả năng dùng khuỷu tạo khung ở hông.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M145",
+    "vi": "Tì gối lên bụng",
+    "en": "Knee on belly; knee ride",
+    "def": "Đặt gối hoặc ống chân lên thân đối thủ trong khi chân kia tạo trụ ngoài. So với side control, người trên có thể đổi bên nhanh hơn nhưng diện tiếp xúc nhỏ hơn.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M146",
+    "vi": "Ghì đầu đối đầu",
+    "en": "North–south position",
+    "def": "Hai người nằm theo hai hướng ngược nhau, người trên kiểm soát thân từ phía đầu người dưới. Tên vị trí độc lập với đòn north–south choke.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M147",
+    "vi": "Kiểm soát lưng",
+    "en": "Back control; rear mount",
+    "def": "Giữ được phía sau thân đối thủ bằng tay, chân hoặc cả hai. Đứng phía sau chưa chắc đã có đủ mức kiểm soát để gọi là back control ổn định.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M148",
+    "vi": "Vào lưng",
+    "en": "Back take; taking the back",
+    "def": "Hành động chuyển tới phía sau và thiết lập kiểm soát lưng. Back take là chuyển động, back control là vị trí đạt được.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M149",
+    "vi": "Móc chân giữ lưng",
+    "en": "Hooks (back control)",
+    "def": "Đưa bàn chân vào phía trong đùi đối phương để kiểm soát hông từ sau. Từ hook ở đây nói về chân, khác cú đấm móc ngang trong boxing.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M150",
+    "vi": "Ôm dây an toàn",
+    "en": "Seatbelt grip; seat belt",
+    "def": "Từ sau lưng, một tay qua vai và một tay dưới nách, hai tay nối trước thân đối phương. Cách ôm kiểm soát phần thân trên ngay cả khi chưa cài móc chân.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M151",
+    "vi": "Khóa tam giác thân",
+    "en": "Body triangle",
+    "def": "Dùng hai chân khép thành cấu trúc tam giác quanh thân đối thủ để hạn chế xoay. Khác triangle choke, mục tiêu chính là thân chứ không phải cổ.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M152",
+    "vi": "Thế rùa",
+    "en": "Turtle position",
+    "def": "Người ở dưới co người, chống gối và tay hoặc khuỷu, thường quay lưng lên trên. Có thể xuất hiện khi chống vật hoặc khi xoay thoát từ tư thế nằm.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M153",
+    "vi": "Khống chế kiểu thập tự",
+    "en": "Crucifix position",
+    "def": "Kiểm soát hai tay đối thủ bằng các chi của mình, khiến họ khó dùng tay che hoặc chống. Có biến thể từ bên trên và phía sau, nên khi bình luận cần nêu góc kiểm soát.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M154",
+    "vi": "Trượt gối vượt guard",
+    "en": "Knee cut pass; knee slice pass",
+    "def": "Người trên đưa gối và ống chân cắt chéo qua đùi người dưới để vượt hệ chân. Có thể còn phải tháo bàn chân bị kẹp trước khi ổn định side control.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M155",
+    "vi": "Gạt chân vòng ngoài",
+    "en": "Toreando pass; bullfighter pass",
+    "def": "Người trên điều hướng chân đối thủ về một phía rồi vòng thân sang phía còn lại. Trong Gi có thể nắm quần, còn No-Gi phải thay bằng điểm tiếp xúc phù hợp. [14]",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M156",
+    "vi": "Ép hai chân sang bên",
+    "en": "Leg drag; leg-drag pass",
+    "def": "Kéo hoặc dẫn một chân chéo qua thân người dưới, bó hai gối về một hướng để mở đường vượt. Tên có thể chỉ cả hành động lẫn cấu hình kiểm soát đạt được.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M157",
+    "vi": "Vượt bằng khóa thân",
+    "en": "Body-lock pass",
+    "def": "Người trên khóa hai tay quanh thân, hạn chế hông người dưới rồi tìm đường vượt qua chân. Khác body lock ở thế đứng vì mục tiêu trước mắt là guard pass.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M158",
+    "vi": "Khóa chân số bốn ở thế lưng",
+    "en": "Figure-four body lock",
+    "def": "Một tên mô tả cách khép chân của body triangle. Figure-four có thể nói về cả tay hoặc chân nên cần giữ cụm body lock khi chỉ vị trí này.",
+    "group": "Vị trí địa chiến và hệ guard",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M159",
+    "vi": "Tạo khung chống",
+    "en": "Frame",
+    "def": "Dùng phần chi được đặt có cấu trúc để duy trì khoảng trống hoặc ngăn thân đối thủ áp sát. Ví dụ, cẳng tay chắn trước vai đối thủ khi người dưới chuẩn bị dịch hông.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M160",
+    "vi": "Đặt tay hoặc chân làm trụ",
+    "en": "Post; posting",
+    "def": "Đặt tay hoặc chân xuống để chịu lực và ngăn bị lật. Post cũng có thể chỉ một tay duỗi chặn lên vai hoặc đầu đối thủ khi đánh đứng.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M161",
+    "vi": "Bắc cầu",
+    "en": "Bridge; bridging",
+    "def": "Từ tư thế lưng sát sàn, người tập nâng hông nhờ điểm tựa ở chân và thân trên. Bridge có thể tạo khoảng trống hoặc làm đối thủ lệch trụ mà chưa đảo được vị trí.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "Lớp tập · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M162",
+    "vi": "Thoát hông",
+    "en": "Hip escape; shrimp; shrimping",
+    "def": "Dịch hông ra khỏi đường ép để có chỗ đưa gối hoặc chân trở lại giữa hai người. Shrimp là tên hình tượng thường nghe trong lớp.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M163",
+    "vi": "Đứng lên có bảo vệ",
+    "en": "Technical stand-up; technical get-up",
+    "def": "Từ thế ngồi hoặc thấp, dùng các điểm tựa để đưa người trở về thế đứng trong khi duy trì khoảng cách và hướng quan sát. Khác với wall walk ở chỗ không cần hàng rào.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M164",
+    "vi": "Đảo thế",
+    "en": "Reversal",
+    "def": "Đổi tương quan kiểm soát để người ở thế dưới hoặc bất lợi lên trên hoặc nắm thế chủ động. Phạm vi thường rộng hơn sweep theo cách dùng trong luật BJJ.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M165",
+    "vi": "Quét đảo từ guard",
+    "en": "Sweep (guard)",
+    "def": "Người sử dụng guard làm đối thủ mất trụ rồi chuyển lên trên. IBJJF có điều kiện cụ thể để công nhận điểm, còn MMA đánh giá pha này trong toàn bộ hiệu quả của hiệp.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M166",
+    "vi": "Thoát vị trí",
+    "en": "Positional escape",
+    "def": "Rời thế đang bị kiểm soát, chẳng hạn thoát mount về half guard. Escape có thể thành công mà người thoát vẫn tiếp tục nằm dưới.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M167",
+    "vi": "Thoát mount bằng khuỷu và gối",
+    "en": "Elbow–knee escape; elbow escape",
+    "def": "Tạo khoảng giữa hông mình và chân người trên để đưa gối vào, lấy lại một phần guard. Khác bridge-and-roll ở đích thường là tái lập chân chắn.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M168",
+    "vi": "Bắc cầu lật người",
+    "en": "Bridge and roll; upa escape",
+    "def": "Từ dưới mount, dùng cầu hông và hạn chế điểm chống của đối thủ để lật họ qua một bên. Một lần nâng hông chưa lật được đối thủ chỉ là bridge.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M169",
+    "vi": "Dựng tư thế thân trên",
+    "en": "Posture up",
+    "def": "Nâng và tổ chức lại thân trên để cải thiện thăng bằng, thoát lực kéo hoặc có khoảng đánh. Thường nghe khi người trên bị kéo gập trong closed guard.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M170",
+    "vi": "Phá tư thế",
+    "en": "Break posture",
+    "def": "Kéo hoặc điều khiển khiến đối thủ không giữ được cấu trúc thân họ cần để đánh hoặc vượt guard. Từ guard, người dưới có thể kéo đầu và vai người trên về phía mình.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M171",
+    "vi": "Ghì xoay mặt",
+    "en": "Crossface",
+    "def": "Dùng tay, vai hoặc cẳng tay khiến đầu đối thủ quay khỏi hướng họ muốn xoay thân. Trong side control, crossface thường phối hợp kiểm soát bên hông đối diện.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M172",
+    "vi": "Đè ghì",
+    "en": "Pin",
+    "def": "Dùng thân hoặc các điểm chặn để hạn chế khả năng đứng lên, xoay người hoặc lấy lại chân. Trong MMA, ghì hai vai xuống sàn không tự kết thúc trận như một số thể thức vật.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M173",
+    "vi": "Bám ghì theo chuyển động",
+    "en": "Ride; riding",
+    "def": "Duy trì kiểm soát khi người dưới đổi trụ, bò hoặc cố đứng. Người trên có thể kiểm soát hông, chân hoặc cổ tay để đi theo chuyển động.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M174",
+    "vi": "Đánh trên sàn từ thế trên",
+    "en": "Ground and pound; ground-and-pound; GNP",
+    "def": "Giữ vị trí bên trên để đánh đối thủ ở sàn, thường phối hợp ghì rồi tạo khoảng phát đòn. Người đánh có thể quỳ, cưỡi hoặc đứng phía trên tùy tình huống.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M175",
+    "vi": "Đá lên từ sàn",
+    "en": "Upkick",
+    "def": "Võ sĩ ở dưới dùng chân đá hướng lên người ở trên. Việc đòn có hợp lệ hay không phụ thuộc mục tiêu, trạng thái đối thủ và luật của trận.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M176",
+    "vi": "Quét bướm",
+    "en": "Butterfly sweep; hook sweep",
+    "def": "Từ guard bướm, dùng móc chân nâng kết hợp hướng nghiêng thân và kiểm soát điểm chống để đảo lên trên. Chỉ nâng đối thủ mà chưa đảo tương quan thì mới là nỗ lực quét.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M177",
+    "vi": "Quét hất hông",
+    "en": "Hip-bump sweep",
+    "def": "Người dưới ngồi lên và dùng hông làm đối thủ mất thăng bằng qua một bên. Thường xuất hiện từ closed guard khi người trên ngả trọng lượng về sau.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M178",
+    "vi": "Khống chế cổ tay chéo khi bám lưng",
+    "en": "Cross-wrist ride; wrist ride",
+    "def": "Người bám giữ cổ tay để hạn chế tay chống của đối thủ trong lúc họ nằm nghiêng, chống gối hoặc tìm cách đứng. Cross-wrist nêu rõ điểm giữ chéo qua thân.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M179",
+    "vi": "Ngồi xoay hông thoát thế",
+    "en": "Sit-out",
+    "def": "Động tác từ thế chống tay hoặc bị ghì, đưa chân và hông sang bên để xoay hướng thân, tạo khoảng trống hoặc thoát người giữ phía sau. Khác shrimp ở tư thế xuất phát và đường xoay.",
+    "group": "Thoát thế đảo thế đánh trên sàn",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M180",
+    "vi": "Đòn buộc chịu thua",
+    "en": "Submission hold; submission",
+    "def": "Đòn khóa, siết hoặc hình thức khống chế có khả năng buộc đối thủ xin thua. Trong biên bản kết quả, submission còn chỉ cách trận đấu đã kết thúc.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M181",
+    "vi": "Khóa khớp",
+    "en": "Joint lock",
+    "def": "Hạn chế một khớp và tạo lực theo hướng duỗi, gập hoặc xoay vượt khả năng đối thủ có thể chống chịu. Tên khóa có thể gọi theo chi bị giữ hoặc khớp chịu tác động.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M182",
+    "vi": "Đòn siết cổ",
+    "en": "Choke; strangle",
+    "def": "Nhóm kỹ thuật tạo áp lực ở cổ bằng tay, chân hoặc kết hợp với vai đối thủ. Tên choke trong thuật ngữ võ thuật không đủ để kết luận cơ chế sinh lý cụ thể của từng tình huống.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M183",
+    "vi": "Vỗ xin thua",
+    "en": "Tap; tap out",
+    "def": "Tín hiệu bằng động tác vỗ để yêu cầu dừng khi bị khóa, siết hoặc không muốn tiếp tục. Trong đấu tập, người giữ nhả ngay khi nhận ra tín hiệu.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "Lớp tập · Thi đấu",
+    "function": "Tín hiệu võ sĩ"
+  },
+  {
+    "id": "M184",
+    "vi": "Xin thua bằng lời",
+    "en": "Verbal submission; verbal tap",
+    "def": "Võ sĩ nói hoặc phát tín hiệu bằng lời rõ ràng để dừng. Trong buổi tập, nói “tap” có ích khi hai tay đang bị giữ.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "Lớp tập · Thi đấu",
+    "function": "Tín hiệu võ sĩ"
+  },
+  {
+    "id": "M185",
+    "vi": "Khóa tay thẳng",
+    "en": "Armbar; straight armbar",
+    "def": "Đòn kiểm soát cánh tay và tác động theo hướng duỗi khuỷu. Có thể xuất phát từ guard, mount hoặc chuyển tiếp khác nên armbar gọi tên đòn kết thúc chứ không gọi vị trí xuất phát.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M186",
+    "vi": "Khóa vai Kimura",
+    "en": "Kimura; double wrist lock",
+    "def": "Dùng cấu trúc hai tay giữ cẳng tay đối thủ theo hình số bốn, tác động xoay vai. Kimura grip cũng có thể dùng để kiểm soát hoặc chuyển thế dù chưa hình thành đòn khóa kết thúc.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M187",
+    "vi": "Khóa vai Americana",
+    "en": "Americana; keylock",
+    "def": "Khóa vai với khuỷu đối thủ gập và hướng xoay khác Kimura. Ở biến thể thường thấy khi nằm ngửa, bàn tay bên bị khóa hướng về phía đầu. Hai đòn đều có thể dùng cách giữ hình số bốn.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M188",
+    "vi": "Khóa vai bằng chân",
+    "en": "Omoplata",
+    "def": "Dùng chân kiểm soát cánh tay gập và xoay vai đối thủ. Người tấn công có thể tận dụng phản ứng thoát khóa để đảo lên trên.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M189",
+    "vi": "Khóa cổ tay",
+    "en": "Wrist lock",
+    "def": "Tạo lực gập, duỗi hoặc xoay ở cổ tay đang bị cô lập. Khác wrist control, mục tiêu trực tiếp là gây khóa khớp khiến đối thủ phải dừng.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M190",
+    "vi": "Siết cổ sau",
+    "en": "Rear-naked choke; RNC",
+    "def": "Đòn siết từ sau lưng bằng tay, không cần nắm cổ áo. Cách viết tiếng Anh là rear-naked choke, một tên thường xuất hiện dưới dạng viết tắt RNC.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M191",
+    "vi": "Siết cổ trước kiểu máy chém",
+    "en": "Guillotine choke; guillotine",
+    "def": "Ôm cổ từ phía trước khi đầu đối thủ ở dưới nách hoặc sát bên thân. Có biến thể giữ kèm cánh tay đối thủ và biến thể chỉ bao đầu, cổ.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "Lớp tập · Thi đấu · Phân tích và truyền thông",
+    "function": "Tên kỹ thuật hoặc chuyển động"
+  },
+  {
+    "id": "M192",
+    "vi": "Siết tam giác bằng chân",
+    "en": "Triangle choke",
+    "def": "Dùng hai chân khép thành vòng quanh cổ và một cánh tay đối thủ. Tên triangle đứng riêng trong lớp thường chỉ đòn này, nhưng body triangle lại bao quanh thân.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M193",
+    "vi": "Siết tam giác bằng tay",
+    "en": "Arm-triangle choke; head-and-arm choke",
+    "def": "Dùng tay và thân giữ đầu cùng một cánh tay đối thủ sao cho vai họ tham gia vào cấu trúc siết. Một vị trí ôm đầu và tay chưa chắc đã tạo thành đòn siết.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M194",
+    "vi": "Siết D’Arce",
+    "en": "D’Arce choke; Darce choke",
+    "def": "Đòn siết đầu–tay với cánh tay siết đi từ dưới nách đối thủ rồi hướng ra phía cổ. Hướng đi của tay là chi tiết hữu ích nhất để phân biệt với anaconda khi xem chậm.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M195",
+    "vi": "Siết Anaconda",
+    "en": "Anaconda choke",
+    "def": "Đòn siết đầu–tay với cánh tay siết đi từ phía cổ xuống dưới nách đối thủ. Dáng khép hai tay có thể giống D’Arce nên cần nhìn đường tay trước khi gọi tên.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M196",
+    "vi": "Siết từ thế đầu đối đầu",
+    "en": "North–south choke",
+    "def": "Đòn siết cổ phát triển từ vị trí north–south, khi người trên dùng tay cùng thân trên kiểm soát vùng đầu cổ. Có thể giữ north–south lâu mà chưa tấn công bằng đòn siết này.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M197",
+    "vi": "Hệ khóa chân",
+    "en": "Leg lock",
+    "def": "Tên chung cho các khóa tác động lên chi dưới. Ankle lock, kneebar và heel hook cùng nhóm nhưng nhắm cấu trúc và hướng lực khác nhau.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M198",
+    "vi": "Kẹp kiểm soát chân",
+    "en": "Leg entanglement; ashi garami",
+    "def": "Cấu hình hai chân đan hoặc kẹp quanh chân đối thủ để hạn chế họ rút hoặc xoay. Ashi garami là tên gốc Nhật được dùng với phạm vi rộng hẹp khác nhau giữa các trường phái.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M199",
+    "vi": "Khóa cổ chân thẳng",
+    "en": "Straight ankle lock; straight foot lock",
+    "def": "Cô lập cổ chân và tạo áp lực theo hướng gập bàn chân, thường có điểm tì ở vùng sau cổ chân. Dấu hiệu phân biệt với heel hook là cơ chế chính không dựa vào móc gót để xoắn chân.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M200",
+    "vi": "Khóa gót",
+    "en": "Heel hook",
+    "def": "Kiểm soát gót để tạo lực xoay truyền qua chân bị giữ, có thể tác động mạnh tới gối. Chữ heel mô tả điểm kiểm soát, không có nghĩa chỉ gót chân chịu lực.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M201",
+    "vi": "Khóa gối thẳng",
+    "en": "Kneebar; knee bar",
+    "def": "Cô lập chân và tạo áp lực theo hướng duỗi gối. So với heel hook, dấu hiệu chính là đường duỗi thay vì mô-men xoắn qua gót.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M202",
+    "vi": "Khóa xoắn bàn chân",
+    "en": "Toe hold; figure-four toe hold",
+    "def": "Dùng hai tay kiểm soát bàn chân thành cấu trúc hình số bốn và tạo lực xoay. Tên toe hold dễ gây hiểu nhầm là bẻ riêng một ngón chân.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M203",
+    "vi": "Khóa ép bắp chân",
+    "en": "Calf slicer; calf crusher",
+    "def": "Đặt điểm tì trong nếp gối và tạo lực ép lên bắp chân khi chân gập. Khác calf kick là một đòn đánh vào vùng bắp chân.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M204",
+    "vi": "Vặn cổ",
+    "en": "Neck crank",
+    "def": "Tác động bằng cách gập, duỗi hoặc xoay vùng cổ đang bị khống chế. Cần phân biệt cơ chế tạo lực lên cổ với tên choke khi mô tả hình ảnh trận đấu.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M205",
+    "vi": "Đấu chỉ phân định bằng khóa siết",
+    "en": "Submission-only; sub-only",
+    "def": "Thể thức grappling ưu tiên kết quả khóa siết và không chấm điểm vị trí theo kiểu thông thường. Điều lệ từng giải quyết định xử lý hết giờ, hiệp phụ hoặc hòa. Đây là thể thức grappling, không phải cách gọi một trận MMA.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M206",
+    "vi": "Gài chân đối phương từ ngoài vào",
+    "en": "Knee reaping; knee reap",
+    "def": "Khái niệm trong luật grappling liên quan cấu hình chân quấn qua đùi, hướng ép gối và trạng thái bàn chân bị giữ. Khi xét phạm lỗi phải xem đầy đủ tiêu chí của hạng, lứa tuổi và bộ luật. Chỉ thấy chân bắt chéo chưa đủ kết luận. [12]",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M207",
+    "vi": "Giữ tay hai chọi một khi phòng siết",
+    "en": "Two-on-one hand defense",
+    "def": "Người phòng dùng hai tay kiểm soát một tay tấn công để ngăn đối phương hoàn tất vòng siết. Từ sau lưng, ưu tiên nhận diện tay đang đe dọa cổ.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M208",
+    "vi": "Khóa đầu không kèm tay",
+    "en": "Arm-out guillotine; no-arm guillotine",
+    "def": "Biến thể guillotine mà vòng siết bao quanh cổ và không giữ một tay đối thủ bên trong. Arm-out nói về cánh tay của đối thủ, không phải số tay người siết dùng.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M209",
+    "vi": "Siết máy chém kèm tay",
+    "en": "Arm-in guillotine",
+    "def": "Một cánh tay đối thủ nằm trong vòng kiểm soát cùng với đầu cổ. Khi phân biệt với D’Arce, cần xem cả hướng tay siết lẫn vị trí thân.",
+    "group": "Khóa siết và tín hiệu chịu thua",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M210",
+    "vi": "Tập lặp kỹ thuật",
+    "en": "Drill; drilling",
+    "def": "Lặp lại động tác hoặc tình huống với nhiệm vụ và mức chống trả định trước. Drilling có thể đi từ hợp tác hoàn toàn tới bài có phản ứng giới hạn.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M211",
+    "vi": "Đấu tập",
+    "en": "Sparring",
+    "def": "Tập đối kháng có tương tác với bạn tập theo cường độ và giới hạn kỹ thuật đã thống nhất. Light sparring nhấn mạnh kiểm soát lực, không đồng nghĩa với đấu tự do theo luật thi đấu.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "Lớp tập",
+    "function": "Tên người, vật dụng hoặc hoạt động"
+  },
+  {
+    "id": "M212",
+    "vi": "Đấu tập theo vị trí",
+    "en": "Positional sparring",
+    "def": "Bắt đầu từ một vị trí quy định với mục tiêu cụ thể cho mỗi bên. Ví dụ, người dưới thoát hàng rào còn người trên giữ và đưa trở lại sàn.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M213",
+    "vi": "Đấu tập địa chiến",
+    "en": "Rolling; roll",
+    "def": "Cách gọi buổi hoặc lượt đối kháng grappling trong cộng đồng BJJ. Trong khẩu lệnh boxing, roll có thể là động tác lặn tránh cú móc.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M214",
+    "vi": "Đấu tập liền mạch nhẹ",
+    "en": "Flow rolling",
+    "def": "Hai bạn tập nối các chuyển tiếp với sức chống trả có kiểm soát để duy trì dòng chuyển động. Mức độ hợp tác cần được hai bên thống nhất.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M215",
+    "vi": "Đánh gió",
+    "en": "Shadowboxing",
+    "def": "Tập đòn đánh, di chuyển và phòng thủ khi không có mục tiêu thật trước mặt. Có thể mô phỏng cả nhử, hạ tầm hoặc thoát góc trong bài shadow MMA.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M216",
+    "vi": "Đánh đích",
+    "en": "Pad work; mitt work",
+    "def": "Một người cầm đích nhận đòn và đưa tín hiệu cho người đánh luyện cự ly, thời điểm hoặc tổ hợp. Focus mitts thiên về đích bàn tay, Thai pads là đích đeo cẳng tay.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M217",
+    "vi": "Bao cát nặng",
+    "en": "Heavy bag",
+    "def": "Bao có khối lượng đủ để người tập luyện tiếp xúc và lực đánh. HLV có thể giao nhiệm vụ khác nhau như đánh thân, ra góc hoặc nối đòn.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M218",
+    "vi": "Bảo vệ răng",
+    "en": "Mouthguard; mouthpiece",
+    "def": "Dụng cụ đeo trong miệng khi tập hoặc thi đấu đối kháng. Trong lời trọng tài, mouthpiece thường chỉ chính bảo vệ răng của võ sĩ.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M219",
+    "vi": "Găng MMA",
+    "en": "MMA gloves; open-finger gloves",
+    "def": "Găng bảo vệ bàn tay có thiết kế cho phép ngón tay thực hiện các thao tác nắm, ghì. Găng đấu và găng tập có thể có cấu tạo và yêu cầu khác nhau.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M220",
+    "vi": "Giáp ống chân",
+    "en": "Shin guards",
+    "def": "Dụng cụ che phần trước cẳng chân khi tập đá hoặc thi đấu theo thể thức yêu cầu. Việc có phải mang khi thi đấu phụ thuộc hạng và điều lệ.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M221",
+    "vi": "Quấn tay",
+    "en": "Hand wraps; hand wrapping",
+    "def": "Hand wraps là băng quấn dùng dưới găng, còn hand wrapping là việc quấn. Trong giải đấu, cách quấn và vật liệu có thể được kiểm tra.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M222",
+    "vi": "Đấu không võ phục",
+    "en": "No-gi; nogi",
+    "def": "Tập hoặc thi đấu grappling không dùng áo gi làm phương tiện nắm kéo. No-gi mô tả trang phục và môi trường cầm nắm, tự nó không cho biết có được đánh đòn hay không.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M223",
+    "vi": "Hiệp tập",
+    "en": "Round",
+    "def": "Khoảng tập có thời lượng định trước và thường có quãng nghỉ kế tiếp. Từ round cũng dùng cho hiệp đấu chính thức, thời lượng theo điều lệ.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M224",
+    "vi": "Giữ tay lên!",
+    "en": "Hands up!",
+    "def": "Lời nhắc đưa tay trở lại vùng phòng thủ, thường sau khi ra đòn hoặc lúc lùi. Đích cụ thể của tay còn tùy thế đứng và góc đòn đang tới.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "Lớp tập · Thi đấu",
+    "function": "Khẩu lệnh HLV"
+  },
+  {
+    "id": "M225",
+    "vi": "Thu cằm!",
+    "en": "Chin down!; Tuck your chin!",
+    "def": "Nhắc điều chỉnh vị trí cằm trong thế đánh. Trong tình huống bị siết, khẩu lệnh này không thay cho yêu cầu kiểm soát tay đối thủ hoặc báo dừng.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M226",
+    "vi": "Thoát khỏi hàng rào!",
+    "en": "Get off the fence!",
+    "def": "Yêu cầu rời vị trí đang bị ghim sát hàng rào. Người nghe cần tìm góc xoay hoặc khoảng tách phù hợp với cách đối thủ đang kiểm soát.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "Lớp tập · Thi đấu",
+    "function": "Khẩu lệnh HLV"
+  },
+  {
+    "id": "M227",
+    "vi": "Luồn tay trong!",
+    "en": "Pummel inside!",
+    "def": "Nhắc võ sĩ tranh lại khoảng trong bằng tay và vai, thường khi đang clinch. Nếu HLV muốn một bên cụ thể, có thể hô Left underhook!",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "Lớp tập · Thi đấu",
+    "function": "Khẩu lệnh HLV"
+  },
+  {
+    "id": "M228",
+    "vi": "Dựng người lên!",
+    "en": "Posture up!",
+    "def": "Trong guard, yêu cầu lấy lại tư thế thân trên khi bị kéo gập. Ý nghĩa khác với Stand up!, vốn thường yêu cầu trở lại trên chân.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M229",
+    "vi": "Lấy lại trụ!",
+    "en": "Get your base back!",
+    "def": "Yêu cầu tổ chức lại các điểm tựa khi đối phương đang đẩy hoặc lật. Có thể áp dụng ở cả thế đứng và địa chiến.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M230",
+    "vi": "Vượt chân!",
+    "en": "Pass the guard!",
+    "def": "Yêu cầu người trên vượt cấu trúc chân của người dưới và ổn định vị trí tiếp theo. Guard pass là tên của hành động mà HLV muốn thấy.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "Lớp tập · Thi đấu",
+    "function": "Khẩu lệnh HLV"
+  },
+  {
+    "id": "M231",
+    "vi": "Chống vật! Duỗi hông!",
+    "en": "Sprawl!",
+    "def": "Khẩu lệnh khi đối thủ lao vào chân. HLV muốn phản ứng chống vật ngay tại thời điểm đó, khác với lời nhắc tổng quát defend the takedown.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "Lớp tập · Thi đấu",
+    "function": "Khẩu lệnh HLV"
+  },
+  {
+    "id": "M232",
+    "vi": "Đánh rồi ra góc!",
+    "en": "Angle out after you punch!",
+    "def": "Yêu cầu rời đường phản công sau khi đánh thay vì đứng lại trước mặt đối thủ. Câu tiếng Anh là ví dụ khẩu lệnh sử dụng trong buổi tập.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M233",
+    "vi": "Nhả ngay!",
+    "en": "Let go!; Release!",
+    "def": "Yêu cầu buông điểm giữ hoặc đòn khóa đang áp dụng. Trong đấu tập, tín hiệu tap của bạn tập cũng đã đủ để nhả ngay.",
+    "group": "Huấn luyện dụng cụ và khẩu lệnh",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M234",
+    "vi": "Trận đấu",
+    "en": "Bout; fight",
+    "def": "Một cuộc đối kháng chính thức giữa hai võ sĩ theo điều lệ đã xác định. Fight card là danh sách gồm nhiều bout của một sự kiện.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M235",
+    "vi": "Hạng cân",
+    "en": "Weight class; weight division",
+    "def": "Nhóm thi đấu được xác định theo giới hạn cân nặng. Khi ghi con số, cần nêu hệ giải, giới tính hoặc nhóm tuổi liên quan và đơn vị kg hoặc lb.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M236",
+    "vi": "Cân chính thức",
+    "en": "Official weigh-in",
+    "def": "Thủ tục cân dùng để xác định võ sĩ đạt điều kiện cân nặng của trận. Ceremonial weigh-in là buổi cân mang tính trình diễn có thể diễn ra riêng.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "Chuẩn bị và tổ chức giải · Phân tích và truyền thông",
+    "function": "Tên người, vật dụng hoặc hoạt động"
+  },
+  {
+    "id": "M237",
+    "vi": "Trận ở mức cân thỏa thuận",
+    "en": "Catchweight bout",
+    "def": "Hai bên thi đấu theo một mức cân cụ thể được thống nhất, thường khác giới hạn chuẩn của hạng. Cần ghi rõ con số và điều kiện của chính trận đó.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M238",
+    "vi": "Không đạt cân",
+    "en": "Miss weight; miss the weight limit",
+    "def": "Võ sĩ vượt mức cân cho phép tại thủ tục cân chính thức. Việc trận có tiếp tục hay các bên phải thỏa thuận lại phụ thuộc điều lệ và quyết định tổ chức.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M239",
+    "vi": "Danh sách trận",
+    "en": "Fight card",
+    "def": "Toàn bộ hoặc một phần danh sách các cặp đấu trong sự kiện. Main card chỉ phần thi đấu chính, trong khi main event là một trận.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M240",
+    "vi": "Trận chính",
+    "en": "Main event",
+    "def": "Trận được quảng bá là tâm điểm của sự kiện, thường xếp cuối. Không phải mọi main event đều là trận tranh đai.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M241",
+    "vi": "Trận đồng chính",
+    "en": "Co-main event",
+    "def": "Trận nổi bật ngay sau main event về vai trò quảng bá, thường thi đấu ngay trước trận chính. Co-main event vẫn là một bout riêng.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M242",
+    "vi": "Góc đài",
+    "en": "Corner",
+    "def": "Khu vực và đội hỗ trợ của võ sĩ. Khi nghe his corner stopped the fight, corner chỉ đội hỗ trợ xin dừng, còn red corner có thể chỉ phía được phân cho võ sĩ.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M243",
+    "vi": "Người trợ góc",
+    "en": "Second; cornerman; cornerperson",
+    "def": "Người được phép hỗ trợ võ sĩ theo quy định của giải. Second ở đây là chức năng trong đội góc, khác second với nghĩa đơn vị giây.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M244",
+    "vi": "Trọng tài điều khiển",
+    "en": "Referee",
+    "def": "Người trực tiếp điều hành trận, ra hiệu bắt đầu, can thiệp phạm lỗi và quyết định dừng theo thẩm quyền. Trong Unified Rules, quyền chính thức dừng trận thuộc referee. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M245",
+    "vi": "Giám định chấm điểm",
+    "en": "Judge; scoring judge",
+    "def": "Người chấm từng hiệp và ghi phiếu điểm. Cần phân biệt với referee vì giám định không đứng giữa hai võ sĩ điều khiển giao đấu.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M246",
+    "vi": "Bác sĩ tại sàn đấu",
+    "en": "Ringside physician",
+    "def": "Bác sĩ làm nhiệm vụ ở khu vực thi đấu, đánh giá tình trạng võ sĩ khi được yêu cầu. Vai trò trong thủ tục dừng trận phải đọc theo quy định của giải.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M247",
+    "vi": "Bộ luật MMA thống nhất",
+    "en": "Unified Rules of Mixed Martial Arts",
+    "def": "Tên riêng của bộ quy tắc do ABC ban hành và sửa đổi. Khi viện dẫn, ghi phiên bản và giải áp dụng vì MMA nghiệp dư, trẻ hoặc một giải trong nước có thể dùng quy định khác. [01–04]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M248",
+    "vi": "Võ sĩ ở trạng thái chạm sàn",
+    "en": "Grounded fighter; grounded opponent",
+    "def": "Thuật ngữ luật xác định tình trạng đối thủ để xét tính hợp lệ của một số đòn. Bản ABC sửa năm 2024, công bố lại năm 2025, xét phần cơ thể ngoài bàn tay và bàn chân chạm sàn. Khi dùng cho giải khác phải kiểm tra định nghĩa của giải. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M249",
+    "vi": "Phạm lỗi",
+    "en": "Foul",
+    "def": "Hành vi vi phạm quy định của trận. Tên hành vi và hậu quả về điểm hoặc kết quả là hai thông tin riêng, do trọng tài xử lý theo luật.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M250",
+    "vi": "Nắm hàng rào",
+    "en": "Fence grab; grabbing the fence",
+    "def": "Dùng ngón tay hoặc ngón chân móc, giữ hàng rào để có lợi thế là hành vi được quy định trong danh mục lỗi của Unified Rules. Tì thân hoặc đẩy vào lồng cần phân biệt với móc giữ lưới. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M251",
+    "vi": "Chọc mắt",
+    "en": "Eye poke. Eye gouging",
+    "def": "Eye poke thường mô tả ngón tay chạm hoặc chọc vào mắt. Eye gouging chỉ hành vi móc, ấn vào mắt. Bình luận viên nên mô tả điều quan sát được, tránh tự kết luận ý định. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M252",
+    "vi": "Đòn vào vùng hạ bộ",
+    "en": "Groin strike",
+    "def": "Đòn trúng vùng hạ bộ, thuộc nhóm mục tiêu bị cấm trong Unified Rules. Low kick là tên vùng đá thấp nói chung và không đồng nghĩa với groin strike. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M253",
+    "vi": "Đòn sau hiệu lệnh",
+    "en": "Late hit; strike after the bell",
+    "def": "Đòn đánh sau thời điểm phải ngừng, chẳng hạn sau chuông kết thúc hiệp. Khi xem lại, cần đối chiếu tín hiệu trọng tài và thời điểm khởi phát đòn.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M254",
+    "vi": "Trừ điểm",
+    "en": "Point deduction",
+    "def": "Hình phạt làm giảm điểm võ sĩ theo quyết định trọng tài. Phân biệt tỷ số giám định chấm cho diễn biến hiệp với tỷ số sau khi áp dụng trừ điểm. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M255",
+    "vi": "Phòng thủ có chủ đích",
+    "en": "Intelligent defense",
+    "def": "Khả năng phản ứng có mục đích để bảo vệ mình khi bị tấn công. Trọng tài quan sát toàn bộ phản ứng chứ không đơn thuần đếm số đòn đang trúng. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M256",
+    "vi": "Hệ chấm 10 điểm",
+    "en": "Ten-point must system; 10-point must",
+    "def": "Giám định chấm từng hiệp, thường cho người thắng hiệp 10 và người kia số thấp hơn, trước khi trừ điểm. Có hiệp hòa khi luật và diễn biến đáp ứng điều kiện. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "Thi đấu · Chuẩn bị và tổ chức giải · Phân tích và truyền thông",
+    "function": "Thuật ngữ luật và kết quả"
+  },
+  {
+    "id": "M257",
+    "vi": "Hiệp 10–9",
+    "en": "10–9 round",
+    "def": "Phiếu cho một võ sĩ thắng hiệp với tỷ số 10–9 trước hình phạt. Không thể suy ra số cú đấm hay số pha vật chỉ từ tỷ số. [02–03]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M258",
+    "vi": "Hiệp 10–8",
+    "en": "10–8 round",
+    "def": "Điểm cho một hiệp có ưu thế tấn công lớn hơn mức 10–9 theo tiêu chí áp dụng. Theo hướng dẫn ABC năm 2025, cần xét tác động đáng kể của tấn công. Chỉ giữ vị trí áp đảo không đủ. [02–03]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M259",
+    "vi": "Đánh và vật có hiệu quả",
+    "en": "Effective striking and grappling",
+    "def": "Đánh giá kết quả thực tế mà các kỹ thuật hợp lệ tạo ra trong hiệp. Một cú vật dẫn ngay tới đòn đánh hoặc siết nguy hiểm cần được đọc cùng diễn biến tiếp theo. [03]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M260",
+    "vi": "Tác động của đòn",
+    "en": "Damage (judging)",
+    "def": "Trong hướng dẫn ABC, đây là tác động của kỹ thuật hợp lệ làm suy giảm khả năng hoặc ý chí tiếp tục tranh thắng của đối thủ. Vết thương nhìn thấy được chỉ là một loại dấu hiệu. [03]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M261",
+    "vi": "Thế áp đảo",
+    "en": "Dominance (judging)",
+    "def": "Khả năng duy trì tấn công hiệu quả khiến đối thủ phải phòng ngự kéo dài và khó phản công. Việc ở trên nhưng không tạo mối đe dọa chưa đủ để kết luận có dominance. [03]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M262",
+    "vi": "Thời lượng áp đảo hiệu quả",
+    "en": "Duration (judging)",
+    "def": "Thời gian võ sĩ thực sự áp đặt kỹ thuật hiệu quả theo tiêu chí giám định. Phân biệt với đồng hồ control time dùng trong thống kê. [03]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M263",
+    "vi": "Đánh ngã",
+    "en": "Knockdown; KD",
+    "def": "Một đòn đánh khiến đối thủ ngã xuống. Đối thủ có thể tiếp tục thi đấu, nên hình ảnh knockdown chưa đủ để ghi kết quả KO.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "Thi đấu · Phân tích và truyền thông",
+    "function": "Sự kiện trong trận"
+  },
+  {
+    "id": "M264",
+    "vi": "Hạ đo ván",
+    "en": "Knockout; KO",
+    "def": "Kết quả dừng trận khi đòn đánh khiến võ sĩ không còn khả năng tự phòng vệ theo tiêu chí áp dụng. Khi ghi hồ sơ, lấy KO hoặc TKO từ quyết định công bố. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M265",
+    "vi": "Hạ đo ván kỹ thuật",
+    "en": "Technical knockout; TKO",
+    "def": "Kết quả trận bị dừng theo một căn cứ kỹ thuật hoặc y tế, chẳng hạn trọng tài can thiệp khi võ sĩ không tự bảo vệ hiệu quả trước loạt đòn. Võ sĩ có thể vẫn tỉnh. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M266",
+    "vi": "Góc đài xin dừng",
+    "en": "Corner stoppage",
+    "def": "Đội góc báo võ sĩ không tiếp tục. Khi viết kết quả, ghi phương thức công bố như TKO và thêm corner stoppage làm lý do nếu biên bản nêu. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M267",
+    "vi": "Dừng theo đánh giá y tế",
+    "en": "Doctor stoppage; medical stoppage",
+    "def": "Trận dừng vì tình trạng của võ sĩ theo đánh giá y tế. Phân loại kết quả còn phụ thuộc nguyên nhân và luật, đặc biệt khi chấn thương xuất phát từ một lỗi. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M268",
+    "vi": "Thắng bằng khóa siết kỹ thuật",
+    "en": "Technical submission",
+    "def": "Theo ABC, đòn submission hợp lệ dẫn tới mất ý thức hoặc gãy, trật xương hay khớp. Có thể được ghi nhận dù võ sĩ chưa vỗ xin thua. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M269",
+    "vi": "Thắng điểm đồng thuận",
+    "en": "Unanimous decision; UD",
+    "def": "Cả ba giám định chấm cùng một võ sĩ thắng chung cuộc. Ba người không bắt buộc phải ghi cùng tỷ số hoặc chấm giống nhau ở mọi hiệp. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M270",
+    "vi": "Thắng điểm không đồng thuận",
+    "en": "Split decision; SD",
+    "def": "Hai giám định chấm một võ sĩ thắng và người thứ ba chấm đối thủ thắng. Dấu hiệu phân biệt với majority decision là lá phiếu còn lại chọn người kia. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M271",
+    "vi": "Thắng điểm đa số",
+    "en": "Majority decision; MD",
+    "def": "Hai giám định chấm cùng một võ sĩ thắng và người thứ ba chấm hòa. Có người thắng chính thức dù một phiếu không phân định được hai bên. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "Thi đấu · Phân tích và truyền thông",
+    "function": "Thuật ngữ luật và kết quả"
+  },
+  {
+    "id": "M272",
+    "vi": "Hòa",
+    "en": "Draw",
+    "def": "Kết quả chính thức khi các phiếu điểm dẫn đến hòa theo quy định. Unanimous draw là cả ba chấm hòa. Majority draw là hai người chấm hòa. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M273",
+    "vi": "Hòa do ba phiếu chia ba hướng",
+    "en": "Split draw",
+    "def": "Một giám định chấm võ sĩ A thắng, một người chấm B thắng và một người chấm hòa. Không bên nào có đủ phiếu để thắng chung cuộc. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M274",
+    "vi": "Phân định bằng điểm kỹ thuật",
+    "en": "Technical decision",
+    "def": "Trận dừng trước thời hạn nhưng được phân định bằng phiếu điểm khi nguyên nhân và thời lượng đã đấu thỏa mãn điều kiện của bộ luật. Phải xem lý do dừng và thời điểm, không thể suy ra từ chữ decision. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M275",
+    "vi": "Truất quyền thi đấu",
+    "en": "Disqualification; DQ",
+    "def": "Võ sĩ bị xử thua do vi phạm theo điều kiện luật giải. Cần phân biệt với no contest vì disqualification xác định bên chịu kết quả thua. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M276",
+    "vi": "Trận không xác định thắng thua",
+    "en": "No contest; NC",
+    "def": "Kết quả chính thức không ghi bên thắng hoặc thua, chẳng hạn một số trường hợp trận phải dừng sớm vì lỗi vô ý. Không dịch thành hòa điểm. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M277",
+    "vi": "Chuông hết hiệp",
+    "en": "End-of-round bell; horn",
+    "def": "Tín hiệu âm thanh báo hết thời gian hiệp. Tường thuật có thể dùng at the horn để chỉ thời điểm ngay sát tín hiệu, còn tính hợp lệ của đòn phải đối chiếu trọng tài.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M278",
+    "vi": "Không ra thi đấu hiệp sau",
+    "en": "Did not answer the bell",
+    "def": "Võ sĩ không tiếp tục khi đến giờ bắt đầu hiệp tiếp theo. Biên bản có thể ghi TKO kèm lý do này theo hệ quy tắc áp dụng. [02]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M279",
+    "vi": "Giải nghiệp dư",
+    "en": "Amateur MMA competition",
+    "def": "Thi đấu MMA theo bộ quy định dành cho nhóm nghiệp dư của tổ chức phụ trách. IMMAF phân nhóm tuổi và hạng thi đấu. Tên amateur không đủ để suy ra một kỹ thuật được phép. [04]",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M280",
+    "vi": "Trận chuyên nghiệp",
+    "en": "Professional MMA bout; pro bout",
+    "def": "Trận được tổ chức và ghi nhận theo thể thức chuyên nghiệp. Cần phân biệt hồ sơ chuyên nghiệp với thành tích nghiệp dư dù cùng một võ sĩ.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M281",
+    "vi": "Danh hiệu tạm thời",
+    "en": "Interim title",
+    "def": "Danh hiệu được tổ chức công nhận trong thời gian chưa thể giải quyết ngôi vô địch chính thức theo kế hoạch. Interim champion là nhà vô địch tạm thời theo quy định riêng của tổ chức.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M282",
+    "vi": "Tranh đai thống nhất",
+    "en": "Title unification bout",
+    "def": "Trận nhằm hợp nhất các danh hiệu đang được công nhận riêng, thường gặp khi nhà vô địch chính thức gặp nhà vô địch tạm thời. Không phải mọi trận tranh đai đều là unification bout.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M283",
+    "vi": "Đổi đối thủ sát ngày",
+    "en": "Short-notice replacement",
+    "def": "Võ sĩ thay thế nhận trận với thời gian chuẩn bị ngắn so với lịch thông thường. Cụm short notice tự nó không cho biết chính xác còn bao nhiêu ngày.",
+    "group": "Tổ chức trận đấu luật và kết quả",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M284",
+    "vi": "Đòn đã tung",
+    "en": "Strikes attempted; attempts",
+    "def": "Số lần ra đòn mà hệ thống thống kê ghi nhận. Bao gồm cả đòn trúng và đòn không trúng, trong đúng nhóm đòn đang xét.",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M285",
+    "vi": "Đòn trúng",
+    "en": "Strikes landed",
+    "def": "Số đòn được ghi nhận đã trúng mục tiêu. Khi so sánh hai võ sĩ, cần phân biệt total strikes landed với significant strikes landed.",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M286",
+    "vi": "Đòn đáng kể theo thống kê",
+    "en": "Significant strikes; sig. strikes",
+    "def": "Theo UFC, nhóm này gồm đòn ở cự ly đánh từ xa và các đòn có lực trong clinch hoặc trên sàn. Đây là quy ước thống kê chứ không phải số điểm của giám định. [10–11]",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "Phân tích và truyền thông",
+    "function": "Chỉ số thống kê"
+  },
+  {
+    "id": "M287",
+    "vi": "Tỷ lệ đòn trúng",
+    "en": "Striking accuracy",
+    "def": "Số đòn trúng chia cho số đòn tung trong cùng nhóm. Nếu bảng ghi significant strike accuracy thì cả tử số lẫn mẫu số chỉ tính nhóm significant strikes.",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M288",
+    "vi": "Tỷ lệ vật thành công",
+    "en": "Takedown accuracy; TD accuracy",
+    "def": "Tỷ lệ pha vật thành công trong tổng số lần vào vật được hệ thống ghi nhận. Ví dụ, thành công 2 trong 5 lần tương ứng 40 phần trăm.",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M289",
+    "vi": "Thời gian kiểm soát",
+    "en": "Control time; CTRL",
+    "def": "Tổng thời gian được đơn vị thống kê gán cho võ sĩ kiểm soát đối thủ ở các vị trí họ theo dõi. Không tự quy đổi số phút này thành điểm thắng hiệp. [03, 10]",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M290",
+    "vi": "Nỗ lực khóa siết",
+    "en": "Submission attempt; SUB ATT",
+    "def": "Pha tấn công bằng khóa hoặc siết được hệ thống ghi nhận là một lần thử. Có SUB ATT không đồng nghĩa với chiến thắng bằng submission.",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M291",
+    "vi": "Thành tích thi đấu",
+    "en": "Fight record; W–L–D",
+    "def": "Số thắng, thua và hòa trong hồ sơ võ sĩ. Nếu có NC hoặc cả thành tích chuyên nghiệp lẫn nghiệp dư, nên ghi riêng để tránh cộng nhầm.",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M292",
+    "vi": "Kết thúc trước thời hạn",
+    "en": "Finish; stoppage win",
+    "def": "Trận kết thúc với người thắng trước khi phải dùng cách chấm điểm thông thường, thường qua KO, TKO hoặc submission. Viết bản tin nên nêu phương thức cụ thể ngay khi được công bố.",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M293",
+    "vi": "So găng đủ thời gian",
+    "en": "Go the distance",
+    "def": "Hai võ sĩ đấu đến hết thời gian quy định. Cụm này mô tả độ dài trận chứ chưa cho biết ai thắng hoặc có hòa hay không.",
+    "group": "Thống kê và ngôn ngữ tường thuật",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M294",
+    "vi": "Hạng ruồi",
+    "en": "Flyweight",
+    "def": "Tên một hạng cân thường gặp trong MMA. Dịch tên hạng riêng với giới hạn số cân, vì giới hạn áp dụng cần đối chiếu hệ giải.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M295",
+    "vi": "Hạng gà",
+    "en": "Bantamweight",
+    "def": "Tên hạng thường nằm giữa flyweight và featherweight trong hệ dùng ba hạng này. Khi bình luận lần đầu có thể đọc cả tên Việt và tên Anh.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M296",
+    "vi": "Hạng lông",
+    "en": "Featherweight",
+    "def": "Hạng thường xếp trên bantamweight và dưới lightweight. Featherweight title bout là trận tranh đai của riêng hạng này.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M297",
+    "vi": "Hạng nhẹ",
+    "en": "Lightweight",
+    "def": "Tên một hạng cân cụ thể. Trong lời nói thông thường light có thể chỉ nhóm võ sĩ nhẹ cân, còn lightweight trên fight card xác định hạng đấu.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M298",
+    "vi": "Hạng bán trung",
+    "en": "Welterweight",
+    "def": "Tên hạng thường xếp trên lightweight và dưới middleweight. Không suy giới hạn cân của MMA từ một môn khác chỉ vì cùng tên tiếng Anh.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M299",
+    "vi": "Hạng trung",
+    "en": "Middleweight",
+    "def": "Tên hạng nằm giữa welterweight và light heavyweight trong hệ có đủ các hạng này. Moving up to middleweight nghĩa là chuyển lên thi đấu hạng trung.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M300",
+    "vi": "Hạng bán nặng",
+    "en": "Light heavyweight",
+    "def": "Tên hạng nằm dưới heavyweight và trên middleweight trong cấu trúc quen thuộc. Light heavyweight là nguyên cụm và chỉ một hạng riêng.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M301",
+    "vi": "Hạng nặng",
+    "en": "Heavyweight",
+    "def": "Tên hạng đấu cho nhóm võ sĩ nặng hơn light heavyweight. Quy định về giới hạn trên và điều kiện dự giải cần đọc theo tổ chức.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M302",
+    "vi": "Hạng rơm",
+    "en": "Strawweight",
+    "def": "Tên hạng thường xếp dưới flyweight. Tên hạng không tự xác định tổ chức có mở hạng cho nam, nữ hoặc nhóm tuổi đó hay không.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M303",
+    "vi": "Nhà vô địch đương nhiệm",
+    "en": "Reigning champion. Defending champion",
+    "def": "Reigning champion là người đang giữ danh hiệu. Defending champion nhấn mạnh vai trò đương kim vô địch khi bước vào một cuộc bảo vệ đai. Hai cách gọi có thể cùng chỉ một người.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M304",
+    "vi": "Người thách đấu tranh đai",
+    "en": "Title challenger",
+    "def": "Người tranh danh hiệu với nhà vô địch hoặc theo phương thức giải xác định. Contender rộng hơn, dùng cho người đang trong nhóm cạnh tranh cơ hội tranh đai.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M305",
+    "vi": "Bảo vệ đai",
+    "en": "Title defense; title defence",
+    "def": "Trận hoặc lần nhà vô địch thi đấu để duy trì danh hiệu. Successful title defense chỉ một lần bảo vệ thành công, khác với tất cả số trận võ sĩ đã thi đấu khi giữ đai.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M306",
+    "vi": "Thẻ điểm",
+    "en": "Scorecard",
+    "def": "Phiếu ghi điểm theo hiệp của một giám định. Ba phiếu có thể cho cùng người thắng nhưng khác cách phân định từng hiệp.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M307",
+    "vi": "Đòn đáng kể trúng mỗi phút",
+    "en": "Significant strikes landed per minute; SLpM",
+    "def": "Tổng đòn đáng kể trúng chia cho thời gian giao đấu tính bằng phút trong mẫu thống kê. Đây là mức trung bình, không phải số đòn chắc chắn sẽ trúng ở phút tiếp theo. [11]",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M308",
+    "vi": "Đòn đáng kể phải nhận mỗi phút",
+    "en": "Significant strikes absorbed per minute; SApM",
+    "def": "Tổng số đòn đáng kể đối thủ đánh trúng võ sĩ chia cho số phút giao đấu trong mẫu. Khi so với SLpM, cần dùng dữ liệu cùng nguồn và cùng phạm vi. [11]",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M309",
+    "vi": "Tập huấn trước trận",
+    "en": "Fight camp; training camp",
+    "def": "Giai đoạn chuẩn bị cho một trận với kế hoạch chuyên môn và đối thủ dự kiến. Camp cũng có thể chỉ đội hoặc địa điểm huấn luyện tùy câu.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M310",
+    "vi": "Giảm khối lượng tập sát trận",
+    "en": "Taper; tapering",
+    "def": "Điều chỉnh giảm khối lượng tập trước ngày thi đấu nhằm giúp võ sĩ hồi phục và giữ độ sắc bén. Đây là thuật ngữ về tải tập, khác weight cut là điều chỉnh cân trước khi cân chính thức.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  },
+  {
+    "id": "M311",
+    "vi": "Điều chỉnh cân trước buổi cân",
+    "en": "Weight cut; cutting weight",
+    "def": "Cụm dùng cho quá trình võ sĩ giảm cân để đạt giới hạn hạng đấu, thường nhấn vào giai đoạn sát buổi cân. Không dùng số cân lúc cân chính thức để suy ra chính xác cân nặng khi vào trận.",
+    "group": "Hạng cân và hồ sơ võ sĩ",
+    "context": "",
+    "function": ""
+  }
+]
