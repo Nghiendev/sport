@@ -1,12 +1,48 @@
-import { useDeferredValue, useMemo, useState } from "react";
+import { useDeferredValue, useMemo, useState, type ReactNode } from "react";
 import termsData from "./data/terms.json";
 import sourcesData from "./data/sources.json";
 import type { Source, Term } from "./types";
+import {
+  GroupIcon,
+  IconBook,
+  IconChart,
+  IconDumbbell,
+  IconHome,
+  IconInfo,
+  IconLayers,
+  IconLink,
+  IconPlay,
+} from "./components/Icons";
 
 const terms = termsData as Term[];
 const sources = sourcesData as Source[];
 
-type View = "home" | "glossary" | "sources";
+type View =
+  | "home"
+  | "glossary"
+  | "themes"
+  | "method"
+  | "video"
+  | "drills"
+  | "sources"
+  | "about";
+
+type NavItem = {
+  id: View;
+  label: string;
+  icon: ReactNode;
+};
+
+const NAV: NavItem[] = [
+  { id: "home", label: "Tổng quan", icon: <IconHome size={16} /> },
+  { id: "glossary", label: "Từ điển", icon: <IconBook size={16} /> },
+  { id: "themes", label: "Nhóm chủ đề", icon: <IconLayers size={16} /> },
+  { id: "method", label: "Phương pháp", icon: <IconChart size={16} /> },
+  { id: "video", label: "Video ví dụ", icon: <IconPlay size={16} /> },
+  { id: "drills", label: "Luyện tập", icon: <IconDumbbell size={16} /> },
+  { id: "sources", label: "Nguồn", icon: <IconLink size={16} /> },
+  { id: "about", label: "Về dự án", icon: <IconInfo size={16} /> },
+];
 
 const GROUP_BLURBS: Record<string, string> = {
   "Không gian giao đấu và chiến thuật": "Range, timing, pressure và cách đọc pha.",
@@ -23,6 +59,70 @@ const GROUP_BLURBS: Record<string, string> = {
   "Thống kê và ngôn ngữ tường thuật": "Significant strikes, control time.",
   "Hạng cân và hồ sơ võ sĩ": "Weight classes, reach, record.",
 };
+
+const PLACEHOLDERS: Partial<
+  Record<View, { title: string; lead: string; bullets: string[] }>
+> = {
+  method: {
+    title: "Phương pháp phân tích",
+    lead: "Khung cách đọc trận MMA bằng ngôn ngữ chung — nội dung chi tiết sẽ bổ sung sau.",
+    bullets: [
+      "Đọc pha theo striking → clinch → takedown → ground",
+      "Phân biệt hành động trên bóng / ngoài bóng (áp lực, góc, nhịp)",
+      "Checklist quan sát cho HLV, VĐV và bình luận viên",
+      "Ma trận thuật ngữ theo cấp độ (cơ bản → nâng cao)",
+    ],
+  },
+  video: {
+    title: "Video ví dụ",
+    lead: "Mỗi khái niệm sẽ gắn clip minh họa ngắn — giống FIFA gắn video cho từng action.",
+    bullets: [
+      "Playlist theo nhóm: jab, underhook, guard pass…",
+      "Cặp video: đúng kỹ thuật vs lỗi phổ biến",
+      "Slow-motion + chú thích thuật ngữ Việt–Anh",
+      "Nhúng YouTube / clip tự quay trên thảm",
+    ],
+  },
+  drills: {
+    title: "Luyện tập & bài tập ngôn ngữ",
+    lead: "Bài tập giúp nhớ và dùng đúng thuật ngữ khi tập / phân tích.",
+    bullets: [
+      "Quiz flashcard Việt ↔ Anh",
+      "Nhận diện pha trên video → chọn đúng mục từ",
+      "Bài viết corner instruction 30 giây",
+      "Checklist warm-up vocab theo buổi tập",
+    ],
+  },
+  about: {
+    title: "Về dự án MMA Language",
+    lead: "Bộ từ vựng vận hành mở để học và phân tích võ thuật tổng hợp.",
+    bullets: [
+      "Nguồn: spreadsheet biên tập công khai Việt–Anh",
+      "Mục tiêu: thống nhất cách gọi giữa HLV, VĐV, truyền thông",
+      "Roadmap: video, drill, sâu hơn theo bộ môn (Muay, Wrestling, BJJ)",
+      "Góp ý thuật ngữ: dùng sheet đề xuất biên tập",
+    ],
+  },
+};
+
+function ComingSoon({ view }: { view: View }) {
+  const data = PLACEHOLDERS[view];
+  if (!data) return null;
+  return (
+    <section className="section">
+      <div className="coming-soon">
+        <div className="coming-badge">Đang dựng · nội dung sẽ vá sau</div>
+        <h2>{data.title}</h2>
+        <p className="section-lead">{data.lead}</p>
+        <ul className="coming-list">
+          {data.bullets.map((b) => (
+            <li key={b}>{b}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  );
+}
 
 export default function App() {
   const [view, setView] = useState<View>("home");
@@ -69,48 +169,54 @@ export default function App() {
         <button type="button" className="logo" onClick={() => setView("home")}>
           MMA <span>Language</span>
         </button>
-        <nav className="nav">
-          <button
-            type="button"
-            className={view === "home" ? "active" : ""}
-            onClick={() => setView("home")}
-          >
-            Tổng quan
-          </button>
-          <button
-            type="button"
-            className={view === "glossary" ? "active" : ""}
-            onClick={() => setView("glossary")}
-          >
-            Từ điển
-          </button>
-          <button
-            type="button"
-            className={view === "sources" ? "active" : ""}
-            onClick={() => setView("sources")}
-          >
-            Nguồn
-          </button>
+        <nav className="nav" aria-label="Menu chính">
+          {NAV.map((item) => (
+            <button
+              key={item.id}
+              type="button"
+              className={view === item.id ? "active" : ""}
+              onClick={() => setView(item.id)}
+            >
+              <span className="nav-ico">{item.icon}</span>
+              {item.label}
+            </button>
+          ))}
         </nav>
       </header>
 
       {view === "home" ? (
         <>
           <section className="hero">
-            <div className="eyebrow">Open glossary · Việt / Anh</div>
-            <h1>Ngôn ngữ MMA</h1>
-            <p>
-              Bộ khung thuật ngữ võ thuật tổng hợp — định nghĩa thao tác, vị trí, luật và
-              ngôn ngữ phân tích, theo tinh thần FIFA Football Language: một “ngôn ngữ
-              chung” để học, dạy và bình luận trận đấu.
-            </p>
-            <div className="hero-cta">
-              <button type="button" className="btn btn-primary" onClick={() => setView("glossary")}>
-                Mở từ điển
-              </button>
-              <button type="button" className="btn" onClick={() => setView("sources")}>
-                Xem nguồn tham khảo
-              </button>
+            <div className="hero-copy">
+              <div className="eyebrow">Open glossary · Việt / Anh</div>
+              <h1>Ngôn ngữ MMA</h1>
+              <p>
+                Bộ khung thuật ngữ võ thuật tổng hợp — định nghĩa thao tác, vị trí, luật và
+                ngôn ngữ phân tích, theo tinh thần FIFA Football Language.
+              </p>
+              <div className="hero-cta">
+                <button
+                  type="button"
+                  className="btn btn-primary"
+                  onClick={() => setView("glossary")}
+                >
+                  <IconBook size={18} /> Mở từ điển
+                </button>
+                <button type="button" className="btn" onClick={() => setView("themes")}>
+                  <IconLayers size={18} /> Xem nhóm chủ đề
+                </button>
+              </div>
+            </div>
+            <div className="hero-visual" aria-hidden>
+              <div className="hero-orb">
+                <GroupIcon group="Đòn tay và phòng thủ đánh đứng" size={42} />
+              </div>
+              <div className="hero-orb delay">
+                <GroupIcon group="Vị trí địa chiến và hệ guard" size={36} />
+              </div>
+              <div className="hero-orb delay2">
+                <GroupIcon group="Áp sát tranh tay và vật lồng" size={34} />
+              </div>
             </div>
           </section>
 
@@ -128,12 +234,15 @@ export default function App() {
                 <strong>{sources.length}</strong>
                 <span>nguồn đối chiếu</span>
               </div>
+              <div className="stat">
+                <strong>4</strong>
+                <span>mục đang dựng</span>
+              </div>
             </div>
 
             <h2>Khám phá theo nhóm</h2>
             <p className="section-lead">
-              Chọn một lĩnh vực để xem các định nghĩa vận hành — giống cách FIFA chia
-              Football Language theo tình huống trên sân.
+              Mỗi thẻ là một “chương” ngôn ngữ — chọn để vào từ điển đã lọc sẵn.
             </p>
             <div className="category-grid">
               {groups.map(([name, count]) => (
@@ -143,6 +252,9 @@ export default function App() {
                   className="category-card"
                   onClick={() => openGroup(name)}
                 >
+                  <span className="cat-icon">
+                    <GroupIcon group={name} />
+                  </span>
                   <span className="count">{count} mục</span>
                   <h3>{name}</h3>
                   <p>{GROUP_BLURBS[name] ?? "Thuật ngữ chuyên môn MMA."}</p>
@@ -151,6 +263,33 @@ export default function App() {
             </div>
           </section>
         </>
+      ) : null}
+
+      {view === "themes" ? (
+        <section className="section">
+          <h2>Nhóm chủ đề</h2>
+          <p className="section-lead">
+            Bản đồ các miền ngôn ngữ. Sau này có thể thêm trang giới thiệu riêng cho từng
+            nhóm (minh họa, sơ đồ, video).
+          </p>
+          <div className="category-grid">
+            {groups.map(([name, count]) => (
+              <button
+                key={name}
+                type="button"
+                className="category-card"
+                onClick={() => openGroup(name)}
+              >
+                <span className="cat-icon">
+                  <GroupIcon group={name} />
+                </span>
+                <span className="count">{count} mục</span>
+                <h3>{name}</h3>
+                <p>{GROUP_BLURBS[name] ?? "Thuật ngữ chuyên môn MMA."}</p>
+              </button>
+            ))}
+          </div>
+        </section>
       ) : null}
 
       {view === "glossary" ? (
@@ -190,8 +329,13 @@ export default function App() {
                   className={`term-row${selectedId === t.id ? " active" : ""}`}
                   onClick={() => setSelectedId(t.id)}
                 >
-                  <span className="id">{t.id}</span>
-                  <span className="vi">{t.vi}</span>
+                  <span className="term-row-top">
+                    <span className="term-mini-ico">
+                      <GroupIcon group={t.group} size={18} />
+                    </span>
+                    <span className="id">{t.id}</span>
+                    <span className="vi">{t.vi}</span>
+                  </span>
                   <span className="en">{t.en}</span>
                 </button>
               ))}
@@ -202,6 +346,9 @@ export default function App() {
 
             {selected ? (
               <aside className="detail">
+                <div className="detail-icon">
+                  <GroupIcon group={selected.group} size={32} />
+                </div>
                 <div className="code">{selected.id}</div>
                 <h2>{selected.vi}</h2>
                 <p className="en-title">{selected.en}</p>
@@ -240,6 +387,10 @@ export default function App() {
         </section>
       ) : null}
 
+      {view === "method" || view === "video" || view === "drills" || view === "about" ? (
+        <ComingSoon view={view} />
+      ) : null}
+
       {view === "sources" ? (
         <section className="section">
           <h2>Nguồn tham khảo</h2>
@@ -265,7 +416,7 @@ export default function App() {
       ) : null}
 
       <footer className="footer">
-        MMA Language · {terms.length} mục · dữ liệu biên tập từ spreadsheet công khai
+        Nguồn: Đinh Quốc Dũng — MMA Hà Đông
       </footer>
     </div>
   );
