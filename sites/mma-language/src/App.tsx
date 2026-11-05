@@ -75,7 +75,7 @@ const PLACEHOLDERS: Partial<
   },
   video: {
     title: "Video ví dụ",
-    lead: "Mỗi khái niệm sẽ gắn clip minh họa ngắn — giống FIFA gắn video cho từng action.",
+    lead: "Mỗi khái niệm sẽ gắn clip minh họa ngắn để làm rõ định nghĩa vận hành.",
     bullets: [
       "Playlist theo nhóm: jab, underhook, guard pass…",
       "Cặp video: đúng kỹ thuật vs lỗi phổ biến",
@@ -192,7 +192,7 @@ export default function App() {
               <h1>Ngôn ngữ MMA</h1>
               <p>
                 Bộ khung thuật ngữ võ thuật tổng hợp — định nghĩa thao tác, vị trí, luật và
-                ngôn ngữ phân tích, theo tinh thần FIFA Football Language.
+                ngôn ngữ phân tích trận đấu.
               </p>
               <div className="hero-cta">
                 <button
