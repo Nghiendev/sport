@@ -1,7 +1,9 @@
 import { useDeferredValue, useMemo, useState, type ReactNode } from "react";
 import termsData from "./data/terms.json";
 import sourcesData from "./data/sources.json";
-import type { Source, Term } from "./types";
+import proposalsData from "./data/proposals.json";
+import notesData from "./data/notes.json";
+import type { MatNote, Proposal, Source, Term } from "./types";
 import {
   GroupIcon,
   IconBook,
@@ -12,15 +14,20 @@ import {
   IconLayers,
   IconLink,
   IconPlay,
+  IconSearch,
 } from "./components/Icons";
 
 const terms = termsData as Term[];
 const sources = sourcesData as Source[];
+const proposals = proposalsData as Proposal[];
+const notes = notesData as MatNote[];
 
 type View =
   | "home"
   | "glossary"
   | "themes"
+  | "proposals"
+  | "notes"
   | "method"
   | "video"
   | "drills"
@@ -37,9 +44,10 @@ const NAV: NavItem[] = [
   { id: "home", label: "Tổng quan", icon: <IconHome size={16} /> },
   { id: "glossary", label: "Từ điển", icon: <IconBook size={16} /> },
   { id: "themes", label: "Nhóm chủ đề", icon: <IconLayers size={16} /> },
+  { id: "proposals", label: "Đề xuất", icon: <IconSearch size={16} /> },
+  { id: "notes", label: "Ghi chép thảm", icon: <IconDumbbell size={16} /> },
   { id: "method", label: "Phương pháp", icon: <IconChart size={16} /> },
   { id: "video", label: "Video ví dụ", icon: <IconPlay size={16} /> },
-  { id: "drills", label: "Luyện tập", icon: <IconDumbbell size={16} /> },
   { id: "sources", label: "Nguồn", icon: <IconLink size={16} /> },
   { id: "about", label: "Về dự án", icon: <IconInfo size={16} /> },
 ];
@@ -97,10 +105,10 @@ const PLACEHOLDERS: Partial<
     title: "Về dự án MMA Language",
     lead: "Bộ từ vựng vận hành mở để học và phân tích võ thuật tổng hợp.",
     bullets: [
-      "Nguồn: spreadsheet biên tập công khai Việt–Anh",
+      "Nguồn biên tập: Đinh Quốc Dũng — MMA Hà Đông",
       "Mục tiêu: thống nhất cách gọi giữa HLV, VĐV, truyền thông",
-      "Roadmap: video, drill, sâu hơn theo bộ môn (Muay, Wrestling, BJJ)",
-      "Góp ý thuật ngữ: dùng sheet đề xuất biên tập",
+      "Từ điển chính + đề xuất chờ duyệt + ghi chép trên thảm",
+      "Roadmap: video, drill, sâu hơn theo bộ môn",
     ],
   },
 };
@@ -129,7 +137,10 @@ export default function App() {
   const [group, setGroup] = useState<string>("Tất cả");
   const [query, setQuery] = useState("");
   const [selectedId, setSelectedId] = useState<string | null>(terms[0]?.id ?? null);
+  const [discipline, setDiscipline] = useState("Tất cả");
+  const [proposalQuery, setProposalQuery] = useState("");
   const deferredQuery = useDeferredValue(query);
+  const deferredProposalQuery = useDeferredValue(proposalQuery);
 
   const groups = useMemo(() => {
     const map = new Map<string, number>();
@@ -138,6 +149,12 @@ export default function App() {
       map.set(g, (map.get(g) ?? 0) + 1);
     }
     return [...map.entries()];
+  }, []);
+
+  const disciplines = useMemo(() => {
+    const set = new Set<string>();
+    for (const p of proposals) if (p.discipline) set.add(p.discipline);
+    return [...set].sort((a, b) => a.localeCompare(b, "vi"));
   }, []);
 
   const filtered = useMemo(() => {
@@ -153,6 +170,18 @@ export default function App() {
       );
     });
   }, [deferredQuery, group]);
+
+  const filteredProposals = useMemo(() => {
+    const q = deferredProposalQuery.trim().toLowerCase();
+    return proposals.filter((p) => {
+      if (discipline !== "Tất cả" && p.discipline !== discipline) return false;
+      if (!q) return true;
+      return [p.vi, p.en, p.original, p.proposed, p.discipline, p.relatedId]
+        .join(" ")
+        .toLowerCase()
+        .includes(q);
+    });
+  }, [deferredProposalQuery, discipline]);
 
   const selected = terms.find((t) => t.id === selectedId) ?? null;
 
@@ -202,8 +231,8 @@ export default function App() {
                 >
                   <IconBook size={18} /> Mở từ điển
                 </button>
-                <button type="button" className="btn" onClick={() => setView("themes")}>
-                  <IconLayers size={18} /> Xem nhóm chủ đề
+                <button type="button" className="btn" onClick={() => setView("proposals")}>
+                  <IconSearch size={18} /> Xem đề xuất mới
                 </button>
               </div>
             </div>
@@ -224,19 +253,19 @@ export default function App() {
             <div className="stats">
               <div className="stat">
                 <strong>{terms.length}</strong>
-                <span>mục từ</span>
+                <span>mục từ đã biên</span>
               </div>
               <div className="stat">
-                <strong>{groups.length}</strong>
-                <span>nhóm chuyên môn</span>
+                <strong>{proposals.length}</strong>
+                <span>đề xuất chờ duyệt</span>
+              </div>
+              <div className="stat">
+                <strong>{notes.length}</strong>
+                <span>ghi chép thảm</span>
               </div>
               <div className="stat">
                 <strong>{sources.length}</strong>
                 <span>nguồn đối chiếu</span>
-              </div>
-              <div className="stat">
-                <strong>4</strong>
-                <span>mục đang dựng</span>
               </div>
             </div>
 
@@ -269,8 +298,7 @@ export default function App() {
         <section className="section">
           <h2>Nhóm chủ đề</h2>
           <p className="section-lead">
-            Bản đồ các miền ngôn ngữ. Sau này có thể thêm trang giới thiệu riêng cho từng
-            nhóm (minh họa, sơ đồ, video).
+            Bản đồ các miền ngôn ngữ trong từ điển đã biên tập.
           </p>
           <div className="category-grid">
             {groups.map(([name, count]) => (
@@ -383,6 +411,88 @@ export default function App() {
                 <p>Chọn một mục từ danh sách để xem định nghĩa.</p>
               </aside>
             )}
+          </div>
+        </section>
+      ) : null}
+
+      {view === "proposals" ? (
+        <section className="section">
+          <h2>Đề xuất biên tập</h2>
+          <p className="section-lead">
+            {proposals.length} mục đang <strong>chờ duyệt</strong> — bổ sung theo bộ môn (Muay,
+            Boxing, BJJ, Wrestling…). Chưa nhập vào từ điển chính.
+          </p>
+          <div className="toolbar">
+            <input
+              className="search"
+              value={proposalQuery}
+              onChange={(e) => setProposalQuery(e.target.value)}
+              placeholder="Tìm kru, liver shot, double leg…"
+            />
+            <select
+              className="select"
+              value={discipline}
+              onChange={(e) => setDiscipline(e.target.value)}
+            >
+              <option value="Tất cả">Tất cả bộ môn</option>
+              {disciplines.map((d) => (
+                <option key={d} value={d}>
+                  {d}
+                </option>
+              ))}
+            </select>
+          </div>
+          <div className="proposal-grid">
+            {filteredProposals.map((p, idx) => (
+              <article key={`${p.original}-${p.vi}-${idx}`} className="proposal-card">
+                <div className="proposal-top">
+                  <span className="status-pill">{p.status || "Chờ duyệt"}</span>
+                  {p.discipline ? <span className="discipline-pill">{p.discipline}</span> : null}
+                  {p.relatedId ? <span className="related-pill">{p.relatedId}</span> : null}
+                </div>
+                <h3>{p.vi || p.original || "Đề xuất chưa đặt tên Việt"}</h3>
+                <p className="en-line">{p.en || p.original}</p>
+                {p.proposed ? <p>{p.proposed}</p> : null}
+                {p.current ? (
+                  <p className="current-line">
+                    <strong>Hiện tại:</strong> {p.current}
+                  </p>
+                ) : null}
+                {p.source ? (
+                  <a href={p.source} target="_blank" rel="noreferrer">
+                    Nguồn / lý do
+                  </a>
+                ) : null}
+              </article>
+            ))}
+            {filteredProposals.length === 0 ? (
+              <p className="section-lead">Không có đề xuất khớp bộ lọc.</p>
+            ) : null}
+          </div>
+        </section>
+      ) : null}
+
+      {view === "notes" ? (
+        <section className="section">
+          <h2>Ghi chép trên thảm</h2>
+          <p className="section-lead">
+            Từ hoặc câu nghe được khi tập — dùng để bổ sung từ điển sau khi biên tập.
+          </p>
+          <div className="notes-grid">
+            {notes.map((n, idx) => (
+              <article key={`${n.heard}-${idx}`} className="note-card">
+                <h3>{n.heard}</h3>
+                {n.situation ? <p>{n.situation}</p> : null}
+                <div className="note-meta">
+                  {n.date ? <span>{n.date}</span> : null}
+                  {n.link ? (
+                    <a href={n.link} target="_blank" rel="noreferrer">
+                      Xem clip
+                    </a>
+                  ) : null}
+                </div>
+              </article>
+            ))}
           </div>
         </section>
       ) : null}
